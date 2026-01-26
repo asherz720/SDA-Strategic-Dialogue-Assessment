@@ -1,8 +1,8 @@
-# Strategic Discourse Assessment: the Crooked Path to Innocence
+# Strategic Dialogue Assessment: the Crooked Path to Innocence
 
 This repository accompanies our paper:
 
-**SDA** (*S*trategic-*D*iscourse *A*ssessment):  
+**SDA** (*S*trategic-*D*ialogue *A*ssessment):  
 **the Crooked Path to Innocence**
 ![Alt text](figure/fig.png)
 ---
