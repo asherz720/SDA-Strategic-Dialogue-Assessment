@@ -70,9 +70,12 @@ To evaluate new models:
 
 ## 📄 Citation
 ```bibtex
-@inproceedings{Zheng2025CoBRAQS,
-  title={CoBRA: Quantifying Strategic Language Use and LLM Pragmatics},
-  author={Anshun Asher Zheng and Junyi Jessy Li and David Beaver},
-  year={2025},
-  url={https://api.semanticscholar.org/CorpusID:279075820}
+@article{zheng2026strategic,
+  title={Strategic Dialogue Assessment: The Crooked Path to Innocence},
+  author={Zheng, Anshun Asher and Li, Junyi Jessy and Beaver, David I.},
+  journal={Dialogue \& Discourse},
+  volume={17},
+  number={1},
+  pages={1--53},
+  year={2026}
 }
