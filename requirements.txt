@@ -1,0 +1,10 @@
+# Core: validation, scoring, correlation
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+
+# Optional: only needed for the reference vLLM inference example (sda/inference.py)
+openai
+tqdm
