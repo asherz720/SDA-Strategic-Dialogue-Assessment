@@ -1,0 +1,336 @@
+type,question,answer,source,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,"Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?",I knew there - nobody had to have the other evidence. I knew it myself.,enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+","```json
+{
+    ""belief"": ""The witness admitted awareness of incriminating evidence, which supports the defense's argument. While the response is somewhat relevant, it lacks clarity."",
+    ""Commitment_value"": ""1"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}
+```","The witness admitted awareness of incriminating evidence, which supports the defense's argument. While the response is somewhat relevant, it lacks clarity.",1,1,0,2,3,Questioner,1,0,1,0,-1.0,0.4,1.0,0.4,1.0,-1.7679100627874382,-1.87879345735562,-0.0304064736701798,0.1108833945681819
+Q/A,"Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?","I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-",enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+","```json
+{
+    ""belief"": ""The witness's response lacks clarity and relevance, while also being inconsistent with previous testimony. This undermines the defense's position, making the questioner more convincing in the current turn."",
+    ""Commitment_value"": ""1"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""1"",
+    ""relevance_rate"": ""3"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""3""
+}
+```","The witness's response lacks clarity and relevance, while also being inconsistent with previous testimony. This undermines the defense's position, making the questioner more convincing in the current turn.",1,1,1,3,3,Questioner,3,1,1,0,-1.0,0.8,1.24,1.2000000000000002,2.24,-1.370017260932465,-0.9764433602313012,0.1677308782220109,-0.3935739007011637
+Q/A,-cited there.,"They're cited here, yes. I wished that was all I did.",enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+","```json
+{
+    ""belief"": ""The questioner maintained control by eliciting a response that highlighted the lack of substantial evidence provided by the witness, thereby keeping the advantage with the questioner."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""2""
+}
+```","The questioner maintained control by eliciting a response that highlighted the lack of substantial evidence provided by the witness, thereby keeping the advantage with the questioner.",2,1,0,2,3,Questioner,2,0,1,0,-1.0,1.0,0.4,2.2,2.64,-0.8726512586137484,-0.6853626837395855,0.1202098195548038,-0.1872885748741628
+Q/A,"So, back to my question, then. You're still in the mode of protecting yourself, aren't you?","I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.",enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+","```json
+{
+    ""belief"": ""The witness denies protecting themselves in the last three days, which benefits their position by countering the defense's implication. The response is clear, consistent with previous testimony, and directly relevant to the question, resulting in the witness gaining the current turn."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}
+```","The witness denies protecting themselves in the last three days, which benefits their position by countering the defense's implication. The response is clear, consistent with previous testimony, and directly relevant to the question, resulting in the witness gaining the current turn.",2,1,0,1,2,Witness,1,0,0,0,-0.5,1.0,0.0,3.2,2.64,-0.3752852562950317,-0.6853626837395855,-0.2923471735912989,0.3100774274445538
+Q/A,"What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?","The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.",enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.
+
+DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
+","```json
+{
+    ""belief"": ""The defense is currently more convincing as the witness's responses are evasive and lack clarity, failing to provide substantial answers to the defense's questions."",
+    ""Commitment_value"": 3,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 3,
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}
+```","The defense is currently more convincing as the witness's responses are evasive and lack clarity, failing to provide substantial answers to the defense's questions.",3,1,0,1,3,Questioner,1,0,1,0,-0.6,0.5,0.2,3.7,2.8400000000000003,-0.1266022551356734,-0.5398223454937275,-0.620055277022773,0.413220090358054
+Q/A,Might it also include how helpful you were to the cause of the Government?,No.,enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.
+
+DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
+P_WITNESS: The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.
+
+DEFENSE: Might it also include how helpful you were to the cause of the Government?
+","```json
+{
+    ""belief"": ""The witness's concise 'No' response clearly addressed the defense attorney's question, supporting the questioner's case by denying that their assistance to the government was evaluated. This clarity and directness benefited the questioner by reinforcing the prosecution's position."",
+    ""Commitment_value"": ""1"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}
+```","The witness's concise 'No' response clearly addressed the defense attorney's question, supporting the questioner's case by denying that their assistance to the government was evaluated. This clarity and directness benefited the questioner by reinforcing the prosecution's position.",1,1,0,1,1,Questioner,1,0,0,0,-0.6666666666666666,0.0,1.0,3.7,3.84,-0.1266022551356734,0.1878793457355617,-5.132123568409247,-0.3144816008712352
+Q/A,Are you sure of that?,"I'm sure of that, because I don't know that I will, by all means and everything I say, help the Government....",enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.
+
+DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
+P_WITNESS: The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.
+
+DEFENSE: Might it also include how helpful you were to the cause of the Government?
+P_WITNESS: No.
+
+DEFENSE: Are you sure of that?
+","```json
+{
+    ""belief"": ""The witness effectively reinforces their position without conceding any ground, thereby benefiting their case and maintaining credibility."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}
+```","The witness effectively reinforces their position without conceding any ground, thereby benefiting their case and maintaining credibility.",2,1,0,1,2,Witness,1,0,0,0,-0.4285714285714285,1.0,0.0,4.7,3.84,0.3707637471830431,0.1878793457355617,0.3273725277654653,0.1828844014474814
+Q/A,"And at the time you pled guilty, how old were your three children?",Two of them. . .,enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.
+
+DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
+P_WITNESS: The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.
+
+DEFENSE: Might it also include how helpful you were to the cause of the Government?
+P_WITNESS: No.
+
+DEFENSE: Are you sure of that?
+P_WITNESS: I'm sure of that, because I don't know that I will, by all means and everything I say, help the Government....
+
+DEFENSE: And at the time you pled guilty, how old were your three children?
+","```json
+{
+    ""belief"": ""The witness provided an incomplete and evasive response, which benefits the questioner by withholding full information relevant to the case."",
+    ""Commitment_value"": ""1"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}
+```","The witness provided an incomplete and evasive response, which benefits the questioner by withholding full information relevant to the case.",1,1,0,1,3,Questioner,1,0,1,0,-0.5,0.4,1.0,5.1,4.84,0.5697101481105294,0.9155810369648508,-0.2328640285014335,-0.3458708888543212
+Q/A,"Are you afraid, sir, as you sit here now? Do you have a fear of giving an answer that might alienate the Government because of the control they have over the rest of your life?",No.,enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.
+
+DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
+P_WITNESS: The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.
+
+DEFENSE: Might it also include how helpful you were to the cause of the Government?
+P_WITNESS: No.
+
+DEFENSE: Are you sure of that?
+P_WITNESS: I'm sure of that, because I don't know that I will, by all means and everything I say, help the Government....
+
+DEFENSE: And at the time you pled guilty, how old were your three children?
+P_WITNESS: Two of them. . .
+
+DEFENSE: Would you like to take a break, sir?
+nan: nan
+
+COURT: Why don't we take about a ten-minute break?
+nan: nan
+
+OTHERS: I'm fine. I'm fine…
+nan: nan
+
+DEFENSE: Are you afraid, sir, as you sit here now? Do you have a fear of giving an answer that might alienate the Government because of the control they have over the rest of your life?
+","```json
+{
+    ""belief"": ""The witness provided a clear and direct response denying fear, which supports their credibility and consistency. This response effectively counters the defense's attempt to portray the witness as fearful, thereby benefiting the witness's position."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}
+```","The witness provided a clear and direct response denying fear, which supports their credibility and consistency. This response effectively counters the defense's attempt to portray the witness as fearful, thereby benefiting the witness's position.",2,1,0,1,1,Witness,1,0,0,0,-0.3333333333333333,1.0,0.0,6.1,4.84,1.067076150429246,0.9155810369648508,0.0764101401026935,0.1514951134643953
+Q/A,You have no fear at all?,"I'm past that....If I can answer your earlier question, my children, two are in college and one in high school.",enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.
+
+DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
+P_WITNESS: The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.
+
+DEFENSE: Might it also include how helpful you were to the cause of the Government?
+P_WITNESS: No.
+
+DEFENSE: Are you sure of that?
+P_WITNESS: I'm sure of that, because I don't know that I will, by all means and everything I say, help the Government....
+
+DEFENSE: And at the time you pled guilty, how old were your three children?
+P_WITNESS: Two of them. . .
+
+DEFENSE: Would you like to take a break, sir?
+nan: nan
+
+COURT: Why don't we take about a ten-minute break?
+nan: nan
+
+OTHERS: I'm fine. I'm fine…
+nan: nan
+
+DEFENSE: Are you afraid, sir, as you sit here now? Do you have a fear of giving an answer that might alienate the Government because of the control they have over the rest of your life?
+P_WITNESS: No.
+
+DEFENSE: You have no fear at all?
+","```json
+{
+    ""belief"": ""The witness deflected the defense's question about fear by addressing a previous question regarding his children. This deflection prevented the defense from obtaining a direct answer, thereby weakening their position in this turn."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""3""
+}
+```","The witness deflected the defense's question about fear by addressing a previous question regarding his children. This deflection prevented the defense from obtaining a direct answer, thereby weakening their position in this turn.",3,1,0,2,2,Questioner,3,0,0,0,-0.4,0.5,0.0,6.6,4.84,1.3157591515886042,0.9155810369648508,0.1793442867549403,0.4001781146237535
+Q/A,I appreciate that.,"And entering into this guilty plea, it's not hard to tell them that. And I'm over the big fear.",enron_prosecution_1,"DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
+P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.
+
+DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
+P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-
+
+DEFENSE: -cited there.
+P_WITNESS: They're cited here, yes. I wished that was all I did.
+
+DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
+P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.
+
+DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
+P_WITNESS: The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.
+
+DEFENSE: Might it also include how helpful you were to the cause of the Government?
+P_WITNESS: No.
+
+DEFENSE: Are you sure of that?
+P_WITNESS: I'm sure of that, because I don't know that I will, by all means and everything I say, help the Government....
+
+DEFENSE: And at the time you pled guilty, how old were your three children?
+P_WITNESS: Two of them. . .
+
+DEFENSE: Would you like to take a break, sir?
+nan: nan
+
+COURT: Why don't we take about a ten-minute break?
+nan: nan
+
+OTHERS: I'm fine. I'm fine…
+nan: nan
+
+DEFENSE: Are you afraid, sir, as you sit here now? Do you have a fear of giving an answer that might alienate the Government because of the control they have over the rest of your life?
+P_WITNESS: No.
+
+DEFENSE: You have no fear at all?
+P_WITNESS: I'm past that....If I can answer your earlier question, my children, two are in college and one in high school.
+
+DEFENSE: I appreciate that.
+","```json
+{
+    ""belief"": ""The witness's response was evasive and did not directly answer the defense's question, thereby benefiting the questioner."",
+    ""Commitment_value"": ""1"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}
+```","The witness's response was evasive and did not directly answer the defense's question, thereby benefiting the questioner.",1,1,0,2,2,Questioner,1,0,0,0,-0.4545454545454545,0.0,1.0,6.6,5.84,1.3157591515886042,1.64328272819414,-0.1106856847289984,-0.3275235766055357

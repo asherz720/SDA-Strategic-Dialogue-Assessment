@@ -1,0 +1,240 @@
+type,question,answer,source,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,"You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?","I didn't say that, sir. You did.",enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+","Okay, so I'm trying to evaluate the witness's response in this cross-examination. The defense asked if the witness wants the jury to believe that Mr. Skilling is consumed by greed, as the witness is. The witness replied, ""I didn't say that, sir. You did.""
+
+First, I need to assess the commitment level. The witness is directly refuting the statement, which means they're not agreeing with the defense's assertion. So, this seems beneficial to the witness, which would be a 2.
+
+Next, truthfulness. The witness is correcting the defense, which seems honest, so I'll mark that as 1.
+
+Consistency with previous testimony isn't mentioned here, so I'll assume it's consistent, which is 0.
+
+Relevance is high because the response directly addresses the question, so that's a 1.
+
+Clarity is very clear because the witness is straightforward, so that's a 1.
+
+The outcome is in favor of the witness because they effectively countered the question without hesitation.
+
+The reason for this outcome is the credibility attack on the defense, so that's a 2.
+</think>
+
+```json
+{
+    ""belief"": ""The witness effectively countered the defense's assertion by clarifying their position, making their response more convincing."",
+    ""Commitment_value"": 2,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 1,
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": 2
+}
+```","The witness effectively countered the defense's assertion by clarifying their position, making their response more convincing.",2,1,0,1,1,Witness,2.0,0,0,0,1.0,1.0,0.0,1.0,0.0,-1.0059653457530895,-1.151049818068424,-0.0672616839921945,0.1450844723153344
+Q/A,I asked you. It's a question. Answer it.,My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+","Okay, so I'm trying to evaluate the witness's response in this cross-examination. Let me break it down step by step.
+
+First, the defense asked if the witness wants the jury to believe that Mr. Skilling is consumed by greed, similar to the witness. The witness didn't directly answer that question. Instead, they talked about stealing from Enron and how that made it hard to answer the question directly.
+
+Looking at commitment level, the witness didn't really commit to answering the question about greed. They deflected by discussing their own actions. So, I think the commitment level is 4, no commitment made.
+
+Regarding truthfulness, the witness admitted to stealing from Enron, which seems honest. So, I'll rate that as 1, truthful.
+
+Consistency with previous testimony: The witness has already testified about stealing, so this is consistent. That's a 0.
+
+Response relevance: The witness's answer doesn't directly address the question about greed, so it's slightly irrelevant. I'll go with 3.
+
+Clarity: The response is a bit unclear because it doesn't directly answer the question. It's slightly unclear, so 3.
+
+Outcome: The witness avoided the question, which might make the questioner's point stronger. So, the outcome favors the questioner.
+
+Reason for outcome: The witness didn't provide a clear answer, which could undermine their credibility. So, it's a credibility attack, reason 2.
+</think>
+
+```json
+{
+    ""belief"": ""The witness avoided directly answering the question about greed, potentially weakening their credibility."",
+    ""Commitment_value"": 4,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 3,
+    ""manner_rate"": 3,
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": 2
+}
+```","The witness avoided directly answering the question about greed, potentially weakening their credibility.",4,1,0,3,3,Questioner,2.0,1,1,0,0.0,0.0,0.5,1.0,0.5,-1.0059653457530895,-0.5366104134055643,0.3042670219344814,-0.4693549323475254
+Q/A,"Who's the ""we""?",Myself and other members of senior management of Enron.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+","Okay, so I'm trying to evaluate the witness's response in this cross-examination. Let me break it down step by step.
+
+First, the question from the defense was, ""Who's the 'we'?"" The witness answered, ""Myself and other members of senior management of Enron."" I need to assess this response based on several criteria.
+
+1. **Commitment Level**: The witness directly answered the question by specifying who was included in ""we."" This seems like a clear commitment, so I don't think it's detrimental or beneficial; it's just a straightforward answer. So, I'd say it's a Neutral commitment, which is level 3.
+
+2. **Truthfulness**: The witness admitted to stealing from Enron and implicated others in senior management. This seems honest, especially since they've already spent time testifying about their own theft. So, I believe they're being truthful here, which is a 1.
+
+3. **Consistency with Previous Testimony**: Earlier, the witness mentioned that ""we stole from Enron,"" and now they clarified that ""we"" refers to themselves and other senior managers. This is consistent with their earlier statements, so consistency is 0 (consistent).
+
+4. **Response Relevance**: The question was about identifying who ""we"" refers to, and the witness directly answered that. It's very relevant to the question, so relevance is 1.
+
+5. **Response Clarity**: The answer was clear and specific, naming themselves and other senior management. There's no hedging or ambiguity, so clarity is 1.
+
+6. **Current Turn Outcome**: The witness provided a clear and relevant answer, which helps their case by being transparent. So, the outcome favors the Witness.
+
+7. **Reason for Outcome**: The witness used logical arguments by clearly identifying the group involved, which makes their testimony convincing. So, the reason is Logical arguments are convincing, which is 1.
+
+Putting it all together, the witness effectively answered the question, maintaining credibility and consistency, which makes their side more convincing in this turn.
+</think>
+
+```json
+{
+    ""belief"": ""The witness provided a clear and direct answer, which supports their credibility and consistency in testimony."",
+    ""Commitment_value"": 3,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 1,
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": 1
+}
+```","The witness provided a clear and direct answer, which supports their credibility and consistency in testimony.",3,1,0,1,1,Witness,1.0,0,0,0,0.3333333333333333,0.5,0.0,1.5,0.5,-0.5112282904646852,-0.5366104134055643,-0.0242233111328382,0.025382122940879
+Q/A,Did they steal that 120 million?,No. They stole in different ways related to this 120 million.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+","Okay, so I'm trying to evaluate the witness's response in this cross-examination. Let me break it down step by step.
+
+First, the question from the defense was, ""Did they steal that 120 million?"" The witness answered, ""No. They stole in different ways related to this 120 million."" 
+
+Looking at the commitment level, the witness is making a clear statement here. They're saying ""No,"" which directly answers the question, but then they add more information about stealing in different ways. This seems like a commitment because they're providing a specific answer, but it's also a bit of a hedge because they're explaining that the stealing was done differently. So, I think this is a neutral commitment because while they're answering, they're also qualifying their response.
+
+Next, truthfulness. The witness has previously admitted to stealing from Enron, so when they say others stole in different ways related to the 120 million, it seems consistent with their earlier testimony. They're not denying involvement but are specifying the nature of the theft. So, I would rate this as truthful.
+
+Consistency with previous testimony: The witness mentioned earlier that they and other senior management stole from Enron. Now, they're clarifying that the theft related to the 120 million was done differently. This doesn't contradict their earlier statements; it actually elaborates on them. So, it's consistent.
+
+Response relevance: The question was about whether ""they"" stole the 120 million. The witness's answer directly addresses this by saying no and explaining how the theft was different. This is very relevant because it speaks directly to the question asked.
+
+Response clarity: The witness's answer is clear in that they say ""No"" and then explain. However, the explanation introduces some complexity by mentioning ""different ways,"" which might require further clarification. So, it's slightly clear with some hedging.
+
+Outcome of the current turn: The witness provided a clear answer that refocused the discussion on the nature of the theft, which might have been an attempt to explain their actions without directly admitting to stealing the exact amount. This could make the witness's position stronger because they're providing context. So, I think the witness wins this turn.
+
+Reason for the outcome: The witness used logical arguments to explain the nature of the theft, which makes their response convincing. They didn't just deny it but provided an alternative explanation, which can affect the jury's perception.
+
+Putting it all together, the witness's response is clear, consistent, and relevant, which makes their side more convincing in this exchange.
+</think>
+
+```json
+{
+    ""belief"": ""The witness's response is clear, consistent, and relevant, making their side more convincing."",
+    ""Commitment_value"": 3,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 2,
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": 1
+}
+```","The witness's response is clear, consistent, and relevant, making their side more convincing.",3,1,0,1,2,Witness,1.0,0,0,0,0.5,0.5,0.0,2.0,0.5,-0.0164912351762805,-0.5366104134055643,-0.9403681575762282,0.5201191782292838
+Q/A,"Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?",Are you asking me?,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+","Okay, so I'm trying to evaluate the current response from the witness in this cross-examination. The witness was asked a question by the defense, and they replied with ""Are you asking me?"" Let me break this down step by step.
+
+First, looking at the commitment level. The witness is responding to a question with another question, which doesn't provide a clear yes or no. This seems like they're avoiding a direct answer, so it's a detrimental commitment because it doesn't help their case and might make them seem evasive.
+
+Next, truthfulness. The witness isn't providing a direct answer, so it's hard to gauge if they're being truthful. They might be dodging the question, which could imply they're not being entirely truthful. I'll mark this as not truthful.
+
+Consistency with previous testimony: Earlier, the witness admitted to stealing from Enron and mentioned other senior management members. Now, when asked about their methods, the witness is being vague. This inconsistency could undermine their credibility, so I'll note it as inconsistent.
+
+Response relevance: The question was about how others stole, so the witness's response isn't directly addressing that. It's slightly irrelevant because they're not providing the information requested.
+
+Clarity: The response is a question, which isn't a clear answer. It's slightly unclear because it doesn't provide the needed information.
+
+Outcome: The questioner (defense) seems to be gaining the upper hand here because the witness isn't providing a clear answer, making the defense's job easier.
+
+Reason for outcome: The witness's evasive response doesn't provide logical arguments, so the outcome is more due to the witness's lack of clarity and commitment, which might be seen as a credibility attack by the defense.
+
+Putting it all together, the witness's response isn't helping their case and seems to be benefiting the defense.
+</think>
+
+```json
+{
+    ""belief"": ""The witness's evasive response benefits the defense by avoiding a direct answer, making the defense's case stronger."",
+    ""Commitment_value"": 1,
+    ""quality_rate"": 0,
+    ""consistency_value"": 1,
+    ""relevance_rate"": 3,
+    ""manner_rate"": 3,
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": 2
+}
+```","The witness's evasive response benefits the defense by avoiding a direct answer, making the defense's case stronger.",1,0,1,3,3,Questioner,2.0,1,1,0,0.2,0.8,1.56,2.8,2.06,0.7750880532851667,1.3804405291425588,-0.280837137021675,-0.605352475857392
+Q/A,I'm asking you.,"What I'm saying is when you misrepresent the nature of your company, when you artificially inflate earnings, when you improperly hide losses, when you do things like this to cause your stock price to go up so you can sell your stock to cause yourself to make earning targets, that otherwise you'd be unable to make so you get high salaries and bonuses, that is stealing.",enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+P_WITNESS: Are you asking me?
+
+DEFENSE: I'm asking you.
+","Okay, so I'm trying to evaluate the witness's current response in this cross-examination. Let me break it down step by step.
+
+First, the question from the defense was about whether other senior management members committed fraud by inflating stock prices to sell their stocks and benefit financially. The witness responded by explaining that misrepresenting the company, inflating earnings, hiding losses, etc., constitutes stealing. 
+
+Looking at the commitment level, the witness is clearly stating their position, so it's a beneficial commitment, which is level 2. They're not avoiding the question but providing a detailed answer that supports their previous testimony.
+
+Regarding truthfulness, the witness seems to be explaining their actions honestly, so I'd rate that as 1, truthful.
+
+Consistency with previous testimony: The witness had already admitted to stealing from Enron and implicated other senior management. This response aligns with that, so it's consistent, rating 0.
+
+Response relevance: The answer directly addresses the question about how others stole, so it's very relevant, rating 1.
+
+Clarity: The explanation is detailed and clear, so very clear, rating 1.
+
+Outcome: The witness provided a strong, clear answer that supports their case, so the outcome favors the witness.
+
+Reason for outcome: The witness used logical arguments to explain their position convincingly.
+</think>
+
+```json
+{
+    ""belief"": ""The witness provided a clear and logical explanation that supports their position, making their argument convincing."",
+    ""Commitment_value"": 2,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 1,
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": 1
+}
+```","The witness provided a clear and logical explanation that supports their position, making their argument convincing.",2,1,0,1,1,Witness,1.0,0,0,0,0.3333333333333333,1.0,0.0,3.8,2.06,1.764562163861976,1.3804405291425588,0.1221371401601096,0.3841216347194172

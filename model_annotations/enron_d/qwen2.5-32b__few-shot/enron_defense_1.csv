@@ -1,0 +1,287 @@
+type,question,answer,source,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,"Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?","Yes, that's correct.",enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+","{
+    ""belief"": ""The witness provided a straightforward and clear response to the question, which did not provide any additional information that could be detrimental or beneficial to either side. The response was relevant and clear, indicating a neutral commitment."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness provided a straightforward and clear response to the question, which did not provide any additional information that could be detrimental or beneficial to either side. The response was relevant and clear, indicating a neutral commitment.",3,1,0,1,1,Witness,1,0,0,0,1.0,0.5,0.0,0.5,0.0,-2.260029824278838,-1.0265888718369436,0.3752917714183302,-1.2334409524418943
+Q/A,"The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?",That's correct.,enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+","{
+    ""belief"": ""The witness's response is straightforward and aligns with the prosecution's question, indicating a clear and consistent answer without any hedging or ambiguity."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness's response is straightforward and aligns with the prosecution's question, indicating a clear and consistent answer without any hedging or ambiguity.",2,1,0,1,1,Witness,1,0,0,0,1.0,1.0,0.0,1.5,0.0,-1.1037354955780372,-1.0265888718369436,0.0362135573911245,-0.0771466237410936
+Q/A,"The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?",That's correct.,enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+","{
+    ""belief"": ""The witness's response is straightforward and does not provide additional information that could be used against them or in their favor. The response is consistent with the previous testimony and relevant to the line of questioning."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}",The witness's response is straightforward and does not provide additional information that could be used against them or in their favor. The response is consistent with the previous testimony and relevant to the line of questioning.,3,1,0,1,1,Witness,1,0,0,0,1.0,0.5,0.0,2.0,0.0,-0.5255883312276368,-1.0265888718369436,-0.3227727733793175,0.5010005406093068
+Q/A,"The next one, 279April 10th of 1998, $55,000 to the IRS?",That's correct.,enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+","{
+    ""belief"": ""The witness's response is consistent and clear, affirming the details provided by the prosecution without hesitation. This indicates a neutral commitment as it neither benefits nor harms the witness's position directly. The response is relevant to the prosecution's line of questioning and does not introduce any inconsistencies with previous testimony."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness's response is consistent and clear, affirming the details provided by the prosecution without hesitation. This indicates a neutral commitment as it neither benefits nor harms the witness's position directly. The response is relevant to the prosecution's line of questioning and does not introduce any inconsistencies with previous testimony.",3,1,0,1,1,Witness,1,0,0,0,1.0,0.5,0.0,2.5,0.0,0.0525588331227636,-1.0265888718369436,-1.107920353651817,1.0791477049597071
+Q/A,"Sir, is it your testimony that you did not backdate that Check Number 277?",I don't recall.,enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+D_WITNESS: That's correct.
+
+PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
+","{
+    ""belief"": ""The witness's response 'I don't recall' is a common tactic used to avoid making a definitive statement that could be harmful. It does not provide a clear answer to the question about backdating the check, which is a critical point in the prosecution's line of questioning."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}","The witness's response 'I don't recall' is a common tactic used to avoid making a definitive statement that could be harmful. It does not provide a clear answer to the question about backdating the check, which is a critical point in the prosecution's line of questioning.",4,1,0,1,2,Questioner,1,0,0,0,0.6,0.0,0.5,2.5,0.5,0.0525588331227636,-0.6371930928643098,-1.1798007292490822,0.6897519259870735
+Q/A,"Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?","No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...",enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+D_WITNESS: That's correct.
+
+PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
+D_WITNESS: I don't recall.
+
+PROSECUTION: Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?
+","{
+    ""belief"": ""The witness's response does not directly address the question about the backdating of the check, which is a critical point in the prosecution's line of questioning. The witness's attempt to shift the conversation to a discussion about tax laws suggests a lack of a direct answer and possibly an attempt to avoid the issue."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""3"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}","The witness's response does not directly address the question about the backdating of the check, which is a critical point in the prosecution's line of questioning. The witness's attempt to shift the conversation to a discussion about tax laws suggests a lack of a direct answer and possibly an attempt to avoid the issue.",4,0,0,3,3,Questioner,1,1,1,0,0.3333333333333333,0.0,0.5,2.5,1.0,0.0525588331227636,-0.247797313891676,-1.5384064956433785,0.3003561470144396
+Q/A,"And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?",I'm sorry.,enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+D_WITNESS: That's correct.
+
+PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
+D_WITNESS: I don't recall.
+
+PROSECUTION: Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?
+D_WITNESS: No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...
+
+PROSECUTION: And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?
+","{
+    ""belief"": ""The witness's response 'I'm sorry' does not provide any substantive information regarding the question asked about the nature of his relationship with Ms. Bender. It is a non-responsive answer that does not clarify or deny the question."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""4"",
+    ""manner_rate"": ""4"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}",The witness's response 'I'm sorry' does not provide any substantive information regarding the question asked about the nature of his relationship with Ms. Bender. It is a non-responsive answer that does not clarify or deny the question.,4,0,0,4,4,Questioner,1,1,1,0,0.1428571428571428,0.0,0.5,2.5,1.5,0.0525588331227636,0.1415984650809577,-0.458595338841028,-0.0890396319581941
+Q/A,Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?,"Oh, no. We stayed friends. We're friends. I haven’t talked to her in awhile, but we may have occasionally dated some subsequent to that.",enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+D_WITNESS: That's correct.
+
+PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
+D_WITNESS: I don't recall.
+
+PROSECUTION: Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?
+D_WITNESS: No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...
+
+PROSECUTION: And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?
+D_WITNESS: I'm sorry.
+
+PROSECUTION: Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?
+","{
+    ""belief"": ""The witness's response indicates a continuation of a relationship with Ms. Bender beyond 1998, which could be seen as detrimental to the witness's credibility regarding the nature of their relationship and the timing of events."",
+    ""Commitment_value"": ""1"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}","The witness's response indicates a continuation of a relationship with Ms. Bender beyond 1998, which could be seen as detrimental to the witness's credibility regarding the nature of their relationship and the timing of events.",1,1,0,1,2,Questioner,1,0,0,0,0.0,0.0,1.0,2.5,2.5,0.0525588331227636,0.9203900230262252,-0.8919597206151291,-0.8678311899034616
+Q/A,But your romantic relationship with her ended in 1997 or 1998?,We stayed friends after that.,enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+D_WITNESS: That's correct.
+
+PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
+D_WITNESS: I don't recall.
+
+PROSECUTION: Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?
+D_WITNESS: No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...
+
+PROSECUTION: And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?
+D_WITNESS: I'm sorry.
+
+PROSECUTION: Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?
+D_WITNESS: Oh, no. We stayed friends. We're friends. I haven’t talked to her in awhile, but we may have occasionally dated some subsequent to that.
+
+PROSECUTION: But your romantic relationship with her ended in 1997 or 1998?
+","{
+    ""belief"": ""The witness's response indicates a continuation of a relationship with Ms. Bender, which is slightly relevant to the prosecution's line of questioning about the nature of their relationship. However, the response does not fully address the specific question about the end of the romantic relationship, leading to some ambiguity."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response indicates a continuation of a relationship with Ms. Bender, which is slightly relevant to the prosecution's line of questioning about the nature of their relationship. However, the response does not fully address the specific question about the end of the romantic relationship, leading to some ambiguity.",2,1,0,2,2,Witness,2,0,0,0,0.1111111111111111,1.0,0.0,3.5,2.5,1.2088531618235645,0.9203900230262252,0.1354768402453237,0.2884631387973392
+Q/A,That's not my question.,"You'd have to define – what – what does this have to do with fraud at Enron Corporation, just out of curiosity?",enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+D_WITNESS: That's correct.
+
+PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
+D_WITNESS: I don't recall.
+
+PROSECUTION: Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?
+D_WITNESS: No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...
+
+PROSECUTION: And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?
+D_WITNESS: I'm sorry.
+
+PROSECUTION: Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?
+D_WITNESS: Oh, no. We stayed friends. We're friends. I haven’t talked to her in awhile, but we may have occasionally dated some subsequent to that.
+
+PROSECUTION: But your romantic relationship with her ended in 1997 or 1998?
+D_WITNESS: We stayed friends after that.
+
+PROSECUTION: That's not my question.
+","{
+    ""belief"": ""The witness's response is an attempt to shift the focus away from the immediate question about the nature of his relationship with Ms. Bender and towards the relevance of the question to the fraud at Enron Corporation. This response does not directly answer the question and instead seeks to undermine the relevance of the question, which is a common tactic in cross-examination to avoid making a detrimental commitment."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""4"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is an attempt to shift the focus away from the immediate question about the nature of his relationship with Ms. Bender and towards the relevance of the question to the fraud at Enron Corporation. This response does not directly answer the question and instead seeks to undermine the relevance of the question, which is a common tactic in cross-examination to avoid making a detrimental commitment.",4,1,0,4,2,Witness,2,1,0,0,0.2,0.0,0.5,3.5,3.0,1.2088531618235645,1.309785801998859,-0.0400742788565907,-0.1009326401752945
+Q/A,"Can you answer my question or not, Mr. Skilling?","We continued to have a relationship, yes....",enron_defense_1,"PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
+D_WITNESS: Yes, that's correct.
+
+PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
+D_WITNESS: That's correct.
+
+PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
+D_WITNESS: That's correct.
+
+PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
+D_WITNESS: I don't recall.
+
+PROSECUTION: Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?
+D_WITNESS: No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...
+
+PROSECUTION: And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?
+D_WITNESS: I'm sorry.
+
+PROSECUTION: Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?
+D_WITNESS: Oh, no. We stayed friends. We're friends. I haven’t talked to her in awhile, but we may have occasionally dated some subsequent to that.
+
+PROSECUTION: But your romantic relationship with her ended in 1997 or 1998?
+D_WITNESS: We stayed friends after that.
+
+PROSECUTION: That's not my question.
+D_WITNESS: You'd have to define – what – what does this have to do with fraud at Enron Corporation, just out of curiosity?
+
+PROSECUTION: Can you answer my question or not, Mr. Skilling?
+","{
+    ""belief"": ""The witness's response is somewhat evasive and does not directly answer the question posed by the prosecution. The witness's response suggests a continued relationship but does not specify the nature of the relationship, which is the core of the prosecution's question."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}","The witness's response is somewhat evasive and does not directly answer the question posed by the prosecution. The witness's response suggests a continued relationship but does not specify the nature of the relationship, which is the core of the prosecution's question.",4,1,0,2,2,Questioner,1,0,0,0,0.0909090909090909,0.0,0.5,3.5,3.5,1.2088531618235645,1.6991815809714927,-0.1686116097349817,-0.4903284191479282

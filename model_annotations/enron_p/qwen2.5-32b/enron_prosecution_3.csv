@@ -1,0 +1,248 @@
+type,question,answer,source,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,Who told you there was a document?,Mr. Fastow.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+","{
+    ""belief"": ""The witness provided a direct and clear answer to the question asked, naming Mr. Fastow as the person who told them about the document. This response is relevant and clear, and there is no indication of inconsistency with previous testimony."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness provided a direct and clear answer to the question asked, naming Mr. Fastow as the person who told them about the document. This response is relevant and clear, and there is no indication of inconsistency with previous testimony.",2,1,0,1,1,Witness,2,0,0,0,1,1.0,0.0,1.0,0.0,-1.7666458230151696,-0.5,0.5588194724353689,-1.2666458230151696
+Q/A,And did he-did he tell you anything about how the document came into existence?,He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+","{
+    ""belief"": ""The witness provided a detailed response that directly addressed the question asked, indicating a level of commitment and relevance to the immediate question. The response was clear and consistent with the previous testimony, suggesting the witness is attempting to be truthful."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness provided a detailed response that directly addressed the question asked, indicating a level of commitment and relevance to the immediate question. The response was clear and consistent with the previous testimony, suggesting the witness is attempting to be truthful.",2,1,0,1,1,Witness,2,0,0,0,1,1.0,0.0,2.0,0.0,-1.146770095641426,-0.5,0.3927506926153559,-0.646770095641426
+Q/A,Is that just a one-on-one conversation that you and he had?,"I have had that conversation with him, yes. ·",enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+","{
+    ""belief"": ""The witness's response is clear and directly answers the question asked, maintaining consistency with previous testimony. There is no indication of a detrimental or beneficial commitment to the questioner or the witness, respectively, and the response is relevant to the question."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+} 
+
+Note: The ""outcome_reason"" is set to ""2"" as the witness's response does not seem to be based on a logical argument or an emotional appeal, but rather on maintaining credibility through clear and consistent testimony. However, the options provided may not fully align with the nuances of the response.","The witness's response is clear and directly answers the question asked, maintaining consistency with previous testimony. There is no indication of a detrimental or beneficial commitment to the questioner or the witness, respectively, and the response is relevant to the question.",3,1,0,1,1,Witness,2,0,0,0,1,0.5,0.0,2.5,0.0,-0.836832231954554,-0.5,0.2519629792753267,-0.336832231954554
+Q/A,"One-on-one, right?",Yes.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+","{
+    ""belief"": ""The witness's response is straightforward and directly answers the question, maintaining consistency with previous testimony. The response does not provide additional information that could be exploited by the defense, nor does it introduce any contradictions."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is straightforward and directly answers the question, maintaining consistency with previous testimony. The response does not provide additional information that could be exploited by the defense, nor does it introduce any contradictions.",3,1,0,1,1,Witness,2,0,0,0,1,0.5,0.0,3.0,0.0,-0.5268943682676822,-0.5,0.0261900046380151,-0.0268943682676822
+Q/A,"And did he tell you that-well, first of all, did he describe the document to you?","Other than it being written down. That was all I understood, the form of the document.",enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+","{
+    ""belief"": ""The witness's response is neutral and does not provide significant new information that would benefit either side. The witness appears to be truthful and consistent with previous testimony, but the response is slightly unclear and not very relevant to the immediate question."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is neutral and does not provide significant new information that would benefit either side. The witness appears to be truthful and consistent with previous testimony, but the response is slightly unclear and not very relevant to the immediate question.",3,1,0,2,2,Witness,2,0,0,0,1,0.5,0.0,3.5,0.0,-0.2169565045808103,-0.5,-0.3947847513911312,0.2830434954191896
+Q/A,"You don't know how many people have copies, do you?",My understanding was that only Mr. Fastow and Mr. Causey had copies.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+","{
+    ""belief"": ""The witness provided a direct and clear answer to the question about who had copies of the document, which aligns with the previous testimony and does not introduce new inconsistencies."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness provided a direct and clear answer to the question about who had copies of the document, which aligns with the previous testimony and does not introduce new inconsistencies.",2,1,0,1,1,Witness,2,0,0,0,1,1.0,0.0,4.5,0.0,0.4029192227929333,-0.5,-9.300700393725409,0.9029192227929334
+Q/A,And who told you that?,Mr. Fastow.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and relevant to the question asked, indicating a neutral commitment level. The witness appears to be truthful and clear in their response, which benefits the witness in this turn."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is consistent with previous testimony and relevant to the question asked, indicating a neutral commitment level. The witness appears to be truthful and clear in their response, which benefits the witness in this turn.",3,1,0,1,1,Witness,2,0,0,0,1,0.5,0.0,5.0,0.0,0.7128570864798052,-0.5,5.697987821490148,1.2128570864798052
+Q/A,What did he say in that regard?,That he and Mr. Causey had copies.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and relevant to the question asked. The clarity of the response is slightly clear with hedging, which is common in such testimonies. The witness's commitment level is neutral, and there is no clear indication of truthfulness or untruthfulness in this specific turn."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is consistent with previous testimony and relevant to the question asked. The clarity of the response is slightly clear with hedging, which is common in such testimonies. The witness's commitment level is neutral, and there is no clear indication of truthfulness or untruthfulness in this specific turn.",3,1,0,1,2,Witness,2,0,0,0,1,0.5,0.0,5.5,0.0,1.022794950166677,-0.5,2.912795828806649,1.522794950166677
+Q/A,What else did he say?,That's all I recall him saying about it.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and relevant to the question asked. The witness does not provide additional information beyond what was previously stated, which may be seen as a neutral stance."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is consistent with previous testimony and relevant to the question asked. The witness does not provide additional information beyond what was previously stated, which may be seen as a neutral stance.",4,1,0,1,1,Witness,2,0,0,0,1,0.0,0.5,5.5,0.5,1.022794950166677,2.0,-0.323278643091368,-0.9772050498333228
+Q/A,He told you Rick Causey had a copy?,Yes.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+P_WITNESS: That's all I recall him saying about it.
+
+DEFENSE: He told you Rick Causey had a copy?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and directly answers the question asked, showing a neutral commitment level. The response is clear and relevant, but it does not provide new information that significantly benefits either side."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is consistent with previous testimony and directly answers the question asked, showing a neutral commitment level. The response is clear and relevant, but it does not provide new information that significantly benefits either side.",3,1,0,1,1,Witness,2,0,0,0,1,0.5,0.0,6.0,0.5,1.3327328138535488,2.0,-0.200216225967094,-0.6672671861464512

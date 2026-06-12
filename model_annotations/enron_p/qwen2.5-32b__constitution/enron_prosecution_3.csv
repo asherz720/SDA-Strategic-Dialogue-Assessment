@@ -1,0 +1,254 @@
+type,question,answer,source,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,Who told you there was a document?,Mr. Fastow.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+","{
+    ""belief"": ""The witness's response is straightforward and directly answers the question asked, indicating a neutral commitment as it neither significantly benefits nor harms the witness's case. The response is clear and relevant, but there is no information to assess consistency with previous testimony."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness's response is straightforward and directly answers the question asked, indicating a neutral commitment as it neither significantly benefits nor harms the witness's case. The response is clear and relevant, but there is no information to assess consistency with previous testimony.",3,1,0,1,1,Witness,1,0,0,0,1.0,0.5,0.0,0.5,0.0,-1.6870547845739468,-1.0690449676496976,0.2242334721105917,-0.6180098169242492
+Q/A,And did he-did he tell you anything about how the document came into existence?,He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+","{
+    ""belief"": ""The witness's response provides a detailed account of how the document came into existence, which is relevant to the question asked. The witness does not make any detrimental commitments and maintains a level of clarity that avoids unnecessary complexity. However, the response does not directly address the specific question about how the document came into existence but rather provides context around its creation."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness's response provides a detailed account of how the document came into existence, which is relevant to the question asked. The witness does not make any detrimental commitments and maintains a level of clarity that avoids unnecessary complexity. However, the response does not directly address the specific question about how the document came into existence but rather provides context around its creation.",3,1,0,2,2,Witness,1,0,0,0,1.0,0.5,0.0,1.0,0.0,-1.2310940319863937,-1.0690449676496976,0.0704518571974711,-0.162049064336696
+Q/A,Is that just a one-on-one conversation that you and he had?,"I have had that conversation with him, yes. ·",enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+","{
+    ""belief"": ""The witness's response is straightforward and does not provide additional information that could be detrimental or beneficial to the case beyond the immediate question. The response is clear and relevant, but it does not advance the witness's interests significantly."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness's response is straightforward and does not provide additional information that could be detrimental or beneficial to the case beyond the immediate question. The response is clear and relevant, but it does not advance the witness's interests significantly.",3,1,0,1,1,Witness,1,0,0,0,1.0,0.5,0.0,1.5,0.0,-0.7751332793988405,-1.0690449676496976,-0.1593727117870735,0.2939116882508571
+Q/A,"One-on-one, right?",Yes.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+","{
+    ""belief"": ""The witness's response is straightforward and directly answers the question without providing additional information that could be detrimental. It does not advance the witness's interests significantly but also does not harm them."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Neutral"",
+    ""outcome_reason"": ""3""
+} 
+
+Note: The ""outcome_value"" is listed as ""Neutral"" because the response neither clearly benefits the questioner nor the witness. The ""outcome_reason"" is set to ""3"" as there is no clear logical argument, credibility attack, or emotional appeal/bias evident in this single response. However, the ""outcome_reason"" field is typically used to explain a win for either the questioner or the witness, and in this case, the response is neutral, so the reasoning is less applicable.",The witness's response is straightforward and directly answers the question without providing additional information that could be detrimental. It does not advance the witness's interests significantly but also does not harm them.,3,1,0,1,1,Witness,3,0,0,0,0.75,0.5,0.0,2.0,0.0,-0.3191725268112872,-1.0690449676496976,-0.5401692773865883,0.7498724408384103
+Q/A,"And did he tell you that-well, first of all, did he describe the document to you?","Other than it being written down. That was all I understood, the form of the document.",enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+","{
+    ""belief"": ""The witness's response does not provide substantial information about the document's nature beyond it being written down, which minimizes the risk of making a detrimental commitment. The response is relevant but not very clear, and it does not seem to contradict previous testimony."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""1""
+}","The witness's response does not provide substantial information about the document's nature beyond it being written down, which minimizes the risk of making a detrimental commitment. The response is relevant but not very clear, and it does not seem to contradict previous testimony.",4,1,0,1,2,Questioner,1,0,0,0,0.4,0.0,0.5,2.0,0.5,-0.3191725268112872,0.2672612419124243,11.29684556770732,-0.5864337687237116
+Q/A,"You don't know how many people have copies, do you?",My understanding was that only Mr. Fastow and Mr. Causey had copies.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+","{
+    ""belief"": ""The witness's response is consistent with the previous testimony and directly answers the question about the document's copies. The response is clear and relevant, but it does not provide additional information that could be detrimental to the witness's case. The witness seems to be maintaining a neutral stance, which is beneficial in this context."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness's response is consistent with the previous testimony and directly answers the question about the document's copies. The response is clear and relevant, but it does not provide additional information that could be detrimental to the witness's case. The witness seems to be maintaining a neutral stance, which is beneficial in this context.",3,1,0,1,1,Witness,1,0,0,0,0.5,0.5,0.0,2.5,0.5,0.1367882257762658,0.2672612419124243,-0.3229134711710215,-0.1304730161361584
+Q/A,And who told you that?,Mr. Fastow.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and directly answers the question asked, indicating a neutral commitment level. The response is clear and relevant, but it does not provide new information that significantly benefits either side."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Neutral"",
+    ""outcome_reason"": ""3""
+} 
+
+Note: The ""outcome_value"" is marked as ""Neutral"" because the response neither significantly benefits the questioner nor the witness. The ""outcome_reason"" is marked as ""3"" to indicate that there is no clear winning side due to the neutral nature of the response. However, the JSON format requested a winner, so ""Neutral"" is used to reflect the lack of a clear winner in this turn.","The witness's response is consistent with previous testimony and directly answers the question asked, indicating a neutral commitment level. The response is clear and relevant, but it does not provide new information that significantly benefits either side.",3,1,0,1,1,Witness,3,0,0,0,0.4285714285714285,0.5,0.0,3.0,0.5,0.592748978363819,0.2672612419124243,0.3784696144039369,0.3254877364513946
+Q/A,What did he say in that regard?,That he and Mr. Causey had copies.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and directly answers the question asked, indicating a neutral commitment level. The response is clear and relevant, but it does not provide additional information that could be used to advance either side's case significantly."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Neutral"",
+    ""outcome_reason"": ""3""
+} 
+
+Note: The ""outcome_value"" being ""Neutral"" indicates that the turn did not clearly favor either the questioner or the witness, and the ""outcome_reason"" being ""3"" suggests that the response did not significantly advance either side's case through logical arguments, credibility attacks, or emotional appeals.","The witness's response is consistent with previous testimony and directly answers the question asked, indicating a neutral commitment level. The response is clear and relevant, but it does not provide additional information that could be used to advance either side's case significantly.",3,1,0,1,1,Witness,3,0,0,0,0.375,0.5,0.0,3.5,0.5,1.0487097309513722,0.2672612419124243,0.5938189406551813,0.7814484890389479
+Q/A,What else did he say?,That's all I recall him saying about it.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+","{
+    ""belief"": ""The witness's response does not provide additional information that could be used against them, nor does it significantly advance their own case. It is a neutral response that does not contribute to either side's winning potential."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""3""
+} 
+
+Note: The ""outcome_reason"" is set to 3 (Emotional appeal/bias) as a placeholder, but in this case, the response does not particularly appeal to emotions or bias. The reason for the witness winning the turn is more due to the lack of detrimental information provided, which aligns more closely with logical arguments (1). However, given the options, the response does not significantly sway the jury's emotions or bias, nor does it present a strong logical argument.","The witness's response does not provide additional information that could be used against them, nor does it significantly advance their own case. It is a neutral response that does not contribute to either side's winning potential.",4,1,0,1,1,Witness,3,0,0,0,0.4444444444444444,0.0,0.5,3.5,1.0,1.0487097309513722,1.6035674514745464,-0.2092005029488172,-0.5548577205231742
+Q/A,He told you Rick Causey had a copy?,Yes.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+P_WITNESS: That's all I recall him saying about it.
+
+DEFENSE: He told you Rick Causey had a copy?
+","{
+    ""belief"": ""The witness's response is straightforward and does not provide additional information that could be detrimental or beneficial to the case. It is consistent with previous testimony and directly answers the question."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}",The witness's response is straightforward and does not provide additional information that could be detrimental or beneficial to the case. It is consistent with previous testimony and directly answers the question.,3,1,0,1,1,Witness,1,0,0,0,0.5,0.5,0.0,4.0,1.0,1.5046704835389253,1.6035674514745464,-0.0318176954285169,-0.098896967935621

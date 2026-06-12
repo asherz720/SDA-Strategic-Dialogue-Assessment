@@ -1,0 +1,2620 @@
+type,question,answer,speaker,speaker_from,responder,Facts,Context,source,witness_name,witness_role,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,"Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?","Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+No previous context available.
+
+Recent Exchanges:
+
+
+Current Exchange:
+PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+","```json
+{
+    ""belief"": ""The witness has provided a straightforward and consistent answer, which does not provide any significant advantage or disadvantage to either side. The response is clear and relevant, but it does not offer substantial information to sway the jury."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness has provided a straightforward and consistent answer, which does not provide any significant advantage or disadvantage to either side. The response is clear and relevant, but it does not offer substantial information to sway the jury.",3,1,0,1,1,Witness,2,0,0,0,1.0,0.5,0.0,0.5,0.0,-1.4567535112540106,-1.173527805792362,0.1076788644720679,-0.2832257054616487
+Q/A,"And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?","I'm unable to recall the exact date, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense is questioning Mr. Hodge, a witness who previously lived on Corning Avenue. The important claim from the defense appears to be establishing Mr. Hodge's background and connection to the location relevant to the case. The conflict or disagreement is not explicitly stated in this excerpt, but it suggests that the defense may be trying to gather information that could support their argument or challenge the prosecution's claims regarding events that occurred on Corning Avenue. Further context would be needed to fully understand the specific claims and disagreements between the sides.
+
+Recent Exchanges:
+PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+Current Exchange:
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+","```json
+{
+    ""belief"": ""The witness appears to be evading the specific date, which could be seen as a lack of full commitment to the truthfulness of the event. However, the witness does not outright deny the arrest, which maintains some level of consistency with previous testimony."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""2""
+}
+```","The witness appears to be evading the specific date, which could be seen as a lack of full commitment to the truthfulness of the event. However, the witness does not outright deny the arrest, which maintains some level of consistency with previous testimony.",3,0,0,2,2,Questioner,2,0,0,0,0.0,0.5,0.0,1.0,0.0,-1.2694566312356377,-1.173527805792362,0.0392670636739616,-0.0959288254432757
+Q/A,"Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?","On which occasion, sir?",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense is attempting to establish the credibility of Mr. Hodge, a witness who was arrested by police officers Vettraino and Fuhrman in January 1987. The defense claims that Mr. Hodge was involved in criminal activities as a crack dealer associated with the Playboy Gangster Crips, suggesting that his background may influence his testimony.
+
+The key conflict arises from the defense's focus on the specific incident where Fuhrman allegedly made a racially charged statement to Mr. Hodge during the arrest. The defense argues that this statement is central to the case, while the prosecution appears to object to the relevance of the defense's line of questioning, indicating a disagreement over the admissibility and significance of Mr. Hodge's past and the context of his arrest. The court sustains the objection, highlighting the tension between the defense's efforts to establish a timeline and the prosecution's attempts to limit the scope of the inquiry.
+
+Recent Exchanges:
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+Current Exchange:
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+","```json
+{
+    ""belief"": ""The witness's response is vague and does not directly address the question, which may benefit the prosecution by avoiding providing specific information that could be used against him. However, the questioner may gain some advantage by steering the conversation towards a more specific date."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""3"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""2""
+}
+```","The witness's response is vague and does not directly address the question, which may benefit the prosecution by avoiding providing specific information that could be used against him. However, the questioner may gain some advantage by steering the conversation towards a more specific date.",4,0,0,3,3,Questioner,2,1,1,0,-0.3333333333333333,0.0,0.5,1.0,0.5,-1.2694566312356377,-0.9753711406491864,0.1310058144636763,-0.2940854905864513
+Q/A,On the occasion you just described for Mr. Cochran?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Hodge's past interactions with police officers Vettraino and Fuhrman. 
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge had multiple contacts with the LAPD, particularly regarding his involvement in drug dealing, and is focusing on a specific incident where Fuhrman allegedly made a racially charged statement during an arrest in January 1987.
+   - **Witness Claim:** Mr. Hodge is unable to recall specific details about the date of his arrest or the exact circumstances surrounding it, which complicates the defense's line of questioning.
+
+2. **Conflicts and Disagreement:**
+   - There is a conflict regarding the timeline and details of Mr. Hodge's arrest, as the defense is trying to pin down the date and context of the alleged statement made by Fuhrman. The witness's inability to recall specific details leads to objections from the prosecution, indicating a disagreement over the relevance and scope of the questioning. The defense insists that the key issue is whether Fuhrman made a racially charged remark during the arrest, while the court sustains objections that limit the defense's questioning.
+
+Recent Exchanges:
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+Current Exchange:
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+","```json
+{
+    ""belief"": ""The witness's response is consistent with the prosecution's attempt to establish a timeline and context for the arrest, but the witness's request for clarification on the occasion makes the response slightly less direct and potentially less convincing."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness's response is consistent with the prosecution's attempt to establish a timeline and context for the arrest, but the witness's request for clarification on the occasion makes the response slightly less direct and potentially less convincing.",3,1,0,2,2,Witness,2,0,0,0,0.0,0.5,0.0,1.5,0.5,-1.082159751217265,-0.9753711406491864,0.0519013400917675,-0.1067886105680785
+Q/A,You filed a formal complaint?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense is focused on establishing the credibility and background of Mr. Hodge, a witness who was arrested by officers Vettraino and Fuhrman. The defense claims that Mr. Hodge was involved in criminal activities as a crack dealer associated with the Playboy Gangster Crips, suggesting that his testimony may be influenced by his past. They emphasize the importance of the specific date of the arrest and the context of the alleged statement made by Officer Fuhrman.
+
+On the other hand, the prosecution, represented by Mr. Darden, objects to the defense's line of questioning, arguing that it is beyond the scope of the current inquiry. The conflict arises from the defense's attempt to establish a timeline and context for Mr. Hodge's arrest while the prosecution seeks to limit the discussion to relevant facts without delving into Mr. Hodge's criminal history or the specifics of his past interactions with the police. The disagreement centers on the relevance of Mr. Hodge's background and the implications of the alleged statement made by Officer Fuhrman during the arrest.
+
+Recent Exchanges:
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+Current Exchange:
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+","```json
+{
+    ""belief"": ""The witness has committed to filing a formal complaint, which supports the prosecution's narrative of the witness being mistreated by the officers. However, the witness's commitment level is moderate as he is clarifying the specific occasion."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""2""
+}
+```","The witness has committed to filing a formal complaint, which supports the prosecution's narrative of the witness being mistreated by the officers. However, the witness's commitment level is moderate as he is clarifying the specific occasion.",3,1,0,1,2,Questioner,2,0,0,0,-0.2,0.5,0.0,2.0,0.5,-0.8948628711988923,-0.9753711406491864,-0.0430471635850208,0.0805082694502941
+Q/A,"Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?",At this time--,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Mr. Hodge's past interactions with police officers Vettraino and Fuhrman.
+
+1. **Important Claims:**
+   - **Defense's Claim:** The defense is attempting to establish that Mr. Hodge had multiple contacts with the LAPD, particularly focusing on an incident in January 1987 where Fuhrman allegedly made a racially charged statement to Mr. Hodge during an arrest. The defense is trying to highlight the context of Mr. Hodge's background as a crack dealer associated with the Playboy Gangster Crips to question his credibility and the nature of the police's treatment.
+   - **Witness's Claim:** Mr. Hodge confirms that he was arrested by the officers in question and acknowledges that he filed a formal complaint regarding the manner of his arrest, although he struggles to recall specific details about the date and circumstances.
+
+2. **Conflicts and Disagreements:**
+   - There is a conflict regarding the relevance and scope of the questions being asked by the defense. The court sustains objections to certain questions, indicating that the defense's line of questioning may be straying from the established parameters of the case.
+   - The defense is focused on the specific incident and the alleged statement made by Fuhrman, while the witness appears hesitant and unable to provide clear answers about the details, leading to tension in the courtroom regarding the admissibility of the evidence and the witness's reliability.
+
+Recent Exchanges:
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+Current Exchange:
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+","```json
+{
+    ""belief"": ""The witness appears to be providing relevant and consistent information, which supports the prosecution's case. However, the question about the drill is irrelevant and the witness's response is unclear."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""3"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness appears to be providing relevant and consistent information, which supports the prosecution's case. However, the question about the drill is irrelevant and the witness's response is unclear.",3,1,0,3,3,Witness,2,1,1,0,0.0,0.5,0.4,2.5,0.9,-0.7075659911805194,-0.816845808534646,-0.071686546492585,0.1092798173541265
+Q/A,You complained to Internal Affairs Division at LAPD; is that right?,"I believe it was Internal Affairs, yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense is questioning Mr. Hodge, a witness, regarding his past interactions with LAPD officers Vettraino and Fuhrman, particularly focusing on an arrest that occurred on January 13, 1987. 
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was a known crack dealer associated with the Playboy Gangster Crips and that there were multiple contacts between him and the LAPD. They are particularly interested in whether Fuhrman made a racially charged statement during the arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested by the officers but struggles to recall specific details, including the exact date of the arrest. He acknowledges filing a formal complaint against the LAPD regarding the manner of his arrest.
+
+2. **Conflicts and Disagreements:**
+   - There is a disagreement over the relevance and scope of the questions being asked by the defense. The court sustains objections to certain questions, indicating that they may be beyond the scope of the current inquiry or assume knowledge that the jury does not have.
+   - The defense is focused on establishing a timeline and context for the alleged statement made by Fuhrman, while the witness's inability to recall specific details creates tension in the questioning. The defense's insistence on the importance of the date and the nature of the complaint contrasts with the witness's limited recollection, leading to a conflict in the narrative being presented.
+
+Recent Exchanges:
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+Current Exchange:
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+","```json
+{
+    ""belief"": ""The witness's response is consistent with previous testimony and is slightly relevant to the question. The witness appears to be providing a clear and truthful response, which benefits the witness's credibility."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2. Credibility attack on other side""
+}
+```","The witness's response is consistent with previous testimony and is slightly relevant to the question. The witness appears to be providing a clear and truthful response, which benefits the witness's credibility.",3,1,0,2,2,Witness,2. Credibility attack on other side,0,0,0,0.1428571428571428,0.5,0.0,3.0,0.9,-0.5202691111621467,-0.816845808534646,-0.2218034463632727,0.2965766973724992
+Q/A,Okay. You were interviewed by them?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense is questioning Mr. Hodge, a witness, regarding his past interactions with LAPD officers Vettraino and Fuhrman, particularly focusing on an arrest that occurred on January 13, 1987. 
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was a known crack dealer associated with the Playboy Gangster Crips and that there were multiple contacts between him and the LAPD. They are particularly interested in whether Fuhrman made a racially charged statement during the arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested by the officers in question and that he filed a formal complaint regarding the manner of his arrest.
+
+2. **Conflicts and Disagreements:**
+   - There is a disagreement over the relevance and scope of the questions being asked by the defense, with the court sustaining objections to some of the defense's inquiries. The defense is trying to establish the context of the arrest and the witness's complaints against the officers, while the prosecution is concerned about the direction and implications of the questioning.
+   - The defense is focused on the specific incident and the alleged statement made by Fuhrman, while the witness seems to struggle with recalling exact details, leading to further objections and clarifications from the court.
+
+Recent Exchanges:
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+Current Exchange:
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+","```json
+{
+    ""belief"": ""The witness has maintained a neutral stance and provided a straightforward answer, which does not significantly benefit either side. However, the question about the IAD minute was not properly clarified, which could be seen as a slight benefit to the prosecution as it may lead to further questioning."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness has maintained a neutral stance and provided a straightforward answer, which does not significantly benefit either side. However, the question about the IAD minute was not properly clarified, which could be seen as a slight benefit to the prosecution as it may lead to further questioning.",3,1,0,2,2,Witness,2,0,0,0,0.25,0.5,0.0,3.5,0.9,-0.3329722311437739,-0.816845808534646,-0.4208262183172925,0.483873577390872
+Q/A,Okay. And were you interviewed by a supervising officer at West L.A. Station as well?,I believe it was a supervising officer.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense is questioning Mr. Hodge, a witness, regarding his past interactions with LAPD officers Vettraino and Fuhrman, particularly focusing on an arrest that occurred on January 13, 1987. 
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was a known crack dealer associated with the Playboy Gangster Crips and that there were multiple contacts between him and the LAPD. They are particularly interested in whether Fuhrman made a racially charged statement during the arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested by the officers in question and that he filed a formal complaint regarding the manner of his arrest, indicating he had issues with how he was treated.
+
+2. **Conflicts and Disagreements:**
+   - There is a disagreement over the relevance and scope of the questions being asked by the defense, with the court sustaining objections to some of the defense's inquiries. The defense is trying to establish a timeline and context for the arrest, while the prosecution seems to be concerned about the direction of the questioning and its relevance to the case at hand.
+   - The defense is focused on the specific incident and the alleged statement made by Fuhrman, while the witness appears to have difficulty recalling certain details, leading to further objections and clarifications from the court.
+
+Recent Exchanges:
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+Current Exchange:
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and does not provide any new information that would benefit either side significantly. The response is slightly relevant and clear, but it does not strongly support either the prosecution or the defense."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""1"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is consistent with previous testimony and does not provide any new information that would benefit either side significantly. The response is slightly relevant and clear, but it does not strongly support either the prosecution or the defense.",3,1,1,2,2,Witness,2,0,0,0,0.3333333333333333,0.5,0.8,4.0,1.7000000000000002,-0.1456753511254012,-0.4997951443055649,-0.5486227421498575,0.3541197931801637
+Q/A,Okay. And your name is Roderic T. Hodge; is that correct?,"No, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Mr. Hodge's past interactions with police officers Vettraino and Fuhrman, particularly focusing on an arrest that occurred in January 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge had multiple contacts with the LAPD, specifically highlighting his history as a crack dealer associated with the Playboy Gangster Crips. They are particularly interested in whether Fuhrman made a racially charged statement during the arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested by the officers in question and that he filed a formal complaint regarding the manner of his arrest, indicating that he felt it was inappropriate.
+
+2. **Conflicts and Disagreement:**
+   - There is a disagreement over the relevance and scope of the questions being asked by the defense. The court sustains objections to certain questions, indicating that they may be beyond the scope of the current inquiry or assume knowledge that the jury does not have.
+   - The defense is focused on establishing the context of the arrest and the alleged statement made by Fuhrman, while the witness seems to struggle with recalling specific details, leading to further objections and interruptions from the court. This creates tension as the defense tries to navigate the limitations imposed by the court while still attempting to build their case.
+
+Recent Exchanges:
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+Current Exchange:
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+","```json
+{
+    ""belief"": ""The witness's response is not consistent with his previous testimony and is somewhat unclear, which benefits the prosecution in this context. The witness's commitment level is low, and the response is not very truthful."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""1"",
+    ""relevance_rate"": ""3"",
+    ""manner_rate"": ""3"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""2""
+}
+```","The witness's response is not consistent with his previous testimony and is somewhat unclear, which benefits the prosecution in this context. The witness's commitment level is low, and the response is not very truthful.",4,0,1,3,3,Questioner,2,1,1,0,0.2,0.0,1.3,4.0,3.0,-0.1456753511254012,0.0154121850666915,1.23663151346629,-0.1610875361920927
+Q/A,Okay. What is your name?,Roderic T. Hodge.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Mr. Hodge's past interactions with the LAPD, specifically focusing on an arrest by officers Vettraino and Fuhrman in January 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge had multiple contacts with the LAPD, suggesting a history that may affect his credibility. They emphasize that the key issue is whether Officer Fuhrman made a racially charged statement during the arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested and filed a formal complaint against the LAPD regarding the manner of his arrest, indicating that he had grievances about the officers' conduct.
+
+2. **Conflicts and Disagreement:**
+   - There is a conflict regarding the specifics of Mr. Hodge's arrest and the details surrounding it, including the exact date and the nature of the complaint he filed. The defense's attempts to clarify these details are met with objections from the prosecution, leading to sustained objections from the court.
+   - The defense is focused on establishing a narrative that questions the integrity of the LAPD's actions, while the witness's responses seem to create ambiguity, particularly when he struggles to confirm his name and the details of the complaint. This creates a tension between the defense's line of questioning and the witness's recollection.
+
+Recent Exchanges:
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+Current Exchange:
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+","```json
+{
+    ""belief"": ""The witness has now provided a name that matches the one on the record, which could be seen as a beneficial commitment as it aligns with the prosecution's expectations. However, the witness's initial denial of the name 'Roderic T. Hodge' might suggest some level of deception or confusion."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""1"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness has now provided a name that matches the one on the record, which could be seen as a beneficial commitment as it aligns with the prosecution's expectations. However, the witness's initial denial of the name 'Roderic T. Hodge' might suggest some level of deception or confusion.",2,0,1,1,2,Witness,2,0,0,0,0.2727272727272727,1.0,1.0,5.0,4.0,0.2289184089113443,0.4117255153530427,-0.2853490051460408,-0.1828071064416983
+Q/A,What is your birthdate?,"August 22, 1964.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Mr. Hodge's past interactions with the LAPD, specifically focusing on an arrest that occurred on January 13, 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was a known crack dealer associated with the Playboy Gangster Crips and that he had multiple contacts with the LAPD, which is relevant to the credibility of the police officers involved in his arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested by officers Vettraino and Fuhrman and that he filed a formal complaint regarding the manner of his arrest, indicating a negative experience with the police.
+
+2. **Conflicts and Disagreement:**
+   - There is a conflict regarding the specifics of the arrest date and the details surrounding it, with the defense trying to clarify the timeline and the nature of the arrest.
+   - The defense's line of questioning is met with objections from the prosecution, indicating a disagreement over the relevance and scope of the questions being asked, particularly concerning the details of Mr. Hodge's arrest and the complaint he filed.
+   - The defense emphasizes the importance of the alleged racist comment made by Officer Fuhrman during the arrest, which is central to their argument, while the prosecution appears to be trying to limit the scope of the inquiry.
+
+Recent Exchanges:
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+Current Exchange:
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+","```json
+{
+    ""belief"": ""The witness has provided a clear and consistent response to the question about his birthdate, which is relevant to the case. The witness has also corrected the prosecutor's mistake regarding his name, which could be seen as a minor credibility attack on the prosecution."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness has provided a clear and consistent response to the question about his birthdate, which is relevant to the case. The witness has also corrected the prosecutor's mistake regarding his name, which could be seen as a minor credibility attack on the prosecution.",3,1,0,1,1,Witness,2,0,0,0,0.3333333333333333,0.5,0.0,5.5,4.0,0.4162152889297171,0.4117255153530427,0.0054228195463368,0.0044897735766744
+Q/A,"Does that refresh your recollection that the date of arrest was January 13, 1987?","Not really, sir, but I take it--",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Mr. Hodge's past interactions with the LAPD, specifically focusing on an arrest made by officers Vettraino and Fuhrman in January 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was a known crack dealer associated with the Playboy Gangster Crips and that he had multiple contacts with the LAPD. They are particularly focused on whether Officer Fuhrman made a racially charged statement during the arrest, which is central to the defense's argument.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested and that he filed a formal complaint against the LAPD regarding the manner of his arrest, indicating that he had issues with how he was treated by the officers.
+
+2. **Conflicts and Disagreement:**
+   - There is a conflict regarding the specifics of Mr. Hodge's arrest and the details surrounding it, including the exact date and the nature of the complaint he filed. The defense is trying to clarify these details, but the witness struggles to recall specifics, leading to objections from the prosecution about the relevance and scope of the questions.
+   - The defense's line of questioning is met with objections from the prosecution, indicating a disagreement over the admissibility of certain evidence and the relevance of the questions being asked. The court sustains these objections, which creates tension in the examination process.
+
+Recent Exchanges:
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+Current Exchange:
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+","```json
+{
+    ""belief"": ""The witness appears to be maintaining a neutral stance and is providing accurate information, which does not significantly benefit either side. However, the discrepancy in the name and birthdate may raise some concerns about the witness's overall reliability."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""1"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness appears to be maintaining a neutral stance and is providing accurate information, which does not significantly benefit either side. However, the discrepancy in the name and birthdate may raise some concerns about the witness's overall reliability.",3,1,1,2,2,Witness,2,0,0,0,0.3846153846153846,0.5,1.2000000000000002,6.0,5.2,0.6035121689480899,0.8873015116966642,-0.1903586923255491,-0.2837893427485742
+Q/A,Does that appear to be the complaint that you filed with LAPD?,"Yes, sir, it does. It appears to be.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Mr. Hodge's past arrest by officers Vettraino and Fuhrman on January 13, 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish the context of Mr. Hodge's arrest, emphasizing that he was a known crack dealer associated with the Playboy Gangster Crips and that the specific incident in question involves a claim that Officer Fuhrman made a racially charged statement during the arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested and filed a complaint against the LAPD regarding the manner of his arrest, but he struggles to recall specific details, including the exact date.
+
+2. **Conflicts and Disagreements:**
+   - There is a conflict regarding the exact date of the arrest, with the defense trying to pin down January 13, 1987, while Mr. Hodge is unable to confirm this date definitively.
+   - The defense's line of questioning is met with objections from the prosecution, indicating a disagreement over the relevance and scope of the questions being asked, particularly concerning the details of the arrest and the nature of the complaint filed by Mr. Hodge.
+   - The defense is focused on establishing a narrative that questions the integrity of the officers involved, while the witness's inability to recall specific details creates tension in the testimony.
+
+Recent Exchanges:
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+Current Exchange:
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+","```json
+{
+    ""belief"": ""The witness appears to be consistent with previous testimony and is providing a clear and relevant response. However, the commitment level is low as the witness is hedging on the exact date and details."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness appears to be consistent with previous testimony and is providing a clear and relevant response. However, the commitment level is low as the witness is hedging on the exact date and details.",3,1,0,1,2,Witness,2,0,0,0,0.4285714285714285,0.5,0.0,6.5,5.2,0.7908090489664626,0.8873015116966642,-0.0575006587718936,-0.0964924627302015
+Q/A,"Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?","Yes, sir, it does indicate that.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, are engaged in a discussion regarding Mr. Hodge's past interactions with the LAPD, specifically focusing on an arrest that occurred on January 13, 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was a known crack dealer associated with the Playboy Gangster Crips and that he had multiple contacts with the LAPD, which is relevant to the credibility of the officers involved in his arrest. The defense emphasizes that the key issue is whether Officer Fuhrman made a racially charged statement during the arrest.
+   - **Witness Claim:** Mr. Hodge confirms that he filed a formal complaint against the LAPD regarding the manner of his arrest, indicating that he had negative experiences with the officers involved.
+
+2. **Conflicts and Disagreement:**
+   - There is a conflict regarding the exact date of Mr. Hodge's arrest, with the defense trying to confirm January 13, 1987, while Mr. Hodge struggles to recall the specific date.
+   - The defense's line of questioning is met with objections from the prosecution, indicating a disagreement over the relevance and scope of the questions being asked. The court sustains these objections at times, suggesting that the defense's approach may be straying from the main issues at hand.
+   - Additionally, there is a moment of confusion when Mr. Hodge initially misstates his name, which could imply issues of credibility or memory that the defense may want to address.
+
+Recent Exchanges:
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+Current Exchange:
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+","```json
+{
+    ""belief"": ""The witness has provided a consistent and relevant response that aligns with his previous testimony. The response is clear and directly answers the question, which benefits the witness."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness has provided a consistent and relevant response that aligns with his previous testimony. The response is clear and directly answers the question, which benefits the witness.",2,1,0,1,2,Witness,2,0,0,0,0.4666666666666667,1.0,0.0,7.5,5.2,1.1654028090032085,0.8873015116966642,0.1354804462104532,0.2781012973065441
+Q/A,Okay. Did you have such an interview?,"Yes, sir, I believe so.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, present conflicting claims regarding an arrest that took place on January 13, 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was arrested by officers Vettraino and Fuhrman and is focusing on whether Fuhrman made a racially charged statement during the arrest. The defense emphasizes the context of Mr. Hodge's background as a crack dealer associated with the Playboy Gangster Crips, suggesting that this history is relevant to the credibility of the officers involved.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested and filed a complaint against the LAPD regarding the manner of his arrest, but he struggles to recall specific details, including the exact date of the arrest.
+
+2. **Conflicts and Disagreement:**
+   - There is a disagreement over the specifics of the arrest, particularly the date and the details surrounding the alleged statement made by Officer Fuhrman. The defense is trying to pin down the timeline and the nature of the interactions between Mr. Hodge and the police, while Mr. Hodge's inability to recall certain details creates tension.
+   - The defense's line of questioning is met with objections from the prosecution, indicating a conflict over the relevance and scope of the questions being asked. The court sustains these objections, which further complicates the defense's efforts to establish their narrative regarding the arrest and the conduct of the officers involved.
+
+Recent Exchanges:
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+Current Exchange:
+PROSECUTION: Okay. Did you have such an interview?
+D_WITNESS: Yes, sir, I believe so.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+","```json
+{
+    ""belief"": ""The witness appears to be providing consistent and relevant information, though with some uncertainty. The response does not significantly benefit either side but maintains neutrality."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""1"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2. Credibility attack on other side""
+}
+```","The witness appears to be providing consistent and relevant information, though with some uncertainty. The response does not significantly benefit either side but maintains neutrality.",3,1,1,2,2,Witness,2. Credibility attack on other side,0,0,0,0.5,0.5,1.6,8.0,6.800000000000001,1.352699689021581,1.5214028401548263,-0.0586976802047449,-0.1687031511332453
+Q/A,Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?,"I haven't read over the entire of the interview, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, present conflicting claims regarding an arrest that took place on January 13, 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was arrested by officers Vettraino and Fuhrman and is focusing on the nature of that arrest, particularly whether Fuhrman made a racially charged statement during the encounter. The defense emphasizes that Mr. Hodge was involved in criminal activity as a crack dealer, which may affect his credibility.
+   - **Witness Claim:** Mr. Hodge confirms that he was arrested and filed a complaint against the LAPD regarding the manner of his arrest, indicating that he had negative experiences with the officers involved.
+
+2. **Conflicts and Disagreement:**
+   - There is a disagreement over the specifics of the arrest date and the details surrounding it, as Mr. Hodge struggles to recall the exact date and circumstances. The defense is trying to pin down the timeline and the nature of the arrest, while the witness appears uncertain about some details.
+   - The defense's line of questioning is met with objections from the prosecution, indicating a conflict over the relevance and scope of the questions being asked. The court sustains these objections, highlighting a disagreement on what information is pertinent to the case.
+   - The defense is also trying to establish Mr. Hodge's credibility by pointing out his criminal background, while Mr. Hodge's testimony about filing a complaint against the LAPD suggests he may have been a victim of police misconduct, creating a tension between the defense's portrayal of him and his own narrative.
+
+Recent Exchanges:
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+D_WITNESS: Yes, sir, I believe so.
+
+Current Exchange:
+PROSECUTION: Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?
+D_WITNESS: I haven't read over the entire of the interview, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+D_WITNESS: Yes, sir, I believe so.
+
+PROSECUTION: Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?
+","```json
+{
+    ""belief"": ""The witness appears to be maintaining a neutral stance and is not providing clear information that would benefit either side. The response is somewhat vague and does not directly address the question, which could be seen as a slight benefit to the prosecution as it leaves room for doubt."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""3"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}
+```","The witness appears to be maintaining a neutral stance and is not providing clear information that would benefit either side. The response is somewhat vague and does not directly address the question, which could be seen as a slight benefit to the prosecution as it leaves room for doubt.",3,0,0,3,2,Witness,2,1,0,0,0.5294117647058824,0.5,0.2,8.5,7.000000000000001,1.5399965690399535,1.6006655062120965,-0.0193172444912825,-0.0606689371721427
+Q/A,Did you see the epithet indicated here in these documents?,"No, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+
+### Issues and Facts:
+
+1. **Witness Background and Arrest:**
+   - **Fact:** Mr. Hodge lived on Corning Avenue and was arrested by officers Vettraino and Fuhrman on January 13, 1987.
+   - **Conflict:** Mr. Hodge is unable to recall the exact date of his arrest, which the Prosecution is trying to establish.
+
+2. **Nature of Arrest:**
+   - **Fact:** The Prosecution suggests that Mr. Hodge was involved in drug dealing (specifically crack cocaine) and was associated with the Playboy Gangster Crips.
+   - **Conflict:** The Prosecution is trying to establish the credibility of Mr. Hodge's testimony by highlighting his criminal background.
+
+3. **Complaints Against Police:**
+   - **Fact:** Mr. Hodge filed a formal complaint with the LAPD regarding the manner of his arrest.
+   - **Conflict:** The Prosecution questions whether Mr. Hodge complained about any racial epithets used by Officer Fuhrman during the arrest, which he does not recall mentioning in his complaint.
+
+4. **Internal Affairs Division (IAD) Interview:**
+   - **Fact:** Mr. Hodge was interviewed by the Internal Affairs Division and a supervising officer at West L.A. Station.
+   - **Conflict:** The Prosecution is trying to establish that there is no record of Mr. Hodge complaining about Fuhrman's use of racial slurs in the IAD documents.
+
+5. **Credibility of Testimony:**
+   - **Fact:** The Prosecution is attempting to undermine Mr. Hodge's credibility by pointing out inconsistencies and the lack of mention of racial epithets in his complaints.
+   - **Conflict:** Mr. Hodge's inability to recall specific details and the Prosecution's insistence on the absence of documented complaints about epithets create a tension regarding his reliability as a witness.
+
+### Summary of Conflicts:
+- The primary conflict revolves around the credibility of Mr. Hodge as a witness, with the Prosecution attempting to discredit him by emphasizing his criminal history and the lack of evidence regarding his claims of racial slurs during his arrest.
+- There is also a procedural conflict regarding the relevance of the questions being asked, as the court sustains objections from the prosecution regarding the scope of the Prosecution's inquiries. 
+
+Overall, the dialogue illustrates a legal strategy focused on questioning the reliability of a witness while navigating procedural constraints in court.","Previous Context Summary:
+In the court conversation, the defense and the witness, Mr. Hodge, present conflicting claims regarding an arrest that took place on January 13, 1987.
+
+1. **Important Claims:**
+   - **Defense Claim:** The defense is attempting to establish that Mr. Hodge was arrested by officers Vettraino and Fuhrman and is focusing on whether Fuhrman made a racially charged statement during the arrest. The defense emphasizes the context of Mr. Hodge's background as a crack dealer associated with a gang, suggesting that this history is relevant to the credibility of his testimony.
+   - **Witness Claim:** Mr. Hodge confirms that he filed a complaint with the LAPD regarding his arrest but does not recall the specifics of the date or the details of the complaint, particularly whether it included any mention of racial epithets used by Fuhrman.
+
+2. **Conflicts and Disagreement:**
+   - There is a disagreement over the specifics of Mr. Hodge's arrest and the details of his complaint against the officers. The defense is trying to pin down the exact date and circumstances of the arrest, while Mr. Hodge struggles to recall these details accurately.
+   - The defense's line of questioning is met with objections from the prosecution, indicating a conflict over the relevance and scope of the questions being asked. The court sustains these objections, highlighting a tension between the defense's attempts to establish a timeline and the prosecution's efforts to limit the inquiry to relevant matters.
+   - Additionally, Mr. Hodge's inability to confirm whether he complained about Fuhrman's use of epithets creates further conflict, as the defense suggests that this omission is significant to the case.
+
+Recent Exchanges:
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+D_WITNESS: Yes, sir, I believe so.
+
+PROSECUTION: Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?
+D_WITNESS: I haven't read over the entire of the interview, sir.
+
+Current Exchange:
+PROSECUTION: Did you see the epithet indicated here in these documents?
+D_WITNESS: No, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
+D_WITNESS: I'm unable to recall the exact date, sir.
+
+PROSECUTION: By the way, did you--were you only arrested once by Vettraino and Fuhrman and placed in a police vehicle?
+nan: nan
+
+PROSECUTION: Your Honor, object. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Trying to establish the date, your Honor.
+nan: nan
+
+COURT: The date of January, '87, is close enough.
+nan: nan
+
+PROSECUTION: Perhaps I should approach then.
+nan: nan
+
+COURT: All right. Mr. Darden, where are you going with this?
+nan: nan
+
+PROSECUTION: I'm trying to establish what the date is, because--I will give this to Mr. Cochran. This is the printout on the F.I.'s with that time with Mr. Hodge. There were many, many, many, many contacts by LAPD, from the narcotics and gang units, of Mr. Hodge. Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips.
+nan: nan
+
+PROSECUTION: Judge, isn't the issue whether or not Fuhrman arrested this man and indicated to him--the issue he was called for you limited very specifically was whether Fuhrman turned around and said, ""I tell you I will get you Nigger."" That is the question. It happened in January of 1987. That is the question.
+nan: nan
+
+PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
+D_WITNESS: On which occasion, sir?
+
+PROSECUTION: On the occasion you just described for Mr. Cochran?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: You filed a formal complaint?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: When you were arrested, were you holding a drill or something in your hand?
+nan: nan
+
+PROSECUTION: Object to the form of this question, your Honor. Beyond the scope.
+nan: nan
+
+COURT: Sustained.
+nan: nan
+
+PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
+D_WITNESS: At this time--
+
+COURT: Excuse me, counsel. I think your question assumes IAD and that the jury knows what we are talking about here.
+nan: nan
+
+PROSECUTION: Certainly.
+nan: nan
+
+PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
+D_WITNESS: I believe it was Internal Affairs, yes, sir.
+
+PROSECUTION: Okay. You were interviewed by them?
+D_WITNESS: Yes, sir.
+
+PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
+D_WITNESS: I believe it was a supervising officer.
+
+PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
+D_WITNESS: No, sir.
+
+PROSECUTION: Okay. What is your name?
+D_WITNESS: Roderic T. Hodge.
+
+PROSECUTION: What is your birthdate?
+D_WITNESS: August 22, 1964.
+
+PROSECUTION: May I see that, counsel?
+nan: nan
+
+COURT: I will give Mr. Cochran a copy.
+nan: nan
+
+COURT: All right.
+nan: nan
+
+PROSECUTION: Is that the--if you will just take a look at that, please, sir.
+nan: nan
+
+COURT: Mr. Darden.
+nan: nan
+
+PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
+D_WITNESS: Not really, sir, but I take it--
+
+PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
+D_WITNESS: Yes, sir, it does. It appears to be.
+
+PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
+D_WITNESS: Yes, sir, it does indicate that.
+
+PROSECUTION: Okay. Did you have such an interview?
+D_WITNESS: Yes, sir, I believe so.
+
+PROSECUTION: Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?
+D_WITNESS: I haven't read over the entire of the interview, sir.
+
+PROSECUTION: Did you see the epithet indicated here in these documents?
+","```json
+{
+    ""belief"": ""The witness appears to be maintaining his commitment to the truth and consistency with previous testimony. His response is clear and relevant to the question, which supports the prosecution's efforts to establish the details of the arrest and subsequent complaint."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""2. Credibility attack on other side""
+}
+```","The witness appears to be maintaining his commitment to the truth and consistency with previous testimony. His response is clear and relevant to the question, which supports the prosecution's efforts to establish the details of the arrest and subsequent complaint.",3,1,0,1,2,Questioner,2. Credibility attack on other side,0,0,0,0.4444444444444444,0.5,0.0,9.0,7.000000000000001,1.7272934490583265,1.6006655062120965,0.0380497309456572,0.12662794284623

@@ -1,5 +1,5 @@
-,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,type,question,answer,speaker,speaker_from,responder,Facts,Context,source,witness_name,witness_role,all_history
-0,1447,1447,1447,Q/A,"Okay. Now, Dr. Lee, I wanted to just mention very briefly or ask you very briefly about one of the matters that you just alluded to a few moments ago.","Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+type,question,answer,speaker,speaker_from,responder,Facts,Context,source,witness_name,witness_role,all_history
+Q/A,"Okay. Now, Dr. Lee, I wanted to just mention very briefly or ask you very briefly about one of the matters that you just alluded to a few moments ago.","Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -43,7 +43,7 @@ Current Exchange:
 PROSECUTION: Okay. Now, Dr. Lee, I wanted to just mention very briefly or ask you very briefly about one of the matters that you just alluded to a few moments ago.
 D_WITNESS: Yes, sir.",simpson_defense_6,Dr. Henry Lee,"Dr. Henry Lee was a forensic scientist who testified for the defense in the O.J. Simpson murder trial, where he questioned the handling of blood evidence. His testimony was a turning point in the trial. ","PROSECUTION: Okay. Now, Dr. Lee, I wanted to just mention very briefly or ask you very briefly about one of the matters that you just alluded to a few moments ago.
 "
-1,1448,1448,1448,Q/A,Regarding identification of human remains in cases here in the continental United States.,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Regarding identification of human remains in cases here in the continental United States.,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -97,7 +97,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: Regarding identification of human remains in cases here in the continental United States.
 "
-2,1449,1449,1449,Q/A,"Your most famous such case where you were personally involved at the crime scene, not at the time of the crime, but afterwards.",Thank you very much.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Your most famous such case where you were personally involved at the crime scene, not at the time of the crime, but afterwards.",Thank you very much.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -155,7 +155,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: Your most famous such case where you were personally involved at the crime scene, not at the time of the crime, but afterwards.
 "
-3,1450,1450,1450,Q/A,Yes.--was the People versus Crafts case; is that correct?,"Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Yes.--was the People versus Crafts case; is that correct?,"Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -219,7 +219,7 @@ D_WITNESS: Thank you very much.
 
 PROSECUTION: Yes.--was the People versus Crafts case; is that correct?
 "
-4,1451,1451,1451,Q/A,"Okay. And was that a case, sir, where the victim in that case, Helen Crafts, was killed by her husband and she was--he disposed of her by putting her body through a wood chipper machine?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Okay. And was that a case, sir, where the victim in that case, Helen Crafts, was killed by her husband and she was--he disposed of her by putting her body through a wood chipper machine?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -289,7 +289,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: Okay. And was that a case, sir, where the victim in that case, Helen Crafts, was killed by her husband and she was--he disposed of her by putting her body through a wood chipper machine?
 "
-5,1452,1452,1452,Q/A,"And in that particular case is it a fair summary of what happened that the biological evidence was spread over a very significant amount of territory, about 2500 square feet, in the snow by a river as a result of the body having gone through the wood clipper machine?",The majority this and probably wound up in the river. Only small fragment were found scattered around the river bank.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And in that particular case is it a fair summary of what happened that the biological evidence was spread over a very significant amount of territory, about 2500 square feet, in the snow by a river as a result of the body having gone through the wood clipper machine?",The majority this and probably wound up in the river. Only small fragment were found scattered around the river bank.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -366,7 +366,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And in that particular case is it a fair summary of what happened that the biological evidence was spread over a very significant amount of territory, about 2500 square feet, in the snow by a river as a result of the body having gone through the wood clipper machine?
 "
-6,1453,1453,1453,Q/A,"Right. And just so it is clear, what was done in this case is large amounts of snow were put in buckets and then taken into tents and melted and the biological evidence would tend to fall or sink to the bottom of the bucket and all the debris would tend to rise to the top and you just throw the debris out and take the biological evidence out in the bottom?","Not exactly. Any recognizable material, for example, we found a fingernail, you can recognize, you don't have to throw in a bucket. You just taken it out. If it is bone chips, we can recognize, or a tooth. We have a team of scientists, team of investigator work together since we can see and recognizable right away, you remove it. For example, I can see a scissor, I collect a scissor. I don't have to throw the scissor in the bucket. Things we cannot visually recognize, we use the second procedure.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Right. And just so it is clear, what was done in this case is large amounts of snow were put in buckets and then taken into tents and melted and the biological evidence would tend to fall or sink to the bottom of the bucket and all the debris would tend to rise to the top and you just throw the debris out and take the biological evidence out in the bottom?","Not exactly. Any recognizable material, for example, we found a fingernail, you can recognize, you don't have to throw in a bucket. You just taken it out. If it is bone chips, we can recognize, or a tooth. We have a team of scientists, team of investigator work together since we can see and recognizable right away, you remove it. For example, I can see a scissor, I collect a scissor. I don't have to throw the scissor in the bucket. Things we cannot visually recognize, we use the second procedure.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -450,7 +450,7 @@ D_WITNESS: The majority this and probably wound up in the river. Only small frag
 
 PROSECUTION: Right. And just so it is clear, what was done in this case is large amounts of snow were put in buckets and then taken into tents and melted and the biological evidence would tend to fall or sink to the bottom of the bucket and all the debris would tend to rise to the top and you just throw the debris out and take the biological evidence out in the bottom?
 "
-7,1454,1454,1454,Q/A,And that included some of the biological evidence in the case?,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,And that included some of the biological evidence in the case?,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -541,7 +541,7 @@ D_WITNESS: Not exactly. Any recognizable material, for example, we found a finge
 
 PROSECUTION: And that included some of the biological evidence in the case?
 "
-8,1455,1455,1455,Q/A,"And Dr. Lee, when that occurred, when the items would fall to the bottom of the bucket, various different biological samples could get mixed together or were mixed together; is that correct?","Yes, yes.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And Dr. Lee, when that occurred, when the items would fall to the bottom of the bucket, various different biological samples could get mixed together or were mixed together; is that correct?","Yes, yes.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -637,7 +637,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And Dr. Lee, when that occurred, when the items would fall to the bottom of the bucket, various different biological samples could get mixed together or were mixed together; is that correct?
 "
-9,1456,1456,1456,Q/A,"And it also mixed together human biological samples with others that were out there, like deer bones and the like; is that correct?","Yes, correct.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And it also mixed together human biological samples with others that were out there, like deer bones and the like; is that correct?","Yes, correct.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -739,7 +739,7 @@ D_WITNESS: Yes, yes.
 
 PROSECUTION: And it also mixed together human biological samples with others that were out there, like deer bones and the like; is that correct?
 "
-10,1457,1457,1457,Q/A,"Yes. And despite that, sir, it was proper and you did decide to attempt DNA technology on this evidence; is that correct?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Yes. And despite that, sir, it was proper and you did decide to attempt DNA technology on this evidence; is that correct?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -848,7 +848,7 @@ D_WITNESS: Yes, correct.
 
 PROSECUTION: Yes. And despite that, sir, it was proper and you did decide to attempt DNA technology on this evidence; is that correct?
 "
-11,1458,1458,1458,Q/A,"All right. But this case was a little while ago, as I recall, it was in the mid-eighties?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"All right. But this case was a little while ago, as I recall, it was in the mid-eighties?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -959,7 +959,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: All right. But this case was a little while ago, as I recall, it was in the mid-eighties?
 "
-12,1459,1459,1459,Q/A,"So with the state of the technology at that time, you were not actually able to do DNA, true?",No. We did some DNA work.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"So with the state of the technology at that time, you were not actually able to do DNA, true?",No. We did some DNA work.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1074,7 +1074,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: So with the state of the technology at that time, you were not actually able to do DNA, true?
 "
-13,1460,1460,1460,Q/A,"Oh, you did?","We did some X, Y, determine male, female.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Oh, you did?","We did some X, Y, determine male, female.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1192,7 +1192,7 @@ D_WITNESS: No. We did some DNA work.
 
 PROSECUTION: Oh, you did?
 "
-14,1461,1461,1461,Q/A,"Okay. You were also able to do--when I say ""You"" I'm also including your laboratory people--",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Okay. You were also able to do--when I say ""You"" I'm also including your laboratory people--",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1313,7 +1313,7 @@ D_WITNESS: We did some X, Y, determine male, female.
 
 PROSECUTION: Okay. You were also able to do--when I say ""You"" I'm also including your laboratory people--
 "
-15,1462,1462,1462,Q/A,Okay. And you were able to get results that identified the human remains in that case even though all the biological evidence was mixed together at the time that it was collected?,"Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Okay. And you were able to get results that identified the human remains in that case even though all the biological evidence was mixed together at the time that it was collected?,"Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1438,7 +1438,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: Okay. And you were able to get results that identified the human remains in that case even though all the biological evidence was mixed together at the time that it was collected?
 "
-16,1463,1463,1463,Q/A,"Do you agree, sir, that one of the practical realities that criminalists face who are working for law enforcement, is budgetary problems and monetary shortfalls?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Do you agree, sir, that one of the practical realities that criminalists face who are working for law enforcement, is budgetary problems and monetary shortfalls?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1566,7 +1566,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: Do you agree, sir, that one of the practical realities that criminalists face who are working for law enforcement, is budgetary problems and monetary shortfalls?
 "
-17,1464,1464,1464,Q/A,"So would you agree, sir, that generally speaking, forensic resources are scarce in the sense that we can't do all the testing and all the study in every case that we would like to do?","That is absolute correct. Of course if you have the support of the leadership, for example, I have a good boss, my commissioner very supportive to forensic science, so we try to do what supposed to do. Of course impossible to do every possible test in this earth for a certain case.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"So would you agree, sir, that generally speaking, forensic resources are scarce in the sense that we can't do all the testing and all the study in every case that we would like to do?","That is absolute correct. Of course if you have the support of the leadership, for example, I have a good boss, my commissioner very supportive to forensic science, so we try to do what supposed to do. Of course impossible to do every possible test in this earth for a certain case.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1697,7 +1697,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: So would you agree, sir, that generally speaking, forensic resources are scarce in the sense that we can't do all the testing and all the study in every case that we would like to do?
 "
-18,1465,1465,1465,Q/A,"Okay. All right. Have you read Mr. MacDonnell's article on the ""Absence of evidence is not evidence of absence""?",(No audible response.),,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Okay. All right. Have you read Mr. MacDonnell's article on the ""Absence of evidence is not evidence of absence""?",(No audible response.),,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1831,7 +1831,7 @@ D_WITNESS: That is absolute correct. Of course if you have the support of the le
 
 PROSECUTION: Okay. All right. Have you read Mr. MacDonnell's article on the ""Absence of evidence is not evidence of absence""?
 "
-19,1466,1466,1466,Q/A,"""Absence of evidence is not evidence of absence""?",I'm a Chinese. Take me a while to think about this double-talk. Absence--,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"""Absence of evidence is not evidence of absence""?",I'm a Chinese. Take me a while to think about this double-talk. Absence--,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -1968,7 +1968,7 @@ D_WITNESS: (No audible response.)
 
 PROSECUTION: ""Absence of evidence is not evidence of absence""?
 "
-20,1467,1467,1467,Q/A,And do you agree generally with the findings of MacDonnell in this particular article?,"In general, yes, but the specific example he give maybe not totally cover the whole situation.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,And do you agree generally with the findings of MacDonnell in this particular article?,"In general, yes, but the specific example he give maybe not totally cover the whole situation.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -2108,7 +2108,7 @@ D_WITNESS: I'm a Chinese. Take me a while to think about this double-talk. Absen
 
 PROSECUTION: And do you agree generally with the findings of MacDonnell in this particular article?
 "
-21,1468,1468,1468,Q/A,"Okay. But in general do you agree with the proposition that we really can't infer that someone cannot participate in a crime involving a bloody event simply because they don't have blood on them, on their clothing or on their person?","Again, as I indicate before, depend on situation. One example said beat up a rabbit. Rabbit, human two different scene. You beat up a rabbit, did not get blood spatter on your clothing. Doesn't mean you beat up a human did not get blood on your body, and I guess depends on situation. If you standing a distance, firing a shot, gunshot, thirty feet away, kill somebody, I don't expect to find blood spatter on somebody's clothing. That is correct. However, if you put the gun next to somebody's head, fire a shot, nothing, no clothing, block the back spatter, I expect to find some blood spatter, so it varies. I cannot in certain senses, correct. In other situation maybe not.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Okay. But in general do you agree with the proposition that we really can't infer that someone cannot participate in a crime involving a bloody event simply because they don't have blood on them, on their clothing or on their person?","Again, as I indicate before, depend on situation. One example said beat up a rabbit. Rabbit, human two different scene. You beat up a rabbit, did not get blood spatter on your clothing. Doesn't mean you beat up a human did not get blood on your body, and I guess depends on situation. If you standing a distance, firing a shot, gunshot, thirty feet away, kill somebody, I don't expect to find blood spatter on somebody's clothing. That is correct. However, if you put the gun next to somebody's head, fire a shot, nothing, no clothing, block the back spatter, I expect to find some blood spatter, so it varies. I cannot in certain senses, correct. In other situation maybe not.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -2252,7 +2252,7 @@ D_WITNESS: In general, yes, but the specific example he give maybe not totally c
 
 PROSECUTION: Okay. But in general do you agree with the proposition that we really can't infer that someone cannot participate in a crime involving a bloody event simply because they don't have blood on them, on their clothing or on their person?
 "
-22,1469,1469,1469,Q/A,Okay. Isn't there a lot of forensic science literature out there that generally cautions the forensic scientists who are involved in blood spatter that you can't really say that someone didn't participate in a crime just because they are not covered in blood even if it is something like a stabbing?,"Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Okay. Isn't there a lot of forensic science literature out there that generally cautions the forensic scientists who are involved in blood spatter that you can't really say that someone didn't participate in a crime just because they are not covered in blood even if it is something like a stabbing?,"Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -2398,7 +2398,7 @@ D_WITNESS: Again, as I indicate before, depend on situation. One example said be
 
 PROSECUTION: Okay. Isn't there a lot of forensic science literature out there that generally cautions the forensic scientists who are involved in blood spatter that you can't really say that someone didn't participate in a crime just because they are not covered in blood even if it is something like a stabbing?
 "
-23,1470,1470,1470,Q/A,"All right. Now, sir, have you had some cases yourself in your own career as a forensic scientist where the crime scene was extremely bloody?","Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"All right. Now, sir, have you had some cases yourself in your own career as a forensic scientist where the crime scene was extremely bloody?","Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -2547,7 +2547,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: All right. Now, sir, have you had some cases yourself in your own career as a forensic scientist where the crime scene was extremely bloody?
 "
-24,1471,1471,1471,Q/A,Yet--yet the suspect did not have a lot of blood on his clothing?,"Off my head I don't really remember every crime scene I went. In general more blood, I should expect to find some blood on the suspect. Again, depends on situation. You have a shooting at a distance, yes, the victim lying there, have a lot of blood. Suspect with a long gun, you don't expect to find that. Those are correct. If a closed compact situation, maybe different.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Yet--yet the suspect did not have a lot of blood on his clothing?,"Off my head I don't really remember every crime scene I went. In general more blood, I should expect to find some blood on the suspect. Again, depends on situation. You have a shooting at a distance, yes, the victim lying there, have a lot of blood. Suspect with a long gun, you don't expect to find that. Those are correct. If a closed compact situation, maybe different.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -2699,7 +2699,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: Yet--yet the suspect did not have a lot of blood on his clothing?
 "
-25,1472,1472,1472,Q/A,"All right. Now, let's get to one of your comments about in theory, there should be some blood in response to Mr. Scheck's line of questioning.",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"All right. Now, let's get to one of your comments about in theory, there should be some blood in response to Mr. Scheck's line of questioning.",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -2854,7 +2854,7 @@ D_WITNESS: Off my head I don't really remember every crime scene I went. In gene
 
 PROSECUTION: All right. Now, let's get to one of your comments about in theory, there should be some blood in response to Mr. Scheck's line of questioning.
 "
-26,1473,1473,1473,Q/A,Remember that?,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Remember that?,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -3012,7 +3012,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: Remember that?
 "
-27,1474,1474,1474,Q/A,Okay. Would that also depend upon where the suspect was standing?,"Uh, depends on whether or not a combat situation, hand-to-hand combat situation. You have distance, of course, the chances for getting blood on unless some material spurt or certain force, internal force or external force. You have injury on the hand, have a cast off, have other motion, that going to cast to greater distance. If in close contact, if large amount of blood come out, you going to have more blood.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Okay. Would that also depend upon where the suspect was standing?,"Uh, depends on whether or not a combat situation, hand-to-hand combat situation. You have distance, of course, the chances for getting blood on unless some material spurt or certain force, internal force or external force. You have injury on the hand, have a cast off, have other motion, that going to cast to greater distance. If in close contact, if large amount of blood come out, you going to have more blood.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -3175,7 +3175,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: Okay. Would that also depend upon where the suspect was standing?
 "
-28,1475,1475,1475,Q/A,"Let me ask you this, doctor. Do you recall one of your fairly well known cases back in 1984 by the name of People versus Hoeplinger where a husband beat his wife to death by hitting her numerous times in the head with a brick, drug her body out to a fish pond, drug her back into the house and then claimed that someone else broke into the home and committed the murder?",80 percent correct. Not drag to the fish pond. Never got to the fish pond.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Let me ask you this, doctor. Do you recall one of your fairly well known cases back in 1984 by the name of People versus Hoeplinger where a husband beat his wife to death by hitting her numerous times in the head with a brick, drug her body out to a fish pond, drug her back into the house and then claimed that someone else broke into the home and committed the murder?",80 percent correct. Not drag to the fish pond. Never got to the fish pond.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -3339,7 +3339,7 @@ D_WITNESS: Uh, depends on whether or not a combat situation, hand-to-hand combat
 
 PROSECUTION: Let me ask you this, doctor. Do you recall one of your fairly well known cases back in 1984 by the name of People versus Hoeplinger where a husband beat his wife to death by hitting her numerous times in the head with a brick, drug her body out to a fish pond, drug her back into the house and then claimed that someone else broke into the home and committed the murder?
 "
-29,1476,1476,1476,Q/A,Only part way?,"Drug, carry to a location end of the driveway and drag into a pack of Sandril (Sic) to--near the neighbor's house and carry the body, half drug, half carry, put back in family room on the sofa.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Only part way?,"Drug, carry to a location end of the driveway and drag into a pack of Sandril (Sic) to--near the neighbor's house and carry the body, half drug, half carry, put back in family room on the sofa.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -3507,7 +3507,7 @@ D_WITNESS: 80 percent correct. Not drag to the fish pond. Never got to the fish 
 
 PROSECUTION: Only part way?
 "
-30,1477,1477,1477,Q/A,And isn't it true that that kind of an assault with the brick on the head by beating numerous times produces enormous amount of blood and it did so in the Hoeplinger case?,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,And isn't it true that that kind of an assault with the brick on the head by beating numerous times produces enormous amount of blood and it did so in the Hoeplinger case?,Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -3679,7 +3679,7 @@ D_WITNESS: Drug, carry to a location end of the driveway and drag into a pack of
 
 PROSECUTION: And isn't it true that that kind of an assault with the brick on the head by beating numerous times produces enormous amount of blood and it did so in the Hoeplinger case?
 "
-31,1478,1478,1478,Q/A,"And isn't it true that on the suspect's jeans, there were only two drops of blood?","Well, we assume that's the original jean. I don't have any record, but I do know he wash his T-shirt. I found a T-shirt washed in the pond.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And isn't it true that on the suspect's jeans, there were only two drops of blood?","Well, we assume that's the original jean. I don't have any record, but I do know he wash his T-shirt. I found a T-shirt washed in the pond.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -3852,7 +3852,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And isn't it true that on the suspect's jeans, there were only two drops of blood?
 "
-32,1479,1479,1479,Q/A,Right.,"But the blue jean, whether or not that's the original blue jean, I have no or information, record of it.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Right.,"But the blue jean, whether or not that's the original blue jean, I have no or information, record of it.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -4028,7 +4028,7 @@ D_WITNESS: Well, we assume that's the original jean. I don't have any record, bu
 
 PROSECUTION: Right.
 "
-33,1480,1480,1480,Q/A,"Well, you testified in court and those blue jeans were presented to a jury as being worn by the suspects--suspect, the husband at the time of the murder; is that correct?","I--that's long time ago. If you say correct, probably correct. I don't recall. There's thousands cases I been working on.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Well, you testified in court and those blue jeans were presented to a jury as being worn by the suspects--suspect, the husband at the time of the murder; is that correct?","I--that's long time ago. If you say correct, probably correct. I don't recall. There's thousands cases I been working on.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -4208,7 +4208,7 @@ D_WITNESS: But the blue jean, whether or not that's the original blue jean, I ha
 
 PROSECUTION: Well, you testified in court and those blue jeans were presented to a jury as being worn by the suspects--suspect, the husband at the time of the murder; is that correct?
 "
-34,1481,1481,1481,Q/A,Does that seem to be consistent with your memory?,Sure. Sure.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Does that seem to be consistent with your memory?,Sure. Sure.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -4391,7 +4391,7 @@ D_WITNESS: I--that's long time ago. If you say correct, probably correct. I don'
 
 PROSECUTION: Does that seem to be consistent with your memory?
 "
-35,1482,1482,1482,Q/A,And only two blood drops?,"I don't remember. If you say two drops, it's two drop.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,And only two blood drops?,"I don't remember. If you say two drops, it's two drop.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -4576,7 +4576,7 @@ D_WITNESS: Sure. Sure.
 
 PROSECUTION: And only two blood drops?
 "
-36,1483,1483,1483,Q/A,"And the scene was covered in blood, correct?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And the scene was covered in blood, correct?",Yes.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -4767,7 +4767,7 @@ D_WITNESS: I don't remember. If you say two drops, it's two drop.
 
 PROSECUTION: And the scene was covered in blood, correct?
 "
-37,1484,1484,1484,Q/A,"Sir, if a person were to wrap their hand around someone's throat and slit that person's throat--","Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Sir, if a person were to wrap their hand around someone's throat and slit that person's throat--","Yes, sir.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -4958,7 +4958,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: Sir, if a person were to wrap their hand around someone's throat and slit that person's throat--
 "
-38,1485,1485,1485,Q/A,"--and the blood spurted forward, would you expect the assailant to be covered in blood?",Probably not.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"--and the blood spurted forward, would you expect the assailant to be covered in blood?",Probably not.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### 1. **Identification of Human Remains**
    - **Case Reference**: The People versus Crafts case, where the victim, Helen Crafts, was killed by her husband and disposed of using a wood chipper.
@@ -5153,7 +5153,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: --and the blood spurted forward, would you expect the assailant to be covered in blood?
 "
-39,1486,1486,1486,Q/A,Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5200,7 +5200,7 @@ Current Exchange:
 PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
 D_WITNESS: No.",simpson_defense_7,Laura Hart Mckinny,"Screenwriter who created Fuhrman tapes, in which Fuhrman also made many references to the ""planting of evidence"" and implied that police brutality and evidence planting were common practice in the Los Angeles Police Department","PROSECUTION: Have you been attempting to sell any audiotapes other than the Fuhrman audiotapes?
 "
-40,1487,1487,1487,Q/A,Did you authorize your attorneys to sell the transcript?,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Did you authorize your attorneys to sell the transcript?,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5253,7 +5253,7 @@ D_WITNESS: No.
 
 PROSECUTION: Did you authorize your attorneys to sell the transcript?
 "
-41,1488,1488,1488,Q/A,Did you authorize them to sell the audiotapes?,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Did you authorize them to sell the audiotapes?,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5312,7 +5312,7 @@ D_WITNESS: No.
 
 PROSECUTION: Did you authorize them to sell the audiotapes?
 "
-42,1489,1489,1489,Q/A,Have you ever discussed with anyone selling the audiotapes for one-half million dollars?,Have I discussed that with anyone?,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Have you ever discussed with anyone selling the audiotapes for one-half million dollars?,Have I discussed that with anyone?,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5377,7 +5377,7 @@ D_WITNESS: No.
 
 PROSECUTION: Have you ever discussed with anyone selling the audiotapes for one-half million dollars?
 "
-43,1490,1490,1490,Q/A,Yes.,"No, I have not discussed it with anyone.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Yes.,"No, I have not discussed it with anyone.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5451,7 +5451,7 @@ D_WITNESS: Have I discussed that with anyone?
 
 PROSECUTION: Yes.
 "
-44,1491,1491,1491,Q/A,Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?,"I have authorized my attorneys to determine the value of the tapes, yes.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?,"I have authorized my attorneys to determine the value of the tapes, yes.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5531,7 +5531,7 @@ D_WITNESS: No, I have not discussed it with anyone.
 
 PROSECUTION: Have you also given--given your attorneys the authority to negotiate for the sale of the Fuhrman tapes?
 "
-45,1492,1492,1492,Q/A,"If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?",It is more to know what the value of the tapes were and I authorized my attorneys to do that.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,"If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?",It is more to know what the value of the tapes were and I authorized my attorneys to do that.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5618,7 +5618,7 @@ D_WITNESS: I have authorized my attorneys to determine the value of the tapes, y
 
 PROSECUTION: If you weren't interested in selling the tapes, why did you have your attorneys contact a publisher?
 "
-46,1493,1493,1493,Q/A,And that is because you were considering selling the tapes at the time?,No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,And that is because you were considering selling the tapes at the time?,No. I wanted to know what the value of the tapes were and my attorneys advised me that it was in my best interests and they would be negligent as attorneys if they didn't let me know exactly what the value--market value of the tapes and/or the transcripts would be.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5710,7 +5710,7 @@ D_WITNESS: It is more to know what the value of the tapes were and I authorized 
 
 PROSECUTION: And that is because you were considering selling the tapes at the time?
 "
-47,1494,1494,1494,Q/A,Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?,Yes.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?,Yes.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5808,7 +5808,7 @@ D_WITNESS: No. I wanted to know what the value of the tapes were and my attorney
 
 PROSECUTION: Was it your testimony yesterday that you were offended when you heard Mark Fuhrman use that epithet?
 "
-48,1495,1495,1495,Q/A,"Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?","Yes, I do.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,"Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?","Yes, I do.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -5912,7 +5912,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: Now, when you met with Miss Clark and Miss Lewis and Mr. Hodgman and myself on August 17, do you recall me asking you what you thought or what came to mind when you first heard Fuhrman use that epithet?
 "
-50,1497,1497,1497,Q/A,But you don't remember what came to mind at the time?,No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,But you don't remember what came to mind at the time?,No. That would have been about ten years ago. I could not remember the first time I heard that word used what came to my mind.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -6028,7 +6028,7 @@ D_WITNESS: That's correct, that I couldn't remember anything coming to mind the 
 
 PROSECUTION: But you don't remember what came to mind at the time?
 "
-51,1501,1501,1501,Q/A,You understand that that word is the most vile word in the English language?,"I think it is one of the most vile words in the English language, yes.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,You understand that that word is the most vile word in the English language?,"I think it is one of the most vile words in the English language, yes.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -6156,7 +6156,7 @@ nan: nan
 
 PROSECUTION: You understand that that word is the most vile word in the English language?
 "
-52,1502,1502,1502,Q/A,You think there are worse?,"Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,You think there are worse?,"Yes, I certainly do. Why are we having this adversarial relationship? I don't understand that. It is a vile word. Why do I have to define it more so than it is?",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -6288,7 +6288,7 @@ D_WITNESS: I think it is one of the most vile words in the English language, yes
 
 PROSECUTION: You think there are worse?
 "
-53,1503,1503,1503,Q/A,"You wrote a screenplay, right?",That is accurate.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,"You wrote a screenplay, right?",That is accurate.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -6423,7 +6423,7 @@ D_WITNESS: Yes, I certainly do. Why are we having this adversarial relationship?
 
 PROSECUTION: You wrote a screenplay, right?
 "
-54,1504,1504,1504,Q/A,Did you use that word in the screenplay?,Yes.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Did you use that word in the screenplay?,Yes.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -6561,7 +6561,7 @@ D_WITNESS: That is accurate.
 
 PROSECUTION: Did you use that word in the screenplay?
 "
-55,1505,1505,1505,Q/A,Did you attempt to out and sell that screenplay?,Certainly.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Did you attempt to out and sell that screenplay?,Certainly.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -6702,7 +6702,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: Did you attempt to out and sell that screenplay?
 "
-56,1509,1509,1509,Q/A,You have had one screenplay published or made into a film?,Have I had one screenplay made into a film?,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,You have had one screenplay published or made into a film?,Have I had one screenplay made into a film?,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -6855,7 +6855,7 @@ nan: nan
 
 PROSECUTION: You have had one screenplay published or made into a film?
 "
-57,1510,1510,1510,Q/A,Yes.,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Yes.,No.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -7011,7 +7011,7 @@ D_WITNESS: Have I had one screenplay made into a film?
 
 PROSECUTION: Yes.
 "
-58,1516,1516,1516,Q/A,"You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?",That is accurate.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,"You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?",That is accurate.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -7187,7 +7187,7 @@ nan: nan
 
 PROSECUTION: You told us yesterday that there was no racial subplot to the screenplay you were planning to write, correct?
 "
-59,1517,1517,1517,Q/A,And yet you use this epithet in your screenplay anyway; is that also correct?,That is true.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,And yet you use this epithet in your screenplay anyway; is that also correct?,That is true.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -7364,7 +7364,7 @@ D_WITNESS: That is accurate.
 
 PROSECUTION: And yet you use this epithet in your screenplay anyway; is that also correct?
 "
-60,1518,1518,1518,Q/A,"Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?","I felt that you were. I don't feel adversarial toward you, but I felt that there was something negative coming from some of your questions, yes.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,"Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?","I felt that you were. I don't feel adversarial toward you, but I felt that there was something negative coming from some of your questions, yes.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -7546,7 +7546,7 @@ D_WITNESS: That is true.
 
 PROSECUTION: Okay. Now, you asked a moment ago why we are involved in some adversarial relationship. Do you recall asking that?
 "
-61,1525,1525,1525,Q/A,Correct?,That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Correct?,That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -7747,7 +7747,7 @@ nan: nan
 
 PROSECUTION: Correct?
 "
-62,1526,1526,1526,Q/A,"You didn't stop him the fortieth or forty-second time that he used the epithet, correct?","I didn't abridge his dialogue or conversation during an interview, no.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,"You didn't stop him the fortieth or forty-second time that he used the epithet, correct?","I didn't abridge his dialogue or conversation during an interview, no.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -7953,7 +7953,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: You didn't stop him the fortieth or forty-second time that he used the epithet, correct?
 "
-63,1530,1530,1530,Q/A,Yes.,"No, I don't.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,Yes.,"No, I don't.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -8171,7 +8171,7 @@ nan: nan
 
 PROSECUTION: Yes.
 "
-64,1531,1531,1531,Q/A,"Why then include it in a screenplay, a screenplay that you intend to make into a movie?","Because it is reflective of particular officers or officer's dialogue, feelings at a particular time. It is representative of what would be said.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
+Q/A,"Why then include it in a screenplay, a screenplay that you intend to make into a movie?","Because it is reflective of particular officers or officer's dialogue, feelings at a particular time. It is representative of what would be said.",,Prosecution,D_WITNESS,"The dialogue presents a series of questions and answers between the Prosecution and a witness (P_WITNESS) regarding the sale of audiotapes, the use of a racial epithet, and the witness's screenplay. The facts can be categorized into the following issues:
 
 ### 1. **Sale of Audiotapes**
    - **Prosecution Claims:**
@@ -8390,7 +8390,7 @@ D_WITNESS: No, I don't.
 
 PROSECUTION: Why then include it in a screenplay, a screenplay that you intend to make into a movie?
 "
-65,1532,1532,1532,Q/A,"And the examination you did on the 15th of June, you say you have no notes of that; is that correct?","I have no notes of that, no.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And the examination you did on the 15th of June, you say you have no notes of that; is that correct?","I have no notes of that, no.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8431,7 +8431,7 @@ Current Exchange:
 PROSECUTION: And the examination you did on the 15th of June, you say you have no notes of that; is that correct?
 D_WITNESS: I have no notes of that, no.",simpson_defense_5,Dr. Robert Huizenga,Dr. Robert Huizenga was a defense witness in O.J. Simpson's 1995 murder trial. He examined Simpson and testified about his findings. Huizenga's testimony provided information about Simpson's physical ability to commit the crime.,"PROSECUTION: And the examination you did on the 15th of June, you say you have no notes of that; is that correct?
 "
-66,1533,1533,1533,Q/A,But you did in fact prepare a typewritten report; is that correct?,That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,But you did in fact prepare a typewritten report; is that correct?,That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8478,7 +8478,7 @@ D_WITNESS: I have no notes of that, no.
 
 PROSECUTION: But you did in fact prepare a typewritten report; is that correct?
 "
-67,1534,1534,1534,Q/A,"Doctor, where in your report did you list anything related to Mr. Simpson walking--I hate to use your terminology--like Tarzan's grandfather or having any kind of irregular gait, g-a-I-t?","Uh, that is not in the report. That was subsequently added--",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Doctor, where in your report did you list anything related to Mr. Simpson walking--I hate to use your terminology--like Tarzan's grandfather or having any kind of irregular gait, g-a-I-t?","Uh, that is not in the report. That was subsequently added--",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8531,7 +8531,7 @@ D_WITNESS: That is correct.
 
 PROSECUTION: Doctor, where in your report did you list anything related to Mr. Simpson walking--I hate to use your terminology--like Tarzan's grandfather or having any kind of irregular gait, g-a-I-t?
 "
-68,1535,1535,1535,Q/A,"And, doctor, would you agree that under normal circumstances, a doctor accepts as true the history that is given to him by the patient because of the belief that the patient has an incentive to be honest and candid with the physician in order that the physician can accurately identify any problem and subsequently treat it?","In most cases, that's true.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And, doctor, would you agree that under normal circumstances, a doctor accepts as true the history that is given to him by the patient because of the belief that the patient has an incentive to be honest and candid with the physician in order that the physician can accurately identify any problem and subsequently treat it?","In most cases, that's true.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8594,7 +8594,7 @@ D_WITNESS: Uh, that is not in the report. That was subsequently added--
 
 PROSECUTION: And, doctor, would you agree that under normal circumstances, a doctor accepts as true the history that is given to him by the patient because of the belief that the patient has an incentive to be honest and candid with the physician in order that the physician can accurately identify any problem and subsequently treat it?
 "
-69,1536,1536,1536,Q/A,Did you consider the possibility in evaluating Mr. Simpson on June 15th that he had a motive to lie regarding his symptoms?,"Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,Did you consider the possibility in evaluating Mr. Simpson on June 15th that he had a motive to lie regarding his symptoms?,"Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8663,7 +8663,7 @@ D_WITNESS: In most cases, that's true.
 
 PROSECUTION: Did you consider the possibility in evaluating Mr. Simpson on June 15th that he had a motive to lie regarding his symptoms?
 "
-70,1537,1537,1537,Q/A,"And, doctor, you have no independent basis on which to evaluate whether or not Mr. Simpson was truthful with you, fully candid or whether in fact he was pulling his punches with you, can you?",My report is based on the history that I obtained from him and my observations are the observations that I made of him.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And, doctor, you have no independent basis on which to evaluate whether or not Mr. Simpson was truthful with you, fully candid or whether in fact he was pulling his punches with you, can you?",My report is based on the history that I obtained from him and my observations are the observations that I made of him.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8740,7 +8740,7 @@ D_WITNESS: Yes, I did.
 
 PROSECUTION: And, doctor, you have no independent basis on which to evaluate whether or not Mr. Simpson was truthful with you, fully candid or whether in fact he was pulling his punches with you, can you?
 "
-71,1538,1538,1538,Q/A,"Now, doctor, on the 17th, if you felt that you had been unable to adequately examine Mr. Simpson on the 15th, you had an opportunity to conduct any additional examinations you required; isn't that correct?",That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, doctor, on the 17th, if you felt that you had been unable to adequately examine Mr. Simpson on the 15th, you had an opportunity to conduct any additional examinations you required; isn't that correct?",That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8823,7 +8823,7 @@ D_WITNESS: My report is based on the history that I obtained from him and my obs
 
 PROSECUTION: Now, doctor, on the 17th, if you felt that you had been unable to adequately examine Mr. Simpson on the 15th, you had an opportunity to conduct any additional examinations you required; isn't that correct?
 "
-73,1540,1540,1540,Q/A,"In your training, have you been taught for identifying osteoarthritis, that when you feel around the joint, you expect to find a hardening type of feeling, a bony type of feeling?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"In your training, have you been taught for identifying osteoarthritis, that when you feel around the joint, you expect to find a hardening type of feeling, a bony type of feeling?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -8919,7 +8919,7 @@ D_WITNESS: I did not.
 
 PROSECUTION: In your training, have you been taught for identifying osteoarthritis, that when you feel around the joint, you expect to find a hardening type of feeling, a bony type of feeling?
 "
-74,1541,1541,1541,Q/A,And have you also been taught--rheumatoid arthritis is an inflammatory disease; is it not?,"Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,And have you also been taught--rheumatoid arthritis is an inflammatory disease; is it not?,"Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9021,7 +9021,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And have you also been taught--rheumatoid arthritis is an inflammatory disease; is it not?
 "
-75,1542,1542,1542,Q/A,"Now, doctor, if you're concerned about rheumatoid arthritis, there's something called a grip test that can be done, isn't there?","Yes, there is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, doctor, if you're concerned about rheumatoid arthritis, there's something called a grip test that can be done, isn't there?","Yes, there is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9129,7 +9129,7 @@ D_WITNESS: Yes, it is.
 
 PROSECUTION: Now, doctor, if you're concerned about rheumatoid arthritis, there's something called a grip test that can be done, isn't there?
 "
-76,1543,1543,1543,Q/A,And that's a very simple test to do; is there not--is it not?,"It requires some specialized things because typically you do it with a bulb with a gauge, and we don't have that at our office.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,And that's a very simple test to do; is there not--is it not?,"It requires some specialized things because typically you do it with a bulb with a gauge, and we don't have that at our office.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9240,7 +9240,7 @@ D_WITNESS: Yes, there is.
 
 PROSECUTION: And that's a very simple test to do; is there not--is it not?
 "
-77,1544,1544,1544,Q/A,"Well, doctor, can't it be done in fact using a blood pressure device? You do have a blood pressure device, you know, those cuff things that you pump up and then you have a column, a sphygmomanometer I think is the fancy name for it, right?","We do have that. I could have done that test, but that's not a typical thing to do and would be totally inappropriate for this exam.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Well, doctor, can't it be done in fact using a blood pressure device? You do have a blood pressure device, you know, those cuff things that you pump up and then you have a column, a sphygmomanometer I think is the fancy name for it, right?","We do have that. I could have done that test, but that's not a typical thing to do and would be totally inappropriate for this exam.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9354,7 +9354,7 @@ D_WITNESS: It requires some specialized things because typically you do it with 
 
 PROSECUTION: Well, doctor, can't it be done in fact using a blood pressure device? You do have a blood pressure device, you know, those cuff things that you pump up and then you have a column, a sphygmomanometer I think is the fancy name for it, right?
 "
-78,1545,1545,1545,Q/A,"Doctor, where is it recorded the grip strength test result in your report of June 15th?","Well, there are numerous things that are normal that aren't reported. As I said, two hours of our interreaction are certainly not recorded here.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Doctor, where is it recorded the grip strength test result in your report of June 15th?","Well, there are numerous things that are normal that aren't reported. As I said, two hours of our interreaction are certainly not recorded here.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9471,7 +9471,7 @@ D_WITNESS: We do have that. I could have done that test, but that's not a typica
 
 PROSECUTION: Doctor, where is it recorded the grip strength test result in your report of June 15th?
 "
-79,1546,1546,1546,Q/A,"On June 15th, did Mr. Simpson in your opinion need a knee replacement?",He did not need a knee replacement on the 15th.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"On June 15th, did Mr. Simpson in your opinion need a knee replacement?",He did not need a knee replacement on the 15th.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9590,7 +9590,7 @@ D_WITNESS: Well, there are numerous things that are normal that aren't reported.
 
 PROSECUTION: On June 15th, did Mr. Simpson in your opinion need a knee replacement?
 "
-80,1547,1547,1547,Q/A,"And in fact, you made no effort to have him seen by an orthopedist after June 15th, between the June 15th and June 17th examinations; is that correct?","The orthopedic problems were chronic and something that would bother him over a many year period and were not of an acute nature, certainly not as acute as his other pressing problems.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And in fact, you made no effort to have him seen by an orthopedist after June 15th, between the June 15th and June 17th examinations; is that correct?","The orthopedic problems were chronic and something that would bother him over a many year period and were not of an acute nature, certainly not as acute as his other pressing problems.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9713,7 +9713,7 @@ D_WITNESS: He did not need a knee replacement on the 15th.
 
 PROSECUTION: And in fact, you made no effort to have him seen by an orthopedist after June 15th, between the June 15th and June 17th examinations; is that correct?
 "
-81,1548,1548,1548,Q/A,"And in fact, your opinion was that he had no evidence of an acute arthritic problem, that is a flare-up of any arthritic condition, whether it be osteoarthritis or rheumatoid arthritis on June 15th, 1994; is that correct, doctor?",That is not correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And in fact, your opinion was that he had no evidence of an acute arthritic problem, that is a flare-up of any arthritic condition, whether it be osteoarthritis or rheumatoid arthritis on June 15th, 1994; is that correct, doctor?",That is not correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9839,7 +9839,7 @@ D_WITNESS: The orthopedic problems were chronic and something that would bother 
 
 PROSECUTION: And in fact, your opinion was that he had no evidence of an acute arthritic problem, that is a flare-up of any arthritic condition, whether it be osteoarthritis or rheumatoid arthritis on June 15th, 1994; is that correct, doctor?
 "
-82,1549,1549,1549,Q/A,"Doctor, was there any finding made by you in--covered in whatever item no. 1 is which dealt with any physical limitation of Mr. Simpson's which in your opinion would have prevented him from murdering two human beings using a single-edged knife on June 12th of 1994?","No, there was not.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Doctor, was there any finding made by you in--covered in whatever item no. 1 is which dealt with any physical limitation of Mr. Simpson's which in your opinion would have prevented him from murdering two human beings using a single-edged knife on June 12th of 1994?","No, there was not.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -9967,7 +9967,7 @@ D_WITNESS: That is not correct.
 
 PROSECUTION: Doctor, was there any finding made by you in--covered in whatever item no. 1 is which dealt with any physical limitation of Mr. Simpson's which in your opinion would have prevented him from murdering two human beings using a single-edged knife on June 12th of 1994?
 "
-83,1550,1550,1550,Q/A,"And, doctor, you said in response to Mr. Shapiro's question that a knife could give the appearance of a cut that you believe was due to glass; is that correct?",I think there are certain glass cuts that can mimic knife cuts.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And, doctor, you said in response to Mr. Shapiro's question that a knife could give the appearance of a cut that you believe was due to glass; is that correct?",I think there are certain glass cuts that can mimic knife cuts.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -10101,7 +10101,7 @@ D_WITNESS: No, there was not.
 
 PROSECUTION: And, doctor, you said in response to Mr. Shapiro's question that a knife could give the appearance of a cut that you believe was due to glass; is that correct?
 "
-84,1551,1551,1551,Q/A,"And there are knife cuts that can mimic glass cuts, right?","I think with a knife, if you're--if you're a surgeon, you can mimic a lot of things.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And there are knife cuts that can mimic glass cuts, right?","I think with a knife, if you're--if you're a surgeon, you can mimic a lot of things.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -10236,7 +10236,7 @@ D_WITNESS: I think there are certain glass cuts that can mimic knife cuts.
 
 PROSECUTION: And there are knife cuts that can mimic glass cuts, right?
 "
-85,1552,1552,1552,Q/A,"Now, doctor, in page 2 of your report you say on this night sweats issue: ""The patient admits to a month-long history of nocturnal sweats severe enough to awaken him and require him to towel off his entire body, then go to sleep or other non-soaked side of the bed without associated flushing or known fever,"" right?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, doctor, in page 2 of your report you say on this night sweats issue: ""The patient admits to a month-long history of nocturnal sweats severe enough to awaken him and require him to towel off his entire body, then go to sleep or other non-soaked side of the bed without associated flushing or known fever,"" right?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -10374,7 +10374,7 @@ D_WITNESS: I think with a knife, if you're--if you're a surgeon, you can mimic a
 
 PROSECUTION: Now, doctor, in page 2 of your report you say on this night sweats issue: ""The patient admits to a month-long history of nocturnal sweats severe enough to awaken him and require him to towel off his entire body, then go to sleep or other non-soaked side of the bed without associated flushing or known fever,"" right?
 "
-86,1553,1553,1553,Q/A,"Now, if a person had an influenza and develops a fever, you would expect to see chills initially as the fever escalates, right?","During the evolving phase of the fever as it is going up, you are right, you would typically see chills.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, if a person had an influenza and develops a fever, you would expect to see chills initially as the fever escalates, right?","During the evolving phase of the fever as it is going up, you are right, you would typically see chills.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -10515,7 +10515,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: Now, if a person had an influenza and develops a fever, you would expect to see chills initially as the fever escalates, right?
 "
-87,1554,1554,1554,Q/A,"Did you ever, prior to June 15th, 1994, receive any information as to what temperatures Mr. Simpson had over the period of, let's say, June 10th, through June 15th?","No. There are many causes of sweating, one of which is athletic endeavors or the use of your muscles in a--over a certain threshold.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Did you ever, prior to June 15th, 1994, receive any information as to what temperatures Mr. Simpson had over the period of, let's say, June 10th, through June 15th?","No. There are many causes of sweating, one of which is athletic endeavors or the use of your muscles in a--over a certain threshold.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -10659,7 +10659,7 @@ D_WITNESS: During the evolving phase of the fever as it is going up, you are rig
 
 PROSECUTION: Did you ever, prior to June 15th, 1994, receive any information as to what temperatures Mr. Simpson had over the period of, let's say, June 10th, through June 15th?
 "
-88,1555,1555,1555,Q/A,"And would it be correct, doctor, that the more vigorous the physical activity, the more sweating one might expect?","Given the humidity, given the patient's level of hydration, I think that that is generally a pretty reasonable assumption.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And would it be correct, doctor, that the more vigorous the physical activity, the more sweating one might expect?","Given the humidity, given the patient's level of hydration, I think that that is generally a pretty reasonable assumption.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -10810,7 +10810,7 @@ D_WITNESS: No. There are many causes of sweating, one of which is athletic endea
 
 PROSECUTION: And would it be correct, doctor, that the more vigorous the physical activity, the more sweating one might expect?
 "
-89,1556,1556,1556,Q/A,"You were his doctor for the time on June 15th, 1994; isn't that correct?",That is absolutely correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"You were his doctor for the time on June 15th, 1994; isn't that correct?",That is absolutely correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -10963,7 +10963,7 @@ D_WITNESS: Given the humidity, given the patient's level of hydration, I think t
 
 PROSECUTION: You were his doctor for the time on June 15th, 1994; isn't that correct?
 "
-90,1557,1557,1557,Q/A,"In fact, doctor, from all the records you have obtained, when was the last time Mr. Simpson saw any other doctor?","He last saw you--he never had a, quote-unquote, doctor. He had an orthopedic specialist, Dr. Frank Jobe, who he saw July, I believe, 13, 1993, and at that time Dr. Jobe, an orthopedic specialist, felt that OJ was in an acute rheumatoid arthritis flare and then immediately sent to him Dr. Maltz.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"In fact, doctor, from all the records you have obtained, when was the last time Mr. Simpson saw any other doctor?","He last saw you--he never had a, quote-unquote, doctor. He had an orthopedic specialist, Dr. Frank Jobe, who he saw July, I believe, 13, 1993, and at that time Dr. Jobe, an orthopedic specialist, felt that OJ was in an acute rheumatoid arthritis flare and then immediately sent to him Dr. Maltz.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -11119,7 +11119,7 @@ D_WITNESS: That is absolutely correct.
 
 PROSECUTION: In fact, doctor, from all the records you have obtained, when was the last time Mr. Simpson saw any other doctor?
 "
-92,1559,1559,1559,Q/A,"Doctor, do you consider yourself an advocate for Mr. Simpson?","I consider myself Mr. Simpson's doctor. When someone comes into my office, I'm their doctor.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Doctor, do you consider yourself an advocate for Mr. Simpson?","I consider myself Mr. Simpson's doctor. When someone comes into my office, I'm their doctor.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -11278,7 +11278,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: Doctor, do you consider yourself an advocate for Mr. Simpson?
 "
-93,1560,1560,1560,Q/A,"And much of medical interpretation is subjective in nature, is it not, doctor?",I think that there is a degree of subjectiveness and blood tests don't tell all that much in many instances.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And much of medical interpretation is subjective in nature, is it not, doctor?",I think that there is a degree of subjectiveness and blood tests don't tell all that much in many instances.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -11443,7 +11443,7 @@ D_WITNESS: I consider myself Mr. Simpson's doctor. When someone comes into my of
 
 PROSECUTION: And much of medical interpretation is subjective in nature, is it not, doctor?
 "
-94,1561,1561,1561,Q/A,"Well, for example, the grip test, for example, you said you didn't use any kind of objective measuring device, you didn't have one, so you had the test as you demonstrated with me, and you felt that he had normal grip strength. That is a subjective evaluation, is it not, doctor?","Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Well, for example, the grip test, for example, you said you didn't use any kind of objective measuring device, you didn't have one, so you had the test as you demonstrated with me, and you felt that he had normal grip strength. That is a subjective evaluation, is it not, doctor?","Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -11610,7 +11610,7 @@ D_WITNESS: I think that there is a degree of subjectiveness and blood tests don'
 
 PROSECUTION: Well, for example, the grip test, for example, you said you didn't use any kind of objective measuring device, you didn't have one, so you had the test as you demonstrated with me, and you felt that he had normal grip strength. That is a subjective evaluation, is it not, doctor?
 "
-95,1562,1562,1562,Q/A,"And doctor, did you ever feel that it was part of your responsibility to try and prepare a Defense for Mr. Simpson to the charges?","No, absolutely not.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And doctor, did you ever feel that it was part of your responsibility to try and prepare a Defense for Mr. Simpson to the charges?","No, absolutely not.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -11779,7 +11779,7 @@ D_WITNESS: Yes, it is.
 
 PROSECUTION: And doctor, did you ever feel that it was part of your responsibility to try and prepare a Defense for Mr. Simpson to the charges?
 "
-96,1563,1563,1563,Q/A,"Doctor, can you see that--do you have the copy of this letter in your material?",I don't have a copy of that.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Doctor, can you see that--do you have the copy of this letter in your material?",I don't have a copy of that.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -11950,7 +11950,7 @@ D_WITNESS: No, absolutely not.
 
 PROSECUTION: Doctor, can you see that--do you have the copy of this letter in your material?
 "
-97,1564,1564,1564,Q/A,"So doctor, in your opinion, this doesn't reflect that you were an advocate for Mr. Simpson in asking one of his lawyers whether this represented the kind of statement he sought?","No, absolutely not. Basically in my mind it was he wanted me to summarize my entire findings and I didn't know if that was too much or too little detail. I knew that it was all truthful. I just didn't know if he wanted me to expand or contract because he had some problems with some of my charts apparently.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"So doctor, in your opinion, this doesn't reflect that you were an advocate for Mr. Simpson in asking one of his lawyers whether this represented the kind of statement he sought?","No, absolutely not. Basically in my mind it was he wanted me to summarize my entire findings and I didn't know if that was too much or too little detail. I knew that it was all truthful. I just didn't know if he wanted me to expand or contract because he had some problems with some of my charts apparently.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -12126,7 +12126,7 @@ D_WITNESS: I don't have a copy of that.
 
 PROSECUTION: So doctor, in your opinion, this doesn't reflect that you were an advocate for Mr. Simpson in asking one of his lawyers whether this represented the kind of statement he sought?
 "
-98,1565,1565,1565,Q/A,Did you consider that as part of that responsibility it was to try and get him acquitted of these charges?,"No, I really didn't, as a matter of fact.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,Did you consider that as part of that responsibility it was to try and get him acquitted of these charges?,"No, I really didn't, as a matter of fact.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -12305,7 +12305,7 @@ D_WITNESS: No, absolutely not. Basically in my mind it was he wanted me to summa
 
 PROSECUTION: Did you consider that as part of that responsibility it was to try and get him acquitted of these charges?
 "
-99,1566,1566,1566,Q/A,"Would you look, if you would, please, the last paragraph of that letter directed to ""Dear Bob"" Mr. Shapiro.",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Would you look, if you would, please, the last paragraph of that letter directed to ""Dear Bob"" Mr. Shapiro.",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -12485,7 +12485,7 @@ D_WITNESS: No, I really didn't, as a matter of fact.
 
 PROSECUTION: Would you look, if you would, please, the last paragraph of that letter directed to ""Dear Bob"" Mr. Shapiro.
 "
-100,1567,1567,1567,Q/A,"And for the record: ""The night sweats Mr. Simpson complained of may be pertinent to the Court testimony of the chauffeur who implied OJ was quite warm when he got in the limo. We need to follow up on this from a medical standpoint."" You wrote that, didn't you, doctor?","Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And for the record: ""The night sweats Mr. Simpson complained of may be pertinent to the Court testimony of the chauffeur who implied OJ was quite warm when he got in the limo. We need to follow up on this from a medical standpoint."" You wrote that, didn't you, doctor?","Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -12668,7 +12668,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And for the record: ""The night sweats Mr. Simpson complained of may be pertinent to the Court testimony of the chauffeur who implied OJ was quite warm when he got in the limo. We need to follow up on this from a medical standpoint."" You wrote that, didn't you, doctor?
 "
-101,1568,1568,1568,Q/A,"Now, doctor, you told Mr. Shapiro on direct that in your opinion Mr. Simpson could hold a knife, right?","Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, doctor, you told Mr. Shapiro on direct that in your opinion Mr. Simpson could hold a knife, right?","Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -12854,7 +12854,7 @@ D_WITNESS: Yes, I did.
 
 PROSECUTION: Now, doctor, you told Mr. Shapiro on direct that in your opinion Mr. Simpson could hold a knife, right?
 "
-102,1569,1569,1569,Q/A,"Would he also be able, in your opinion, to grab the hair of Nicole Brown Simpson and yank her head back to hyperextend her neck prior to taking a knife and slashing at her throat area? Did he have the strength in his left hand to do that, sir.","In a stationary situation, yes.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Would he also be able, in your opinion, to grab the hair of Nicole Brown Simpson and yank her head back to hyperextend her neck prior to taking a knife and slashing at her throat area? Did he have the strength in his left hand to do that, sir.","In a stationary situation, yes.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -13045,7 +13045,7 @@ D_WITNESS: Yes, I did.
 
 PROSECUTION: Would he also be able, in your opinion, to grab the hair of Nicole Brown Simpson and yank her head back to hyperextend her neck prior to taking a knife and slashing at her throat area? Did he have the strength in his left hand to do that, sir.
 "
-103,1570,1570,1570,Q/A,"And when stationary I want to you assume she has collapsed on the walkway in front of her condominium. That's the kind of condition you are talking about, right?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And when stationary I want to you assume she has collapsed on the walkway in front of her condominium. That's the kind of condition you are talking about, right?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -13239,7 +13239,7 @@ D_WITNESS: In a stationary situation, yes.
 
 PROSECUTION: And when stationary I want to you assume she has collapsed on the walkway in front of her condominium. That's the kind of condition you are talking about, right?
 "
-104,1571,1571,1571,Q/A,And in your opinion he could do that?,That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,And in your opinion he could do that?,That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -13434,7 +13434,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: And in your opinion he could do that?
 "
-105,1572,1572,1572,Q/A,"And not only could he do that, doctor, in your opinion could he then with his right hand holding a knife slit her throat? Did he have the strength in his hand to do that?","Given a stationary hypothetical as you have said, yes, I believe that that would be possible.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And not only could he do that, doctor, in your opinion could he then with his right hand holding a knife slit her throat? Did he have the strength in his hand to do that?","Given a stationary hypothetical as you have said, yes, I believe that that would be possible.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -13634,7 +13634,7 @@ D_WITNESS: That is correct.
 
 PROSECUTION: And not only could he do that, doctor, in your opinion could he then with his right hand holding a knife slit her throat? Did he have the strength in his hand to do that?
 "
-106,1573,1573,1573,Q/A,"If you wanted to portray Mr. Simpson in worse condition with respect to that knee and limitation of movement, you would have done so by giving him a greater limitation of flexion, 25 to 30, than what is described in your report as 15 to 10; is that correct?","I was basically talking off the top of my best of recollections and obviously wasn't reading my report when I gave that answer, but my report--",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"If you wanted to portray Mr. Simpson in worse condition with respect to that knee and limitation of movement, you would have done so by giving him a greater limitation of flexion, 25 to 30, than what is described in your report as 15 to 10; is that correct?","I was basically talking off the top of my best of recollections and obviously wasn't reading my report when I gave that answer, but my report--",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -13836,7 +13836,7 @@ D_WITNESS: Given a stationary hypothetical as you have said, yes, I believe that
 
 PROSECUTION: If you wanted to portray Mr. Simpson in worse condition with respect to that knee and limitation of movement, you would have done so by giving him a greater limitation of flexion, 25 to 30, than what is described in your report as 15 to 10; is that correct?
 "
-107,1574,1574,1574,Q/A,"Doctor, has Mr. Simpson been evaluated at your suggestion by an orthopedist, since June 15th, 1994?","I discussed it with his orthopedist. His--he has no acute reasons to be seen by an orthopedist currently, so no, he has not.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Doctor, has Mr. Simpson been evaluated at your suggestion by an orthopedist, since June 15th, 1994?","I discussed it with his orthopedist. His--he has no acute reasons to be seen by an orthopedist currently, so no, he has not.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -14042,7 +14042,7 @@ D_WITNESS: I was basically talking off the top of my best of recollections and o
 
 PROSECUTION: Doctor, has Mr. Simpson been evaluated at your suggestion by an orthopedist, since June 15th, 1994?
 "
-108,1575,1575,1575,Q/A,Would you agree it would be more appropriate to have his orthopedist come in and give an opinion on an area within the orthopedist's field of specialty than for you who by your admission is not an orthopedist--,Correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,Would you agree it would be more appropriate to have his orthopedist come in and give an opinion on an area within the orthopedist's field of specialty than for you who by your admission is not an orthopedist--,Correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -14250,7 +14250,7 @@ D_WITNESS: I discussed it with his orthopedist. His--he has no acute reasons to 
 
 PROSECUTION: Would you agree it would be more appropriate to have his orthopedist come in and give an opinion on an area within the orthopedist's field of specialty than for you who by your admission is not an orthopedist--
 "
-109,1576,1576,1576,Q/A,"Dr. Huizenga, wouldn't it be appropriate, if one were concerned about orthopedic limitations of Mr. Simpson to have Dr. Jobe, his orthopedist of many years, examine him before trial, right?",I'm not conducting the Defense.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Dr. Huizenga, wouldn't it be appropriate, if one were concerned about orthopedic limitations of Mr. Simpson to have Dr. Jobe, his orthopedist of many years, examine him before trial, right?",I'm not conducting the Defense.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -14462,7 +14462,7 @@ D_WITNESS: Correct.
 
 PROSECUTION: Dr. Huizenga, wouldn't it be appropriate, if one were concerned about orthopedic limitations of Mr. Simpson to have Dr. Jobe, his orthopedist of many years, examine him before trial, right?
 "
-110,1577,1577,1577,Q/A,"My question, doctor, is what, if anything, have you done to independently evaluate any limitations Mr. Simpson may have had over the last three months of his life before June 15th, 1994?","I have requested all his previous medical records, but of course those are not helpful in the last three months.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"My question, doctor, is what, if anything, have you done to independently evaluate any limitations Mr. Simpson may have had over the last three months of his life before June 15th, 1994?","I have requested all his previous medical records, but of course those are not helpful in the last three months.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -14676,7 +14676,7 @@ D_WITNESS: I'm not conducting the Defense.
 
 PROSECUTION: My question, doctor, is what, if anything, have you done to independently evaluate any limitations Mr. Simpson may have had over the last three months of his life before June 15th, 1994?
 "
-111,1578,1578,1578,Q/A,Because he hadn't seen a doctor for eleven months?,That is exactly correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,Because he hadn't seen a doctor for eleven months?,That is exactly correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -14892,7 +14892,7 @@ D_WITNESS: I have requested all his previous medical records, but of course thos
 
 PROSECUTION: Because he hadn't seen a doctor for eleven months?
 "
-112,1579,1579,1579,Q/A,"And doctor, assuming that these same witnesses, when asked about any observation of any kind of physical limitation or evidence of distress by Mr. Simpson indicated they saw no such limitation or distress, assuming that that is accurate testimony, would that be inconsistent with what you would expect on June 12th, given your findings of June 15th?","I saw a limp on the 15th. If he had no limp on the 12th, then obviously something has changed in the interval.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And doctor, assuming that these same witnesses, when asked about any observation of any kind of physical limitation or evidence of distress by Mr. Simpson indicated they saw no such limitation or distress, assuming that that is accurate testimony, would that be inconsistent with what you would expect on June 12th, given your findings of June 15th?","I saw a limp on the 15th. If he had no limp on the 12th, then obviously something has changed in the interval.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -15113,7 +15113,7 @@ D_WITNESS: That is exactly correct.
 
 PROSECUTION: And doctor, assuming that these same witnesses, when asked about any observation of any kind of physical limitation or evidence of distress by Mr. Simpson indicated they saw no such limitation or distress, assuming that that is accurate testimony, would that be inconsistent with what you would expect on June 12th, given your findings of June 15th?
 "
-113,1580,1580,1580,Q/A,Or perhaps Mr. Simpson was faking a limp in your office?,That certainly would be in the differential.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,Or perhaps Mr. Simpson was faking a limp in your office?,That certainly would be in the differential.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -15336,7 +15336,7 @@ D_WITNESS: I saw a limp on the 15th. If he had no limp on the 12th, then obvious
 
 PROSECUTION: Or perhaps Mr. Simpson was faking a limp in your office?
 "
-114,1581,1581,1581,Q/A,"Doctor, what did do you to assess the power of his upper torso?",Basically looking at the flexion contractures of the elbows and the difficulty with the wrist. That is--that is--that is the only point that I'm basing that on.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Doctor, what did do you to assess the power of his upper torso?",Basically looking at the flexion contractures of the elbows and the difficulty with the wrist. That is--that is--that is the only point that I'm basing that on.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -15562,7 +15562,7 @@ D_WITNESS: That certainly would be in the differential.
 
 PROSECUTION: Doctor, what did do you to assess the power of his upper torso?
 "
-115,1582,1582,1582,Q/A,"And doctor, for example, would you describe the condition of Mr. Simpson's upper torso.",Absolutely well-muscled.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And doctor, for example, would you describe the condition of Mr. Simpson's upper torso.",Absolutely well-muscled.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -15792,7 +15792,7 @@ D_WITNESS: Basically looking at the flexion contractures of the elbows and the d
 
 PROSECUTION: And doctor, for example, would you describe the condition of Mr. Simpson's upper torso.
 "
-116,1583,1583,1583,Q/A,"Now, doctor, if Mr. Simpson murdered Nicole Brown Simpson and Ronald Goldman after being enraged, you would expect that he would be in the throes of an adrenaline rush; is that correct?",That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, doctor, if Mr. Simpson murdered Nicole Brown Simpson and Ronald Goldman after being enraged, you would expect that he would be in the throes of an adrenaline rush; is that correct?",That is correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -16024,7 +16024,7 @@ D_WITNESS: Absolutely well-muscled.
 
 PROSECUTION: Now, doctor, if Mr. Simpson murdered Nicole Brown Simpson and Ronald Goldman after being enraged, you would expect that he would be in the throes of an adrenaline rush; is that correct?
 "
-117,1584,1584,1584,Q/A,What test did you do to see Mr. Simpson ever attempt to run to see how well he could run? Did you ever ask him to run at any time?,I never asked him to run.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,What test did you do to see Mr. Simpson ever attempt to run to see how well he could run? Did you ever ask him to run at any time?,I never asked him to run.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -16259,7 +16259,7 @@ D_WITNESS: That is correct.
 
 PROSECUTION: What test did you do to see Mr. Simpson ever attempt to run to see how well he could run? Did you ever ask him to run at any time?
 "
-118,1585,1585,1585,Q/A,"And that would be the best test, would it not, to see how well he could run given his arthritic condition as you found it?","He told me he could not run and you're right, I took him at his word.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And that would be the best test, would it not, to see how well he could run given his arthritic condition as you found it?","He told me he could not run and you're right, I took him at his word.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -16498,7 +16498,7 @@ D_WITNESS: I never asked him to run.
 
 PROSECUTION: And that would be the best test, would it not, to see how well he could run given his arthritic condition as you found it?
 "
-119,1586,1586,1586,Q/A,"All right. Now, doctor, if Mr. Simpson had had a glove on his left hand, that area would in your opinion be covered if the glove were still being worn; would it not be the situation?","It would be difficult to get this sort of abrasion unless there was something inside the glove if in fact your--your premise of wearing a glove were correct, yes.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"All right. Now, doctor, if Mr. Simpson had had a glove on his left hand, that area would in your opinion be covered if the glove were still being worn; would it not be the situation?","It would be difficult to get this sort of abrasion unless there was something inside the glove if in fact your--your premise of wearing a glove were correct, yes.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -16740,7 +16740,7 @@ D_WITNESS: He told me he could not run and you're right, I took him at his word.
 
 PROSECUTION: All right. Now, doctor, if Mr. Simpson had had a glove on his left hand, that area would in your opinion be covered if the glove were still being worn; would it not be the situation?
 "
-120,1588,1588,1588,Q/A,How many separate abrasions did you identify?,Seven.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,How many separate abrasions did you identify?,Seven.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -16987,7 +16987,7 @@ nan: nan
 
 PROSECUTION: How many separate abrasions did you identify?
 "
-121,1589,1589,1589,Q/A,And did you also count the number of cuts to his left hand?,"Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,And did you also count the number of cuts to his left hand?,"Yes, I did.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -17238,7 +17238,7 @@ D_WITNESS: Seven.
 
 PROSECUTION: And did you also count the number of cuts to his left hand?
 "
-122,1590,1590,1590,Q/A,How many did you identify?,"Three cuts, one of which, on the fourth finger, had both an a and B portion.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,How many did you identify?,"Three cuts, one of which, on the fourth finger, had both an a and B portion.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -17493,7 +17493,7 @@ D_WITNESS: Yes, I did.
 
 PROSECUTION: How many did you identify?
 "
-123,1591,1591,1591,Q/A,"Now, doctor, you said that Mr. Simpson told you he got these injuries in Chicago; is that correct?",No. That's incorrect.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, doctor, you said that Mr. Simpson told you he got these injuries in Chicago; is that correct?",No. That's incorrect.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -17750,7 +17750,7 @@ D_WITNESS: Three cuts, one of which, on the fourth finger, had both an a and B p
 
 PROSECUTION: Now, doctor, you said that Mr. Simpson told you he got these injuries in Chicago; is that correct?
 "
-124,1592,1592,1592,Q/A,That he cut it on glass?,That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,That he cut it on glass?,That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -18011,7 +18011,7 @@ D_WITNESS: No. That's incorrect.
 
 PROSECUTION: That he cut it on glass?
 "
-126,1601,1601,1601,Q/A,"Now, doctor, you did see what you said I think originally was the commercial video?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Now, doctor, you did see what you said I think originally was the commercial video?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -18298,7 +18298,7 @@ nan: nan
 
 PROSECUTION: Now, doctor, you did see what you said I think originally was the commercial video?
 "
-127,1602,1602,1602,Q/A,"And all of the aerobic exercise that we see in that type of environment is included in the commercial video. Some of what we saw because, they didn't multiple takes, is not included in the commercial video, correct?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And all of the aerobic exercise that we see in that type of environment is included in the commercial video. Some of what we saw because, they didn't multiple takes, is not included in the commercial video, correct?",That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -18589,7 +18589,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: And all of the aerobic exercise that we see in that type of environment is included in the commercial video. Some of what we saw because, they didn't multiple takes, is not included in the commercial video, correct?
 "
-128,1603,1603,1603,Q/A,And the commercial video has Mr. Simpson taking golf swings and shooting a basketball and so forth; is that correct?,That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,And the commercial video has Mr. Simpson taking golf swings and shooting a basketball and so forth; is that correct?,That's correct.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination of a medical witness regarding the health and physical capabilities of Mr. Simpson, who is implicated in a murder case. The discussion can be categorized into several key issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Medical Examination and Reporting**
    - **Prosecution Argument**: The witness did not take notes during the examination on June 15 but prepared a typewritten report. The Prosecution questions the thoroughness and accuracy of the report, particularly regarding Mr. Simpson's gait and any irregularities.
@@ -18883,7 +18883,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: And the commercial video has Mr. Simpson taking golf swings and shooting a basketball and so forth; is that correct?
 "
-129,1760,1760,1760,Q/A,"Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?","Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,"Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?","Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -18921,7 +18921,7 @@ Current Exchange:
 PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
 D_WITNESS: Yes, sir.",simpson_defense_8,Roderic Hodge,"Mr. Hodge was a crack dealer over on Corning Avenue, an area where crack was sold by him and members of the Playboy Gangster Crips","PROSECUTION: Mr. Hodge, thank you for coming, sir. Sir, you used to live on Corning Avenue, was it?
 "
-130,1761,1761,1761,Q/A,"And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?","I'm unable to recall the exact date, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,"And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?","I'm unable to recall the exact date, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -18963,7 +18963,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: And you were arrested by Vettraino and Fuhrman on January 13, 1987; is that right?
 "
-131,1771,1771,1771,Q/A,"Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?","On which occasion, sir?",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,"Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?","On which occasion, sir?",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19064,7 +19064,7 @@ nan: nan
 
 PROSECUTION: Mr. Hodge, did you complain to the LAPD about the manner in which you were arrested by these two officers?
 "
-132,1772,1772,1772,Q/A,On the occasion you just described for Mr. Cochran?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,On the occasion you just described for Mr. Cochran?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19173,7 +19173,7 @@ D_WITNESS: On which occasion, sir?
 
 PROSECUTION: On the occasion you just described for Mr. Cochran?
 "
-133,1773,1773,1773,Q/A,You filed a formal complaint?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,You filed a formal complaint?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19280,7 +19280,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: You filed a formal complaint?
 "
-134,1777,1777,1777,Q/A,"Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?",At this time--,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,"Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?",At this time--,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19405,7 +19405,7 @@ nan: nan
 
 PROSECUTION: Let me show you a copy of an IAD complaint. By the way, did you have any portion at all of the IAD minute that you filed?
 "
-135,1780,1780,1780,Q/A,You complained to Internal Affairs Division at LAPD; is that right?,"I believe it was Internal Affairs, yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,You complained to Internal Affairs Division at LAPD; is that right?,"I believe it was Internal Affairs, yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19539,7 +19539,7 @@ nan: nan
 
 PROSECUTION: You complained to Internal Affairs Division at LAPD; is that right?
 "
-136,1781,1781,1781,Q/A,Okay. You were interviewed by them?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Okay. You were interviewed by them?,"Yes, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19676,7 +19676,7 @@ D_WITNESS: I believe it was Internal Affairs, yes, sir.
 
 PROSECUTION: Okay. You were interviewed by them?
 "
-137,1782,1782,1782,Q/A,Okay. And were you interviewed by a supervising officer at West L.A. Station as well?,I believe it was a supervising officer.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Okay. And were you interviewed by a supervising officer at West L.A. Station as well?,I believe it was a supervising officer.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19816,7 +19816,7 @@ D_WITNESS: Yes, sir.
 
 PROSECUTION: Okay. And were you interviewed by a supervising officer at West L.A. Station as well?
 "
-138,1783,1783,1783,Q/A,Okay. And your name is Roderic T. Hodge; is that correct?,"No, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Okay. And your name is Roderic T. Hodge; is that correct?,"No, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -19959,7 +19959,7 @@ D_WITNESS: I believe it was a supervising officer.
 
 PROSECUTION: Okay. And your name is Roderic T. Hodge; is that correct?
 "
-139,1784,1784,1784,Q/A,Okay. What is your name?,Roderic T. Hodge.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Okay. What is your name?,Roderic T. Hodge.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -20105,7 +20105,7 @@ D_WITNESS: No, sir.
 
 PROSECUTION: Okay. What is your name?
 "
-140,1785,1785,1785,Q/A,What is your birthdate?,"August 22, 1964.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,What is your birthdate?,"August 22, 1964.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -20255,7 +20255,7 @@ D_WITNESS: Roderic T. Hodge.
 
 PROSECUTION: What is your birthdate?
 "
-141,1791,1791,1791,Q/A,"Does that refresh your recollection that the date of arrest was January 13, 1987?","Not really, sir, but I take it--",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,"Does that refresh your recollection that the date of arrest was January 13, 1987?","Not really, sir, but I take it--",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -20422,7 +20422,7 @@ nan: nan
 
 PROSECUTION: Does that refresh your recollection that the date of arrest was January 13, 1987?
 "
-142,1792,1792,1792,Q/A,Does that appear to be the complaint that you filed with LAPD?,"Yes, sir, it does. It appears to be.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Does that appear to be the complaint that you filed with LAPD?,"Yes, sir, it does. It appears to be.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -20593,7 +20593,7 @@ D_WITNESS: Not really, sir, but I take it--
 
 PROSECUTION: Does that appear to be the complaint that you filed with LAPD?
 "
-143,1793,1793,1793,Q/A,"Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?","Yes, sir, it does indicate that.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,"Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?","Yes, sir, it does indicate that.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -20767,7 +20767,7 @@ D_WITNESS: Yes, sir, it does. It appears to be.
 
 PROSECUTION: Okay. Okay. And on the last page of that document does it indicate that you had a second interview with someone from Internal Affairs on January 23, 1987, an interview with a Sergeant Lamprey?
 "
-144,1794,1794,1794,Q/A,Okay. Did you have such an interview?,"Yes, sir, I believe so.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Okay. Did you have such an interview?,"Yes, sir, I believe so.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -20943,7 +20943,7 @@ D_WITNESS: Yes, sir, it does indicate that.
 
 PROSECUTION: Okay. Did you have such an interview?
 "
-145,1795,1795,1795,Q/A,Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?,"I haven't read over the entire of the interview, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?,"I haven't read over the entire of the interview, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 
@@ -21123,7 +21123,7 @@ D_WITNESS: Yes, sir, I believe so.
 
 PROSECUTION: Okay. Nowhere in this Internal Affairs complaint is it mentioned that you complained of Fuhrman's use of any epithets; is that correct?
 "
-146,1796,1796,1796,Q/A,Did you see the epithet indicated here in these documents?,"No, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
+Q/A,Did you see the epithet indicated here in these documents?,"No, sir.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving a witness, Mr. Hodge, and the Prosecution attorney. The facts discussed can be categorized into several issues, highlighting conflicts and disagreements.
 
 ### Issues and Facts:
 

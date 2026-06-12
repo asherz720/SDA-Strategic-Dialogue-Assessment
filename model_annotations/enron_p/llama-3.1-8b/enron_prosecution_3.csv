@@ -1,0 +1,347 @@
+type,question,answer,source,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,Who told you there was a document?,Mr. Fastow.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+","{
+  ""belief"": ""The witness's response is somewhat convincing, but the defense still has a strong case."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""2"",
+  ""manner_rate"": ""1"",
+  ""outcome_value"": ""Witness"",
+  ""outcome_reason"": ""1""
+}","The witness's response is somewhat convincing, but the defense still has a strong case.",3,1,0,2,1,Witness,1,0,0,0,1.0,0.5,0.0,0.5,0.0,-1.7636409634199253,-1.0032986641222077,0.2747954063504914,-0.7603422992977176
+Q/A,And did he-did he tell you anything about how the document came into existence?,He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+","{
+  ""belief"": ""The defense is currently gaining ground in the cross-examination, but the witness's response is not entirely convincing."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""1"",
+  ""manner_rate"": ""2"",
+  ""outcome_value"": ""Questioner"",
+  ""outcome_reason"": ""2""
+}
+
+Explanation:
+
+- Commitment level: The witness's response is neutral, as they are providing information about Mr. Fastow's statement without taking a clear stance or making a commitment to the defense's question.
+- Truthfulness: The witness's response seems truthful, as they are providing a direct answer to the question about what Mr. Fastow told them.
+- Consistency: The witness's response is inconsistent with their previous testimony, as they are now providing more details about the document's origin, which may not have been mentioned earlier.
+- Relevance: The witness's response is very relevant to the question, as it provides information about the document's creation and the individuals involved.
+- Clarity: The witness's response is slightly clear with hedging, as they are providing a detailed answer but using phrases like ""what all of the side deals were"" that may be open to interpretation.
+- Outcome: The current turn outcome is in favor of the questioner (defense), as they are able to extract more information from the witness.
+- Reason for outcome: The reason for the outcome is a credibility attack on the witness's previous testimony, as the defense is able to highlight inconsistencies and contradictions in the witness's story.","The defense is currently gaining ground in the cross-examination, but the witness's response is not entirely convincing.",3,1,0,1,2,Questioner,2,0,0,0,0.0,0.5,0.0,1.0,0.0,-1.3114253317737905,-1.0032986641222077,0.1331159430661672,-0.3081266676515828
+Q/A,Is that just a one-on-one conversation that you and he had?,"I have had that conversation with him, yes. ·",enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+","{
+  ""belief"": ""The defense is gaining ground in this cross-examination, but the witness is still holding on to their story."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""2"",
+  ""manner_rate"": ""1"",
+  ""outcome_value"": ""Witness"",
+  ""outcome_reason"": ""1""
+}
+
+Explanation:
+- Commitment level: The witness is committing to having had the conversation with Mr. Fastow, but it's a neutral commitment as they're not providing any new information that benefits or hurts the questioner.
+- Truthfulness: The witness is being truthful in their current turn, as they're confirming the conversation with Mr. Fastow.
+- Consistency: The witness's current response is inconsistent with their previous testimony, as they didn't mention the conversation with Mr. Causey earlier.
+- Relevance: The response is slightly relevant to the question, as it provides more context about the conversation with Mr. Fastow.
+- Clarity: The witness's response is very clear, as they're directly answering the question.
+- Outcome: The current turn outcome is in favor of the witness, as they're still providing their account of the events.
+- Reason for the outcome: The defense's logical arguments are convincing, as they're slowly chipping away at the witness's story, but the witness is still holding on.","The defense is gaining ground in this cross-examination, but the witness is still holding on to their story.",3,1,0,2,1,Witness,1,0,0,0,0.3333333333333333,0.5,0.0,1.5,0.0,-0.859209700127656,-1.0032986641222077,-0.0773628547180159,0.1440889639945517
+Q/A,"One-on-one, right?",Yes.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+","{
+  ""belief"": ""The defense is currently winning the turn, as the witness's response seems evasive and slightly unclear."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""2"",
+  ""manner_rate"": ""3"",
+  ""outcome_value"": ""Questioner"",
+  ""outcome_reason"": ""2. Credibility attack on other side""
+}
+
+Explanation:
+- Commitment level: The witness's response is neutral, as they are simply confirming the defense's question without adding any new information.
+- Truthfulness: The witness's response is truthful, as they are not denying the one-on-one conversation with Mr. Fastow.
+- Consistency: The witness's response is inconsistent with their previous testimony, as they initially mentioned that Mr. Fastow told them about the document, but now they are focusing on the conversation with Mr. Causey.
+- Relevance: The witness's response is slightly relevant, as it provides some context about the conversation with Mr. Fastow.
+- Clarity: The witness's response is slightly unclear, as they are not providing a clear answer to the defense's question.
+- Outcome: The defense is currently winning the turn, as the witness's response seems evasive and slightly unclear.
+- Reason: The defense is winning the turn because they are attacking the credibility of the witness's previous testimony, making it seem like they are not providing a clear and consistent account of events.","The defense is currently winning the turn, as the witness's response seems evasive and slightly unclear.",3,1,0,2,3,Questioner,2. Credibility attack on other side,0,1,0,0.0,0.5,0.2,2.0,0.2,-0.4069940684815213,-0.777838290162161,-0.3129929892403998,0.3708442216806397
+Q/A,"And did he tell you that-well, first of all, did he describe the document to you?","Other than it being written down. That was all I understood, the form of the document.",enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+","{
+  ""belief"": ""The defense is gaining ground in this cross-examination, but the witness is still holding on to their initial statement."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""3"",
+  ""manner_rate"": ""4"",
+  ""outcome_value"": ""Questioner"",
+  ""outcome_reason"": ""2""
+}
+
+Explanation:
+
+- Commitment level: The witness is being neutral in their response, not committing to any specific detail about the document. They are not benefiting the questioner or themselves, but also not being detrimental to the questioner. I rate this as a 3.
+
+- Truthfulness: The witness is being truthful in their response, stating that they only understood the document to be written down. I rate this as a 1.
+
+- Consistency: The witness's current response is inconsistent with their previous testimony, where they stated that Mr. Fastow told them about the document's content. I rate this as a 1.
+
+- Relevance: The witness's response is slightly irrelevant to the question of whether Mr. Fastow described the document to them. I rate this as a 3.
+
+- Clarity: The witness's response is unclear, as they are not providing any specific details about the document. I rate this as a 4.
+
+- Outcome: The current turn outcome is in favor of the questioner, as they are able to point out the inconsistency in the witness's testimony.
+
+- Reason for outcome: The reason for the outcome is a credibility attack on the witness's previous testimony, highlighting the inconsistency between their current and previous statements. I rate this as a 2.","The defense is gaining ground in this cross-examination, but the witness is still holding on to their initial statement.",3,1,0,3,4,Questioner,2,1,1,0,-0.2,0.5,0.4,2.5,0.6000000000000001,0.0452215631646133,-0.3269175422420676,-1.3210664441339384,0.3721391054066809
+Q/A,"You don't know how many people have copies, do you?",My understanding was that only Mr. Fastow and Mr. Causey had copies.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+","{
+  ""belief"": ""The defense is gaining ground in this cross-examination, but the witness is still holding on to their initial statement."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""1"",
+  ""manner_rate"": ""2"",
+  ""outcome_value"": ""Witness"",
+  ""outcome_reason"": ""2. Credibility attack on other side""
+}
+
+Explanation:
+
+1. Commitment level: The witness is making a neutral commitment by stating their understanding, but not explicitly confirming or denying the previous statement about only Mr. Fastow and Mr. Causey having copies.
+
+2. Truthfulness: The witness is being truthful in their current turn, as they are stating their understanding of the situation.
+
+3. Consistency: The witness's current response is inconsistent with their previous statement, where they said they didn't know how many people had copies.
+
+4. Relevance: The witness's response is very relevant to the current line of questioning.
+
+5. Clarity: The witness's response is slightly clear with hedging, as they are stating their understanding but not explicitly confirming or denying the previous statement.
+
+6. Outcome: The current turn outcome is in favor of the witness, as they are able to provide a response that somewhat defends their previous statement.
+
+7. Reason for outcome: The reason for the outcome is that the defense is attempting to attack the credibility of the witness's previous statement, but the witness is able to provide a response that somewhat defends it.","The defense is gaining ground in this cross-examination, but the witness is still holding on to their initial statement.",3,1,0,1,2,Witness,2. Credibility attack on other side,0,0,0,0.0,0.5,0.0,3.0,0.6000000000000001,0.4974371948107479,-0.3269175422420676,4.834367913814447,0.8243547370528155
+Q/A,And who told you that?,Mr. Fastow.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+","{
+  ""belief"": ""The defense is gaining ground in this cross-examination, as the witness's response raises more questions about the reliability of their testimony."",
+  ""Commitment_value"": ""4"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""1"",
+  ""manner_rate"": ""1"",
+  ""outcome_value"": ""Questioner"",
+  ""outcome_reason"": ""1""
+}
+
+Explanation:
+
+1. Commitment level: The witness's response is a simple statement of fact, but it doesn't provide any additional information or context that would strengthen their previous testimony. Therefore, I rate it as a neutral commitment (3) but given the context of the question, it's more like no commitment made (4).
+
+2. Truthfulness: The witness is stating that Mr. Fastow told them that only he and Mr. Causey had copies of the document. This is a straightforward statement, and there's no reason to doubt its truthfulness. Therefore, I rate it as truthful (1).
+
+3. Consistency: The witness's previous testimony stated that only Mr. Fastow and Mr. Causey had copies of the document. However, the witness didn't mention that Mr. Fastow told them this. Therefore, I rate it as inconsistent (1).
+
+4. Relevance: The witness's response directly addresses the question and provides relevant information about who told them that only Mr. Fastow and Mr. Causey had copies of the document. Therefore, I rate it as very relevant (1).
+
+5. Clarity: The witness's response is clear and concise, providing a direct answer to the question. Therefore, I rate it as very clear (1).
+
+6. Current turn outcome: The defense is the questioner in this turn, and they are gaining ground by raising doubts about the witness's testimony.
+
+7. Reasons for current outcome: The defense is using logical arguments to challenge the witness's testimony, which is convincing and making it harder for the witness to maintain their previous claims.","The defense is gaining ground in this cross-examination, as the witness's response raises more questions about the reliability of their testimony.",4,1,0,1,1,Questioner,1,0,0,0,-0.1428571428571428,0.0,0.5,3.0,1.1,0.4974371948107479,0.2367333926580491,0.355099763736829,0.2607038021526988
+Q/A,What did he say in that regard?,That he and Mr. Causey had copies.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+","{
+  ""belief"": ""The defense is gaining ground in this cross-examination, but the witness is still holding on to some key points."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""1"",
+  ""relevance_rate"": ""2"",
+  ""manner_rate"": ""1"",
+  ""outcome_value"": ""Questioner"",
+  ""outcome_reason"": ""1""
+}
+
+Explanation:
+- Commitment level: The witness is providing a neutral commitment by stating what Mr. Fastow said, without adding any additional information or taking a stance.
+- Truthfulness: The witness is being truthful in their current turn, as they are simply repeating what Mr. Fastow told them.
+- Consistency: The witness's current response is consistent with their previous testimony, as they have mentioned Mr. Fastow's involvement in the document before.
+- Relevance: The response is slightly relevant to the question, as it provides more information about the document and Mr. Fastow's involvement.
+- Clarity: The witness's response is very clear, as they are providing a direct answer to the question.
+- Outcome: The current turn outcome is in favor of the questioner (defense), as they are able to extract more information from the witness.
+- Reason for outcome: The reason for the outcome is due to the logical arguments presented by the defense, which are convincing and forcing the witness to provide more information.","The defense is gaining ground in this cross-examination, but the witness is still holding on to some key points.",3,1,1,2,1,Questioner,1,0,0,0,-0.25,0.5,0.7000000000000001,3.5,1.8,0.9496528264568824,1.0258447015182124,-0.0385684486983019,-0.0761918750613298
+Q/A,What else did he say?,That's all I recall him saying about it.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+","{
+  ""belief"": ""The defense is gaining ground in this cross-examination, but the witness's response is not entirely convincing."",
+  ""Commitment_value"": ""4"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""2"",
+  ""manner_rate"": ""3"",
+  ""outcome_value"": ""Questioner"",
+  ""outcome_reason"": ""1""
+}
+
+Explanation:
+
+1. Commitment level: The witness says ""That's all I recall him saying about it,"" which implies that they are not committing to any specific information about Mr. Fastow's statement. This is a neutral commitment, but it's more towards not committing to anything beneficial to the witness or the prosecution.
+
+2. Truthfulness: The witness's response seems truthful, as they are stating that they don't recall any additional information about Mr. Fastow's statement.
+
+3. Consistency: The witness's response is inconsistent with their previous testimony, where they stated that Mr. Fastow told them that he and Mr. Causey had copies of the document. Now, they are saying that they don't recall Mr. Fastow saying anything else about it.
+
+4. Relevance: The witness's response is slightly relevant, as it's still related to the conversation about Mr. Fastow's statement.
+
+5. Clarity: The witness's response is slightly unclear, as they are using a vague phrase (""That's all I recall him saying about it"") to avoid committing to any specific information.
+
+6. Current turn outcome: The current turn outcome is in favor of the questioner (defense), as they are able to highlight the inconsistency in the witness's testimony.
+
+7. Reasons for current outcome: The reason for the current outcome is the logical arguments presented by the defense, which are convincing and highlighting the inconsistency in the witness's testimony.","The defense is gaining ground in this cross-examination, but the witness's response is not entirely convincing.",4,1,0,2,3,Questioner,1,0,1,0,-0.3333333333333333,0.0,0.5,3.5,2.3,0.9496528264568824,1.5894956364183288,-0.2519910983215682,-0.6398428099614463
+Q/A,He told you Rick Causey had a copy?,Yes.,enron_prosecution_3,"DEFENSE: Who told you there was a document?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: And did he-did he tell you anything about how the document came into existence?
+P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.
+
+DEFENSE: Is that just a one-on-one conversation that you and he had?
+P_WITNESS: I have had that conversation with him, yes. ·
+
+DEFENSE: One-on-one, right?
+P_WITNESS: Yes.
+
+DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
+P_WITNESS: Other than it being written down. That was all I understood, the form of the document.
+
+DEFENSE: You don't know how many people have copies, do you?
+P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
+
+DEFENSE: And who told you that?
+P_WITNESS: Mr. Fastow.
+
+DEFENSE: What did he say in that regard?
+P_WITNESS: That he and Mr. Causey had copies.
+
+DEFENSE: What else did he say?
+P_WITNESS: That's all I recall him saying about it.
+
+DEFENSE: He told you Rick Causey had a copy?
+","{
+  ""belief"": ""The defense is gaining ground in this cross-examination, but the witness is still holding on to their story. However, the defense's logical arguments and credibility attack on the witness's previous testimony are starting to take effect."",
+  ""Commitment_value"": ""3"",
+  ""quality_rate"": ""1"",
+  ""consistency_value"": ""0"",
+  ""relevance_rate"": ""1"",
+  ""manner_rate"": ""1"",
+  ""outcome_value"": ""Questioner"",
+  ""outcome_reason"": ""1""
+}","The defense is gaining ground in this cross-examination, but the witness is still holding on to their story. However, the defense's logical arguments and credibility attack on the witness's previous testimony are starting to take effect.",3,1,0,1,1,Questioner,1,0,0,0,-0.4,0.5,0.0,4.0,2.3,1.4018684581030172,1.5894956364183288,-0.0627229492588177,-0.1876271783153116

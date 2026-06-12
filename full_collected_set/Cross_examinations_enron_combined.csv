@@ -1,5 +1,5 @@
-Unnamed: 0.1,Unnamed: 0,type,question,answer,speaker,speaker_from,responder,Facts,Context,source,witness_name,witness_role,all_history
-0,0,Q/A,Who told you there was a document?,Mr. Fastow.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+type,question,answer,speaker,speaker_from,responder,Facts,Context,source,witness_name,witness_role,all_history
+Q/A,Who told you there was a document?,Mr. Fastow.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -29,7 +29,7 @@ Current Exchange:
 DEFENSE: Who told you there was a document?
 P_WITNESS: Mr. Fastow.",enron_prosecution_3,Christopher Loehr,The former analyst for Enron,"DEFENSE: Who told you there was a document?
 "
-1,1,Q/A,And did he-did he tell you anything about how the document came into existence?,He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,And did he-did he tell you anything about how the document came into existence?,He told me that he had sat down with Mr. Causey and they had laid out in this global agreement what all of the side deals were and that was-that was what it was.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -65,7 +65,7 @@ P_WITNESS: Mr. Fastow.
 
 DEFENSE: And did he-did he tell you anything about how the document came into existence?
 "
-2,2,Q/A,Is that just a one-on-one conversation that you and he had?,"I have had that conversation with him, yes. ·",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Is that just a one-on-one conversation that you and he had?,"I have had that conversation with him, yes. ·",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -112,7 +112,7 @@ P_WITNESS: He told me that he had sat down with Mr. Causey and they had laid out
 
 DEFENSE: Is that just a one-on-one conversation that you and he had?
 "
-3,3,Q/A,"One-on-one, right?",Yes.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"One-on-one, right?",Yes.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -165,7 +165,7 @@ P_WITNESS: I have had that conversation with him, yes. ·
 
 DEFENSE: One-on-one, right?
 "
-4,4,Q/A,"And did he tell you that-well, first of all, did he describe the document to you?","Other than it being written down. That was all I understood, the form of the document.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And did he tell you that-well, first of all, did he describe the document to you?","Other than it being written down. That was all I understood, the form of the document.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -225,7 +225,7 @@ P_WITNESS: Yes.
 
 DEFENSE: And did he tell you that-well, first of all, did he describe the document to you?
 "
-5,5,Q/A,"You don't know how many people have copies, do you?",My understanding was that only Mr. Fastow and Mr. Causey had copies.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"You don't know how many people have copies, do you?",My understanding was that only Mr. Fastow and Mr. Causey had copies.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -291,7 +291,7 @@ P_WITNESS: Other than it being written down. That was all I understood, the form
 
 DEFENSE: You don't know how many people have copies, do you?
 "
-6,6,Q/A,And who told you that?,Mr. Fastow.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,And who told you that?,Mr. Fastow.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -363,7 +363,7 @@ P_WITNESS: My understanding was that only Mr. Fastow and Mr. Causey had copies.
 
 DEFENSE: And who told you that?
 "
-7,7,Q/A,What did he say in that regard?,That he and Mr. Causey had copies.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,What did he say in that regard?,That he and Mr. Causey had copies.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -439,7 +439,7 @@ P_WITNESS: Mr. Fastow.
 
 DEFENSE: What did he say in that regard?
 "
-8,8,Q/A,What else did he say?,That's all I recall him saying about it.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,What else did he say?,That's all I recall him saying about it.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -521,7 +521,7 @@ P_WITNESS: That he and Mr. Causey had copies.
 
 DEFENSE: What else did he say?
 "
-9,9,Q/A,He told you Rick Causey had a copy?,Yes.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,He told you Rick Causey had a copy?,Yes.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense Side:
 1. **Source of Information**: The defense questions the witness about who informed them about the existence of a document, which the witness identifies as Mr. Fastow.
@@ -611,7 +611,7 @@ P_WITNESS: That's all I recall him saying about it.
 
 DEFENSE: He told you Rick Causey had a copy?
 "
-10,10,Q/A,"You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?","I didn't say that, sir. You did.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?","I didn't say that, sir. You did.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense's Position:
 1. **Accusation of Greed**: The defense suggests that the prosecution wants the jury to view Mr. Skilling as greedy, implying that this is a common trait among those involved in the case.
@@ -647,7 +647,7 @@ Current Exchange:
 DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
 P_WITNESS: I didn't say that, sir. You did.",enron_prosecution_2,Andrew Fastow,"Andrew Fastow, the former Chief Financial Officer (CFO) of Enron, played a central role in the Enron scandal. He admitted to securities fraud and served time in prison for his role in the company's collapse","DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
 "
-11,11,Q/A,I asked you. It's a question. Answer it.,My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,I asked you. It's a question. Answer it.,My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense's Position:
 1. **Accusation of Greed**: The defense suggests that the prosecution wants the jury to view Mr. Skilling as greedy, implying that this is a common trait among those involved in the case.
@@ -687,7 +687,7 @@ P_WITNESS: I didn't say that, sir. You did.
 
 DEFENSE: I asked you. It's a question. Answer it.
 "
-12,12,Q/A,"Who's the ""we""?",Myself and other members of senior management of Enron.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Who's the ""we""?",Myself and other members of senior management of Enron.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense's Position:
 1. **Accusation of Greed**: The defense suggests that the prosecution wants the jury to view Mr. Skilling as greedy, implying that this is a common trait among those involved in the case.
@@ -737,7 +737,7 @@ P_WITNESS: My answer to that question is I spent a lot of time up here already s
 
 DEFENSE: Who's the ""we""?
 "
-13,13,Q/A,Did they steal that 120 million?,No. They stole in different ways related to this 120 million.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Did they steal that 120 million?,No. They stole in different ways related to this 120 million.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense's Position:
 1. **Accusation of Greed**: The defense suggests that the prosecution wants the jury to view Mr. Skilling as greedy, implying that this is a common trait among those involved in the case.
@@ -791,7 +791,7 @@ P_WITNESS: Myself and other members of senior management of Enron.
 
 DEFENSE: Did they steal that 120 million?
 "
-14,14,Q/A,"Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?",Are you asking me?,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?",Are you asking me?,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense's Position:
 1. **Accusation of Greed**: The defense suggests that the prosecution wants the jury to view Mr. Skilling as greedy, implying that this is a common trait among those involved in the case.
@@ -855,7 +855,7 @@ P_WITNESS: No. They stole in different ways related to this 120 million.
 
 DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
 "
-15,15,Q/A,I'm asking you.,"What I'm saying is when you misrepresent the nature of your company, when you artificially inflate earnings, when you improperly hide losses, when you do things like this to cause your stock price to go up so you can sell your stock to cause yourself to make earning targets, that otherwise you'd be unable to make so you get high salaries and bonuses, that is stealing.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,I'm asking you.,"What I'm saying is when you misrepresent the nature of your company, when you artificially inflate earnings, when you improperly hide losses, when you do things like this to cause your stock price to go up so you can sell your stock to cause yourself to make earning targets, that otherwise you'd be unable to make so you get high salaries and bonuses, that is stealing.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense's Position:
 1. **Accusation of Greed**: The defense suggests that the prosecution wants the jury to view Mr. Skilling as greedy, implying that this is a common trait among those involved in the case.
@@ -925,7 +925,7 @@ P_WITNESS: Are you asking me?
 
 DEFENSE: I'm asking you.
 "
-16,16,interruption,Okay.,,,DEFENSE,,"### Summary of Facts Discussed in the Dialogue
+interruption,Okay.,,,DEFENSE,,"### Summary of Facts Discussed in the Dialogue
 
 #### Defense's Position:
 1. **Accusation of Greed**: The defense suggests that the prosecution wants the jury to view Mr. Skilling as greedy, implying that this is a common trait among those involved in the case.
@@ -1001,7 +1001,7 @@ P_WITNESS: What I'm saying is when you misrepresent the nature of your company, 
 
 DEFENSE: Okay.
 "
-17,17,Q/A,"Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?",I knew there - nobody had to have the other evidence. I knew it myself.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?",I knew there - nobody had to have the other evidence. I knew it myself.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1043,7 +1043,7 @@ Current Exchange:
 DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
 P_WITNESS: I knew there - nobody had to have the other evidence. I knew it myself.",enron_prosecution_1,Mark Koenig,"Koenig, who had pled guilty to fraud, was called explain some of the complex criminal transactions he had participated in (and which Skilling probably had knowledge of).","DEFENSE: Now, when you entered into this plea of guilty, had you been informed that there was a substantial amount of incriminating evidence against you?
 "
-18,18,Q/A,"Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?","I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?","I reviewed my conduct for many years after I left Enron as I was defending myself in the civil cases. Yes, I was guilty of aiding and abetting securities fraud....I didn't plead guilty to one statement on this conference call. That's not petty or whatever you called it – thin? I don't think it's thin or I wouldn't have pled guilty to it. You have three Q and A items there- No. That's not-",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1094,7 +1094,7 @@ P_WITNESS: I knew there - nobody had to have the other evidence. I knew it mysel
 
 DEFENSE: Other than what you personally thought in your own mind, did someone show you any incriminating e-mails that showed that you were guilty?
 "
-19,19,Q/A,-cited there.,"They're cited here, yes. I wished that was all I did.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,-cited there.,"They're cited here, yes. I wished that was all I did.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1152,7 +1152,7 @@ P_WITNESS: I reviewed my conduct for many years after I left Enron as I was defe
 
 DEFENSE: -cited there.
 "
-20,20,Q/A,"So, back to my question, then. You're still in the mode of protecting yourself, aren't you?","I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"So, back to my question, then. You're still in the mode of protecting yourself, aren't you?","I don't know what you mean by ""protecting"" myself, but I don't feel that in the last three days I've protected myself in any way.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1216,7 +1216,7 @@ P_WITNESS: They're cited here, yes. I wished that was all I did.
 
 DEFENSE: So, back to my question, then. You're still in the mode of protecting yourself, aren't you?
 "
-21,21,Q/A,"What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?","The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?","The fullness. The – staying on the right track, not-not concentrating on little issues or avoiding the questions. I would put that in the value category.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1286,7 +1286,7 @@ P_WITNESS: I don't know what you mean by ""protecting"" myself, but I don't feel
 
 DEFENSE: What does it mean to say ""the Department's assessment of the value of your assistance and your cooperation""?
 "
-22,22,Q/A,Might it also include how helpful you were to the cause of the Government?,No.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Might it also include how helpful you were to the cause of the Government?,No.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1364,7 +1364,7 @@ P_WITNESS: The fullness. The – staying on the right track, not-not concentrati
 
 DEFENSE: Might it also include how helpful you were to the cause of the Government?
 "
-23,23,Q/A,Are you sure of that?,"I'm sure of that, because I don't know that I will, by all means and everything I say, help the Government....",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Are you sure of that?,"I'm sure of that, because I don't know that I will, by all means and everything I say, help the Government....",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1445,7 +1445,7 @@ P_WITNESS: No.
 
 DEFENSE: Are you sure of that?
 "
-24,24,Q/A,"And at the time you pled guilty, how old were your three children?",Two of them. . .,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And at the time you pled guilty, how old were your three children?",Two of them. . .,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1533,7 +1533,7 @@ P_WITNESS: I'm sure of that, because I don't know that I will, by all means and 
 
 DEFENSE: And at the time you pled guilty, how old were your three children?
 "
-25,25,interruption,"Would you like to take a break, sir?",,,DEFENSE,,"### Summary of Facts Discussed in the Dialogue
+interruption,"Would you like to take a break, sir?",,,DEFENSE,,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1630,7 +1630,7 @@ P_WITNESS: Two of them. . .
 
 DEFENSE: Would you like to take a break, sir?
 "
-26,26,interruption,Why don't we take about a ten-minute break?,,THE COURT,COURT,,"### Summary of Facts Discussed in the Dialogue
+interruption,Why don't we take about a ten-minute break?,,THE COURT,COURT,,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1691,7 +1691,7 @@ nan: nan
 
 COURT: Why don't we take about a ten-minute break?
 "
-27,27,interruption,I'm fine. I'm fine…,,THE WITNESS,OTHERS,,"### Summary of Facts Discussed in the Dialogue
+interruption,I'm fine. I'm fine…,,THE WITNESS,OTHERS,,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1755,7 +1755,7 @@ nan: nan
 
 OTHERS: I'm fine. I'm fine…
 "
-28,28,Q/A,"Are you afraid, sir, as you sit here now? Do you have a fear of giving an answer that might alienate the Government because of the control they have over the rest of your life?",No.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Are you afraid, sir, as you sit here now? Do you have a fear of giving an answer that might alienate the Government because of the control they have over the rest of your life?",No.,,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1868,7 +1868,7 @@ nan: nan
 
 DEFENSE: Are you afraid, sir, as you sit here now? Do you have a fear of giving an answer that might alienate the Government because of the control they have over the rest of your life?
 "
-29,29,Q/A,You have no fear at all?,"I'm past that....If I can answer your earlier question, my children, two are in college and one in high school.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,You have no fear at all?,"I'm past that....If I can answer your earlier question, my children, two are in college and one in high school.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -1983,7 +1983,7 @@ P_WITNESS: No.
 
 DEFENSE: You have no fear at all?
 "
-30,30,Q/A,I appreciate that.,"And entering into this guilty plea, it's not hard to tell them that. And I'm over the big fear.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,I appreciate that.,"And entering into this guilty plea, it's not hard to tell them that. And I'm over the big fear.",,DEFENSE,P_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Discussed:
 
@@ -2100,7 +2100,7 @@ P_WITNESS: I'm past that....If I can answer your earlier question, my children, 
 
 DEFENSE: I appreciate that.
 "
-31,31,Q/A,"Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?","Yes, that's correct.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?","Yes, that's correct.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2136,7 +2136,7 @@ Current Exchange:
 PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
 D_WITNESS: Yes, that's correct.",enron_defense_1,Jeffrey Skilling,"Jeffrey Skilling was the CEO of Enron when the company collapsed. He was at the center of the Enron scandal and was convicted of fraud, conspiracy, and insider trading. He agreed to prevent Enron's stock prices from falling by providing exaggerated reports of the company's financial situation.","PROSECUTION: Sir, 24680 is a check [to Ms. Bender] dated March 3 of 1998, Number 276; correct?
 "
-32,32,Q/A,"The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2180,7 +2180,7 @@ D_WITNESS: Yes, that's correct.
 
 PROSECUTION: The next one is dated [sic] 277 for $10,000 to Ms. Bender; correct?
 "
-33,33,Q/A,"The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2228,7 +2228,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: The next one in sequence, March 2nd, 1998, $10,000 to Ms. Bender?
 "
-34,34,Q/A,"The next one, 279April 10th of 1998, $55,000 to the IRS?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"The next one, 279April 10th of 1998, $55,000 to the IRS?",That's correct.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2285,7 +2285,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: The next one, 279April 10th of 1998, $55,000 to the IRS?
 "
-35,35,Q/A,"Sir, is it your testimony that you did not backdate that Check Number 277?",I don't recall.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Sir, is it your testimony that you did not backdate that Check Number 277?",I don't recall.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2348,7 +2348,7 @@ D_WITNESS: That's correct.
 
 PROSECUTION: Sir, is it your testimony that you did not backdate that Check Number 277?
 "
-36,36,Q/A,"Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?","No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?","No, I can't, Mr. Berkowitz. And if it’s – if you believe that this is somehow a violation of a tax laws. I'd be happy to sit down and talk to you about it, because it's not...",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2418,7 +2418,7 @@ D_WITNESS: I don't recall.
 
 PROSECUTION: Can you explain to the jury, sir, why it is that Check 277 has a date of December 28, 1997?
 "
-37,37,Q/A,"And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?",I'm sorry.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?",I'm sorry.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2490,7 +2490,7 @@ D_WITNESS: No, I can't, Mr. Berkowitz. And if it’s – if you believe that thi
 
 PROSECUTION: And, sir, is it your testimony that your relationship-that the personal nature of your relationship with Ms. Bender ended in 1998?
 "
-38,38,Q/A,Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?,"Oh, no. We stayed friends. We're friends. I haven’t talked to her in awhile, but we may have occasionally dated some subsequent to that.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?,"Oh, no. We stayed friends. We're friends. I haven’t talked to her in awhile, but we may have occasionally dated some subsequent to that.",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2571,7 +2571,7 @@ D_WITNESS: I'm sorry.
 
 PROSECUTION: Is it your testimony that the personal nature of your relationship with Ms. Bender ended in 1998?
 "
-39,39,Q/A,But your romantic relationship with her ended in 1997 or 1998?,We stayed friends after that.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,But your romantic relationship with her ended in 1997 or 1998?,We stayed friends after that.,,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2661,7 +2661,7 @@ D_WITNESS: Oh, no. We stayed friends. We're friends. I haven’t talked to her i
 
 PROSECUTION: But your romantic relationship with her ended in 1997 or 1998?
 "
-40,40,Q/A,That's not my question.,"You'd have to define – what – what does this have to do with fraud at Enron Corporation, just out of curiosity?",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,That's not my question.,"You'd have to define – what – what does this have to do with fraud at Enron Corporation, just out of curiosity?",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2751,7 +2751,7 @@ D_WITNESS: We stayed friends after that.
 
 PROSECUTION: That's not my question.
 "
-41,41,Q/A,"Can you answer my question or not, Mr. Skilling?","We continued to have a relationship, yes....",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
+Q/A,"Can you answer my question or not, Mr. Skilling?","We continued to have a relationship, yes....",,Prosecution,D_WITNESS,"### Summary of Facts Discussed in the Dialogue
 
 #### Issues Related to Financial Transactions
 1. **Check Details**:
@@ -2847,7 +2847,7 @@ D_WITNESS: You'd have to define – what – what does this have to do with frau
 
 PROSECUTION: Can you answer my question or not, Mr. Skilling?
 "
-42,42,Q/A,"Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?","And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?","And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -2889,7 +2889,7 @@ Current Exchange:
 PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
 D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what story are you talking about?",enron_defense_2,Kenneth Lay,Kenneth Lay was the former CEO of Enron and was charged with and tried for his role in the company's bankruptcy. Lay and other Enron executives created a scheme to make it appear that Enron was growing and was a good investment.,"PROSECUTION: Mr. Petrocelli asked Mr. Skilling, ""Did you have one conversation with one person about getting your story straight? His answer was: ""No.” I’ll pose that question to you, Mr. Lay: Did you have one conversation with one person about getting your story straight for trial?
 "
-43,43,Q/A,Are you having trouble with that question? I’m just posing the same question?,"Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,Are you having trouble with that question? I’m just posing the same question?,"Well, I'm not sure I – I’m telling stories up here. I'm up here to answer your questions.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -2939,7 +2939,7 @@ D_WITNESS: And again, could you elaborate on that, Mr. Hueston? I mean, what sto
 
 PROSECUTION: Are you having trouble with that question? I’m just posing the same question?
 "
-44,44,Q/A,Have you contacted witnesses to get your story straight?,I – I – I don’t know that I contacted witnesses.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,Have you contacted witnesses to get your story straight?,I – I – I don’t know that I contacted witnesses.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -2995,7 +2995,7 @@ D_WITNESS: Well, I'm not sure I – I’m telling stories up here. I'm up here t
 
 PROSECUTION: Have you contacted witnesses to get your story straight?
 "
-45,45,Q/A,"[Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]","Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"[Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]","Do you know if I told Mr. Duncan, the chairman of that committee, about the Photofete situation?",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3057,7 +3057,7 @@ D_WITNESS: I – I – I don’t know that I contacted witnesses.
 
 PROSECUTION: [Hueston asked Lay about his $120,000 investment in Photophete, a company doing business with Enron.]
 "
-46,46,Q/A,"What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .","I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .","I would think that the chairman of that committee, just like the chairman of any committee at Enron, can make a decision as to what he or she would like to do with that information or needs to do with that information.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3125,7 +3125,7 @@ D_WITNESS: Do you know if I told Mr. Duncan, the chairman of that committee, abo
 
 PROSECUTION: What we know and what you know, as the writer of those rules, is that telling one person-if it ever happened-does not satisfy your own rules . . .
 "
-47,47,Q/A,"Even though that's not what's called for by the code of conduct that you wrote, right?","I think we're now getting into form over substance, Mr. Hueston.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Even though that's not what's called for by the code of conduct that you wrote, right?","I think we're now getting into form over substance, Mr. Hueston.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3203,7 +3203,7 @@ D_WITNESS: I would think that the chairman of that committee, just like the chai
 
 PROSECUTION: Even though that's not what's called for by the code of conduct that you wrote, right?
 "
-48,48,Q/A,"Well, that's what you would call your rules, then, form over substance, right?","No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Well, that's what you would call your rules, then, form over substance, right?","No. The rules were very-very important. But, again, if I did notify Mr. Duncan, which I normally would have, then I would Jet him decide whether to take it up with the full committee or whether, in fact, it was even a large enough investment that he should take the time of the full committee.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3287,7 +3287,7 @@ D_WITNESS: I think we're now getting into form over substance, Mr. Hueston.
 
 PROSECUTION: Well, that's what you would call your rules, then, form over substance, right?
 "
-49,49,Q/A,"Right. The rules were important, but you didn't follow them?","Rules are important, but they should not-you should not be a slave to rules, either....",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Right. The rules were important, but you didn't follow them?","Rules are important, but they should not-you should not be a slave to rules, either....",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3377,7 +3377,7 @@ D_WITNESS: No. The rules were very-very important. But, again, if I did notify M
 
 PROSECUTION: Right. The rules were important, but you didn't follow them?
 "
-50,50,Q/A,"One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?","I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?","I don't. I find the phrasing kind of interesting; but, no, I do not. I mean, he well may have said it.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3473,7 +3473,7 @@ D_WITNESS: Rules are important, but they should not-you should not be a slave to
 
 PROSECUTION: One of the things your attorney said in opening was, quote, “He had real estate in Aspen. He could have sold his home up there. But that’s a long, tedious process; and he's got a wife and children to put up with."" Do you remember that statement?
 "
-51,51,Q/A,"Selling property in Aspen, in fact, was not a long, tedious process for you, was it?","Yes, it was....",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Selling property in Aspen, in fact, was not a long, tedious process for you, was it?","Yes, it was....",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3575,7 +3575,7 @@ D_WITNESS: I don't. I find the phrasing kind of interesting; but, no, I do not. 
 
 PROSECUTION: Selling property in Aspen, in fact, was not a long, tedious process for you, was it?
 "
-52,52,Q/A,"Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3684,7 +3684,7 @@ D_WITNESS: Yes, it was....
 
 PROSECUTION: Let’s focus on this [Aspen property] for a moment. That lot was listed for $10 million, right?
 "
-53,53,Q/A,"And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?",I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?",I’m not sure exactly when it was listed; but it was certainly after the bankruptcy....,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3797,7 +3797,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And you didn’t list it until January 21st, 2002, after you sold all your Enron stock, right?
 "
-54,54,Q/A,"All right. Now, listing date was January 21st, right, sir?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"All right. Now, listing date was January 21st, right, sir?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -3911,7 +3911,7 @@ D_WITNESS: I’m not sure exactly when it was listed; but it was certainly after
 
 PROSECUTION: All right. Now, listing date was January 21st, right, sir?
 "
-55,55,Q/A,"The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?","Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?","Yes, we did. Apparently there was a potential buyer known to our real estate agent up there, that wanted the property; and-and that transaction was-was negotiated and sold very quickly.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4030,7 +4030,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: The contract date was just two days later. You had a sales contract in hand just two days later, didn't you?
 "
-56,56,Q/A,"You got $10 million, the full asking price, within two days, right?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"You got $10 million, the full asking price, within two days, right?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4151,7 +4151,7 @@ D_WITNESS: Yes, we did. Apparently there was a potential buyer known to our real
 
 PROSECUTION: You got $10 million, the full asking price, within two days, right?
 "
-57,57,Q/A,"And, in fact, it was an all-cash offer, as well, wasn’t it?",It was.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And, in fact, it was an all-cash offer, as well, wasn’t it?",It was.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4274,7 +4274,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And, in fact, it was an all-cash offer, as well, wasn’t it?
 "
-58,58,Q/A,"Stock first, sales of real estate later?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Stock first, sales of real estate later?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4400,7 +4400,7 @@ D_WITNESS: It was.
 
 PROSECUTION: Stock first, sales of real estate later?
 "
-59,59,Q/A,". . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?","Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,". . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?","Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4529,7 +4529,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: . . . [L]et's remind the jury of what you said when you were describing why it is that you felt you didn't have to tell the employees about these sales during this period of time ... And let's read this. ""My personal belief is that Enron stock is an incredible bargain at current prices, and we will look back a couple of years from now and see the great opportunity that we currently have."" And that’s the latter part of the quote where it mentions that you had been buying stock in the last couple of months. And then you answer: ""Yes. And in fact, I had purchased the 4 million of shares, and I always separated the optional, discretionary decisions I was making with my money versus those ... that, in fact, were forced, as the margin calls were forcing the sale of some of the other shares."" That's what you said, right?
 "
-60,60,Q/A,"All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?","That appears to be, yes.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?","That appears to be, yes.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4661,7 +4661,7 @@ D_WITNESS: Yes, it is.
 
 PROSECUTION: All right. Well, let's look at the choices that you had on July 26th.... [O]n July 25th your line of credit was getting a margin call for $483,000, correct, sir?
 "
-61,61,Q/A,"And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?","If I did go back to Enron on the line of credit, I usually would go for the full amount.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?","If I did go back to Enron on the line of credit, I usually would go for the full amount.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4797,7 +4797,7 @@ D_WITNESS: That appears to be, yes.
 
 PROSECUTION: And in response to that $483,426 margin call, you sold $4 million of Enron stock back to Enron, correct?
 "
-62,62,Q/A,"[S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?",I most usually would do that in order to have some additional liquidity versus whatever the margin call was.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"[S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?",I most usually would do that in order to have some additional liquidity versus whatever the margin call was.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -4936,7 +4936,7 @@ D_WITNESS: If I did go back to Enron on the line of credit, I usually would go f
 
 PROSECUTION: [S]o what you're saying is, even though you had a margin call of just $483,000, you went ahead and used that margin call as a reason to draw a full $4 million down or to sell $4 million of Enron stock back to Enron, right?
 "
-63,63,Q/A,"All right. So a good $3.5 million was not required by the margin call that day, correct?",Apparently not....,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"All right. So a good $3.5 million was not required by the margin call that day, correct?",Apparently not....,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -5078,7 +5078,7 @@ D_WITNESS: I most usually would do that in order to have some additional liquidi
 
 PROSECUTION: All right. So a good $3.5 million was not required by the margin call that day, correct?
 "
-64,64,Q/A,"So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?","Well, apparently.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?","Well, apparently.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -5223,7 +5223,7 @@ D_WITNESS: Apparently not....
 
 PROSECUTION: So on July 26, sir, on this now familiar document, it indicates your total borrowing power on the secured lines was $9.5 million and in your unsecured lines below an additional $2.25 million. And so, in fact, you had over $11 million worth of borrowing options off your other lines of credit on that day available to you to satisfy that half-a-million-dollar or so margin call, correct?
 "
-65,65,Q/A,"So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?",I'm sorry. An e-mail by Mr. Herrold when?,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?",I'm sorry. An e-mail by Mr. Herrold when?,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -5371,7 +5371,7 @@ D_WITNESS: Well, apparently.
 
 PROSECUTION: So, your choices on July 26th, sir, to meet the margin call of $483,426 was $11 million worth of balance availability and other lines of credit, right? That's in category choice number one and the very sort of choice that Mr. Herrold provided you that we saw by e-mail in May of 2001. Do you remember that?
 "
-66,66,Q/A,"Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -5522,7 +5522,7 @@ D_WITNESS: I'm sorry. An e-mail by Mr. Herrold when?
 
 PROSECUTION: Remember the May, 2001, e-mail from Mr. Herrold advising you of a choice between accessing money from other lines of credit or selling back
 "
-67,67,Q/A,– Enron stock?,Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,– Enron stock?,Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -5676,7 +5676,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: – Enron stock?
 "
-68,68,Q/A,"So, that's choice number one, $11 million available?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"So, that's choice number one, $11 million available?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -5833,7 +5833,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: So, that's choice number one, $11 million available?
 "
-69,69,Q/A,"And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?",That appears to be so.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?",That appears to be so.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -5994,7 +5994,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And choice number two, selling assets that were summing in excess of $13 million of non-Enron stock. That was also available as an option as well, correct?
 "
-70,70,Q/A,"All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?","There were other options, Mr. Hueston.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?","There were other options, Mr. Hueston.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -6159,7 +6159,7 @@ D_WITNESS: That appears to be so.
 
 PROSECUTION: All right. So, sir, in sum, then, from July 26th through September 4th, when you sold $24 million of stock, you, in fact, had choices other than selling Enron stock during this period of time leading up to the online forum; isn't that right, sir?
 "
-71,71,Q/A,"All right. Now, Mr. Beau Herrold assisted you in managing your finances?",He did.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"All right. Now, Mr. Beau Herrold assisted you in managing your finances?",He did.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -6326,7 +6326,7 @@ D_WITNESS: There were other options, Mr. Hueston.
 
 PROSECUTION: All right. Now, Mr. Beau Herrold assisted you in managing your finances?
 "
-72,72,Q/A,"But you ultimately were in charge, correct? He took direction from you?","Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"But you ultimately were in charge, correct? He took direction from you?","Well, certainly, I was-I could overturn any recommendation or decision that they were making. And-but they would try to run, certainly, the more important decisions by me if they could, I mean, if I was reachable. Quite often, if I was traveling, they had to go ahead and kind of do whatever they could do.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -6497,7 +6497,7 @@ D_WITNESS: He did.
 
 PROSECUTION: But you ultimately were in charge, correct? He took direction from you?
 "
-73,73,Q/A,"Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?","Yes, it would . . .",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?","Yes, it would . . .",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -6668,7 +6668,7 @@ D_WITNESS: Well, certainly, I was-I could overturn any recommendation or decisio
 
 PROSECUTION: Right. Well, one of the more important things would be to work with you to avoid selling any more shares than you had to during this time period. That would be important to you, correct?
 "
-74,74,interruption,"It’s an e-mail from Mr. Herrold to you, dated May 21st, 2001.",,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+interruption,"It’s an e-mail from Mr. Herrold to you, dated May 21st, 2001.",,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -6845,7 +6845,7 @@ D_WITNESS: Yes, it would . . .
 
 PROSECUTION: It’s an e-mail from Mr. Herrold to you, dated May 21st, 2001.
 "
-75,75,interruption,All right. It's admitted.,,THE COURT,COURT,,"The dialogue presents a legal examination involving Mr. Lay, with the defense questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the defense and the witness.
+interruption,All right. It's admitted.,,THE COURT,COURT,,"The dialogue presents a legal examination involving Mr. Lay, with the defense questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the defense and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Defense's Position**: The defense questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -6978,7 +6978,7 @@ nan: nan
 
 COURT: All right. It's admitted.
 "
-76,76,Q/A,"I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?","Yes. Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?","Yes. Yes, it is.",,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -7162,7 +7162,7 @@ nan: nan
 
 PROSECUTION: I'll read it aloud. It's from Mr. Herrold to you, Mr. Lay, on May 21, 2001?
 "
-77,77,Q/A,"Okay. One choice was to use $5.9 million of available monies on your Bank of America line of credit, correct?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"Okay. One choice was to use $5.9 million of available monies on your Bank of America line of credit, correct?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -7347,7 +7347,7 @@ D_WITNESS: Yes. Yes, it is.
 
 PROSECUTION: Okay. One choice was to use $5.9 million of available monies on your Bank of America line of credit, correct?
 "
-78,78,Q/A,"And the other was to use money from your Enron line of credit, right?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And the other was to use money from your Enron line of credit, right?",Yes.,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -7534,7 +7534,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And the other was to use money from your Enron line of credit, right?
 "
-79,79,Q/A,"And when you're using the Enron line of credit, just so the jury is clear, you were paying it back with Enron stock, right?",Yes . . .,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
+Q/A,"And when you're using the Enron line of credit, just so the jury is clear, you were paying it back with Enron stock, right?",Yes . . .,,Prosecution,D_WITNESS,"The dialogue presents a legal examination involving Mr. Lay, with the Prosecution questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the Prosecution and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Prosecution's Position**: The Prosecution questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.
@@ -7725,7 +7725,7 @@ D_WITNESS: Yes.
 
 PROSECUTION: And when you're using the Enron line of credit, just so the jury is clear, you were paying it back with Enron stock, right?
 "
-80,80,interruption,Sell Enron stock or use your Bank of America line of credit?,,"Q . . . So, the choice was clear here, was it not, sir",OTHERS,,"The dialogue presents a legal examination involving Mr. Lay, with the defense questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the defense and the witness.
+interruption,Sell Enron stock or use your Bank of America line of credit?,,"Q . . . So, the choice was clear here, was it not, sir",OTHERS,,"The dialogue presents a legal examination involving Mr. Lay, with the defense questioning him about various financial decisions and actions related to Enron. The facts can be categorized into several issues, highlighting conflicts and disagreements between the defense and the witness.
 
 ### 1. **Communication and Story Consistency**
    - **Defense's Position**: The defense questions whether Mr. Lay had conversations with others to align their stories for trial, implying potential collusion or dishonesty.

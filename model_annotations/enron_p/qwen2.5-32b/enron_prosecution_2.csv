@@ -1,0 +1,121 @@
+type,question,answer,source,all_history,raw_response,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,"You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?","I didn't say that, sir. You did.",enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+","{
+    ""belief"": ""The witness's response is clear and relevant, avoiding a detrimental commitment and maintaining neutrality. The response does not provide new information that could be inconsistent with previous testimony, and it does not directly address the accusation of greed, thus maintaining a neutral stance."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is clear and relevant, avoiding a detrimental commitment and maintaining neutrality. The response does not provide new information that could be inconsistent with previous testimony, and it does not directly address the accusation of greed, thus maintaining a neutral stance.",3,1,0,1,1,Witness,2,0,0,0,1.0,0.5,0.0,0.5,0.0,-1.69941166289984,-0.7071067811865475,0.4123404431624924,-0.9923048817132928
+Q/A,I asked you. It's a question. Answer it.,My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+","{
+    ""belief"": ""The witness's response is more focused on their own actions and less on directly answering the question posed by the defense, which may not be entirely beneficial for the witness's case."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+} 
+
+Explanation:
+- The witness's response is somewhat beneficial to them as it reiterates their own guilt, which may be seen as an attempt to be honest and forthcoming.
+- The witness appears to be truthful in their current turn, as they are not denying their actions.
+- The response is consistent with previous testimony, as the witness has previously admitted to stealing from Enron.
+- The response is slightly relevant as it indirectly addresses the question by providing context about their own actions.
+- The clarity is slightly clear with hedging, as the witness is not directly answering the question but providing context.
+- The outcome is in favor of the witness because they are maintaining their stance and not being caught in a lie or contradiction.
+- The reason for the outcome is a credibility attack on the other side, as the witness is emphasizing their own admission of guilt, which may undermine the defense's attempt to portray them as dishonest.","The witness's response is more focused on their own actions and less on directly answering the question posed by the defense, which may not be entirely beneficial for the witness's case.",2,1,0,2,2,Witness,2,0,0,0,1.0,1.0,0.0,1.5,0.0,-0.6260990336999412,-0.7071067811865475,-0.060761621785683,0.0810077474866062
+Q/A,"Who's the ""we""?",Myself and other members of senior management of Enron.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+","{
+    ""belief"": ""The witness's response is clear and relevant to the question asked, maintaining consistency with previous testimony. The witness does not appear to be making a detrimental commitment to the questioner."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is clear and relevant to the question asked, maintaining consistency with previous testimony. The witness does not appear to be making a detrimental commitment to the questioner.",3,1,0,1,1,Witness,2,0,0,0,1.0,0.5,0.0,2.0,0.0,-0.0894427190999917,-0.7071067811865475,-0.775424580474115,0.6176640620865557
+Q/A,Did they steal that 120 million?,No. They stole in different ways related to this 120 million.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+","{
+    ""belief"": ""The witness's response is consistent with previous testimony and relevant to the question, but it is slightly unclear and does not provide a direct answer to whether others stole the specific 120 million."",
+    ""Commitment_value"": ""3"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""2"",
+    ""manner_rate"": ""2"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""2""
+}","The witness's response is consistent with previous testimony and relevant to the question, but it is slightly unclear and does not provide a direct answer to whether others stole the specific 120 million.",3,1,0,2,2,Witness,2,0,0,0,1.0,0.5,0.0,2.5,0.0,0.4472135954999577,-0.7071067811865475,-4.44151844011225,1.1543203766865051
+Q/A,"Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?",Are you asking me?,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+","{
+    ""belief"": ""The witness's response does not directly address the question posed by the defense, leading to a lack of clarity and commitment. The witness seems to be avoiding a direct answer, which may be perceived as evasive."",
+    ""Commitment_value"": ""4"",
+    ""quality_rate"": ""0"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""4"",
+    ""manner_rate"": ""4"",
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": ""3""
+}","The witness's response does not directly address the question posed by the defense, leading to a lack of clarity and commitment. The witness seems to be avoiding a direct answer, which may be perceived as evasive.",4,0,0,4,4,Questioner,3,1,1,0,0.6,0.0,0.5,2.5,0.5,0.4472135954999577,1.4142135623730951,-0.5194938532959159,-0.9669999668731374
+Q/A,I'm asking you.,"What I'm saying is when you misrepresent the nature of your company, when you artificially inflate earnings, when you improperly hide losses, when you do things like this to cause your stock price to go up so you can sell your stock to cause yourself to make earning targets, that otherwise you'd be unable to make so you get high salaries and bonuses, that is stealing.",enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+P_WITNESS: Are you asking me?
+
+DEFENSE: I'm asking you.
+","{
+    ""belief"": ""The witness provided a detailed explanation that aligns with the previous testimony, addressing the question directly and elaborating on the nature of the fraud committed by senior management. The response is clear and relevant, though it does not directly confirm the specific method of fraud suggested by the defense."",
+    ""Commitment_value"": ""2"",
+    ""quality_rate"": ""1"",
+    ""consistency_value"": ""0"",
+    ""relevance_rate"": ""1"",
+    ""manner_rate"": ""1"",
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": ""1""
+}","The witness provided a detailed explanation that aligns with the previous testimony, addressing the question directly and elaborating on the nature of the fraud committed by senior management. The response is clear and relevant, though it does not directly confirm the specific method of fraud suggested by the defense.",2,1,0,1,1,Witness,1,0,0,0,0.6666666666666666,1.0,0.0,3.5,0.5,1.5205262246998568,1.4142135623730951,0.0362255838814233,0.1063126623267616

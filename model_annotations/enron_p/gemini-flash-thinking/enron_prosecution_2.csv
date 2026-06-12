@@ -1,0 +1,180 @@
+type,question,answer,source,all_history,raw_response,thinking,belief,Commitment_value,quality_rate,consistency_value,relevance_rate,manner_rate,outcome_value,outcome_reason,relevance_binary,manner_binary,quality_binary,NRA,bat,pat,bat_cumsum,pat_cumsum,Z_BaT,Z_PaT,ZNRBaT,net_ZNRBaT
+Q/A,I'm asking you.,"What I'm saying is when you misrepresent the nature of your company, when you artificially inflate earnings, when you improperly hide losses, when you do things like this to cause your stock price to go up so you can sell your stock to cause yourself to make earning targets, that otherwise you'd be unable to make so you get high salaries and bonuses, that is stealing.",enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+P_WITNESS: Are you asking me?
+
+DEFENSE: I'm asking you.
+","```json
+{
+    ""belief"": ""The witness successfully turned a leading question into an opportunity to elaborate on their definition of 'stealing' in the context of Enron's actions. While the Defense tried to box them into a 'yes' or 'no' on a specific interpretation, the witness provided a detailed explanation that reinforces their previous testimony about fraud and theft by senior management. This elaboration strengthens the witness's credibility regarding the nature of the alleged crimes, rather than simply agreeing to the Defense's framing."",
+    ""Commitment_value"": 2,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 1,
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": 1
+}
+```","Alright, here's how I see this. I've been asked to act as a juror, assessing this witness's response in cross-examination. I need to break this down, so let's go through my thought process.
+
+First, I need to look at the witness's *commitment*. The defense tried to paint a picture, and then asked the witness if he agreed. He didn't just say ""yes,"" which is smart. Instead, he defined what he meant by ""stealing."" He's effectively saying, ""Yes, it was stealing, and here's *why*."" That's crucial. He's digging into the *how* of the fraud. It strengthens the narrative, making it clear the actions described by the defense are, in his mind, stealing. This helps the prosecution.
+
+Then, *truthfulness*. He's already confessed to stealing, so he's admitting guilt. Based on the context, I'm inclined to believe he's speaking truthfully. He's defining what the actions were, and the mechanisms of this particular fraud are things that are very common knowledge in this space, so it's not out of the realm of possibility that someone would do this.
+
+Next, *consistency*. This is where it gets interesting. His previous testimony was direct, he admitted to stealing, and that is the foundational truth of his testimony. Now, in this response, he is clarifying the *methods* of that stealing, in a consistent fashion. He's explaining how others stole.
+
+*Relevance* is key. The defense's line of questioning directly asked if others were committing fraud to inflate stock prices. The witness's response is perfectly on point, because it is explicitly describing *why* those actions qualify as ""stealing,"" using terms like ""misrepresent,"" ""artificially inflate,"" and ""improperly hide,"" all of which are relevant to the fraud.
+
+*Clarity* is another factor. The response is clear. There's no ambiguity. He directly names the problematic behaviors.
+
+Finally, the *current turn outcome*. This is where the witness really shines. The defense set a trap, trying to get a ""yes."" But the witness didn't bite. Instead, he expertly reframed the definition of ""stealing,"" seizing control of the narrative, further cementing the underlying message of theft and fraud. It's a good move.
+","The witness successfully turned a leading question into an opportunity to elaborate on their definition of 'stealing' in the context of Enron's actions. While the Defense tried to box them into a 'yes' or 'no' on a specific interpretation, the witness provided a detailed explanation that reinforces their previous testimony about fraud and theft by senior management. This elaboration strengthens the witness's credibility regarding the nature of the alleged crimes, rather than simply agreeing to the Defense's framing.",2,1,0,1,1,Witness,1.0,0,0,0,1.0,1,0.0,1.0,0.0,-0.8164965809277259,-1.4969103983674978,-0.2941176470588236,0.6804138174397719
+Q/A,I asked you. It's a question. Answer it.,My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+","```json
+{
+    ""belief"": ""The witness avoids directly answering the question about whether they want the jury to believe Skilling is consumed by greed as they are. Instead, they explain *why* they find it difficult to answer, by referencing their own admitted theft and the implication of being consumed by greed. This is a strategic move to avoid a direct 'yes' (which would align them with the Defense's framing) or a direct 'no' (which might contradict their own admitted actions). By focusing on their own admitted guilt, they attempt to justify their hesitation and perhaps even gain some credibility for their honesty about their own past, while still not giving the Defense the direct answer they seek. The Defense asked for an answer, and the witness provided an explanation for *why* a direct answer is difficult, rather than the answer itself. Therefore, the Defense did not get the direct answer they demanded."",
+    ""Commitment_value"": 4,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 2,
+    ""manner_rate"": 2,
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": 1
+}
+```","Alright, here's how I'm approaching this. The user wants me to act like a juror dissecting this witness's response. It's a JSON object I need to produce, so I need to be meticulous. Here's what's going through my head as I analyze:
+
+**1. Commitment:** The core question from the defense is pointed, a direct accusation. Does the witness commit to it? No. They don't say ""yes"" or ""no"" about the Skilling comparison. Instead, they sidestep and explain the hesitation. It's not a dodge *per se*, they're attempting to justify *why* they can't give a straight answer, which I suppose *could* be a strategy. Given the evasiveness, I'm rating it as ""No commitment made."" That's a 4.
+
+**2. Truthfulness:** Now, the witness *does* make a direct statement: ""I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron."" Assuming that's consistent with their previous testimony (and the phrasing implies it is), that statement, about *their own actions*, is probably truthful. It aligns with the likely goals of the cross examination. So, I'm giving this a 1, ""Truthful.""
+
+**3. Consistency:** This one is pretty straightforward. Their response *reinforces* prior admissions. They are explicitly restating what they've said before. Based on the provided text, it's consistent. No issues there. Therefore, it's a 0, ""Consistent.""
+
+**4. Relevance:** Here's the tricky part. The question is about the comparison with Skilling's greed. The answer *doesn't* directly address that. However, it *does* try to explain the difficulty of that comparison. It's all about the witness's admission to theft, the thing making the comparison difficult. It's an attempt to establish context, a way of rationalizing their reluctance to give a direct answer, related to the premise of the question. I wouldn't call it fully relevant, but it is tangentially linked to the accusation of greed. Therefore, a 2, ""Slightly relevant,"" feels about right.
+
+**5. Clarity:** Lastly, I need to consider clarity. The witness lays out their reasons for difficulty in answering in a fairly unambiguous manner. Their response is clear. It's understandable. The witness *is* clear in articulating *why* they have trouble answering the question. So, the ""Clear"" (0) rating is appropriate here.
+
+Okay, time to construct the JSON object.
+","The witness avoids directly answering the question about whether they want the jury to believe Skilling is consumed by greed as they are. Instead, they explain *why* they find it difficult to answer, by referencing their own admitted theft and the implication of being consumed by greed. This is a strategic move to avoid a direct 'yes' (which would align them with the Defense's framing) or a direct 'no' (which might contradict their own admitted actions). By focusing on their own admitted guilt, they attempt to justify their hesitation and perhaps even gain some credibility for their honesty about their own past, while still not giving the Defense the direct answer they seek. The Defense asked for an answer, and the witness provided an explanation for *why* a direct answer is difficult, rather than the answer itself. Therefore, the Defense did not get the direct answer they demanded.",4,1,0,2,2,Questioner,1.0,0,0,0,0.0,0,0.5,1.0,0.5,-0.8164965809277259,-0.8164965809277261,-1.3597399555105182e-16,2.220446049250313e-16
+Q/A,"Who's the ""we""?",Myself and other members of senior management of Enron.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+","```json
+{
+    ""belief"": ""The defense successfully elicited a clear and direct answer from the witness. The witness defined the 'we' they referred to, which provides the defense with specific information to potentially pursue further."",
+    ""Commitment_value"": 1,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 1,
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": 1
+}
+```","Alright, I'm in the jury box, evaluating this witness's response under cross-examination. The instructions are clear: I need to dissect this answer and categorize it objectively.
+
+First, the **witness's commitment level.** The question was direct: ""Who's the 'we'?"" And the answer was just as direct: ""Myself and other members of senior management of Enron."" This is a crucial point. While the witness previously admitted their own guilt and that ""we"" stole, the answer is now *defining* ""we"". It expands the circle, implicating others. This is undeniably *detrimental commitment* for the witness. It provides the questioner, the defense, with a clear direction to probe – who, specifically, within that senior management group? What did they do? This answer is a gift to the questioner; it provides specific, actionable information. So, I'm locking that in: *Detrimental Commitment* (1).
+
+Now, on to **truthfulness**. There's nothing in the text to suggest this statement is anything other than truthful, given what's been stated. I’m assuming the witness is being honest in identifying those they meant. I'll mark this as *Truthful* (1).
+
+Next up, **consistency with previous testimony**. The prior statements set the stage: ""I stole...We stole"". This new statement, defining ""we"" as ""senior management,"" aligns perfectly. It doesn't contradict; it clarifies. So, I score that as *Consistent* (0).
+
+**Response relevance**, absolutely. The question was ""Who's the 'we'?"" and the answer directly addresses that. There's no ambiguity. It's *Very Relevant* (1).
+
+Moving on to **clarity**, there’s no room for interpretation. The answer is plain and easily understood. So, *Very Clear* (1).
+
+Now, the **current turn outcome**. The defense asked a question and got a direct, helpful answer. The defense successfully extracted important information. The outcome is clearly in the questioner's favor. So, I'm marking the turn as *Questioner*.
+
+Finally, **reasons for the current outcome**. Why did the questioner succeed? Because the witness answered the question logically and directly. This is about information retrieval, not emotional arguments. So, I select ""Logical arguments are convincing"" (1). I’m focusing on the information that the witness is providing.
+","The defense successfully elicited a clear and direct answer from the witness. The witness defined the 'we' they referred to, which provides the defense with specific information to potentially pursue further.",1,1,0,1,1,Questioner,1.0,0,0,0,-0.3333333333333333,0,1.0,1.0,1.5,-0.8164965809277259,0.5443310539518172,4.999999999999999,-1.3608276348795432
+Q/A,Did they steal that 120 million?,No. They stole in different ways related to this 120 million.,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+","```json
+{
+    ""belief"": ""The witness directly answers the question about the 120 million, denying that 'they' stole that specific amount. However, they immediately qualify this by admitting that 'they' stole in *other* ways related to that amount. This is a strategic move. It avoids a direct 'yes' to a potentially damaging specific accusation, but still maintains consistency with their earlier admission of 'we' stealing. The qualification opens up new avenues for the defense to explore, but the direct 'No' to the specific question prevents a direct hit for the questioner on *that particular* point. Therefore, the witness manages to avoid a direct trap while still being forthcoming about related wrongdoing."",
+    ""Commitment_value"": 2,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 1,
+    ""manner_rate"": 1,
+    ""outcome_value"": ""Witness"",
+    ""outcome_reason"": 1
+}
+```","Alright, here's how I'm evaluating this witness's response in my head. The question is: did *they* steal that 120 million? The response is ""No, they stole in different ways related to this 120 million.""
+
+First, I need to gauge the witness's commitment.  They are directly answering the question, ""No"". That is *very* clear, and the primary objective is to deny guilt in relation to that specific question. They're trying to avoid a damaging admission. It's a ""Beneficial commitment"" because it avoids a direct confession, at least for now. The follow-up, ""They stole in different ways,"" is a bit of a concession. The nuance is important.
+
+Next, truthfulness.  I have to assume they are being truthful unless I have evidence to the contrary. Nothing in the transcript makes me think they're being deceptive here, so I'm marking it ""Truthful"". They're clarifying what, from their perspective, *did* happen.
+
+Now, consistency.  The question is about *that* 120 million.  They've already admitted to stealing from Enron in the past, along with other senior management. This new response is actually consistent with what they've already said. They're not backpedaling on the *fact* of stealing. They are essentially trying to define the *circumstances* of the 120 million, separating themselves from it directly. It's a ""Consistent"" response.
+
+Finally, relevance. The answer ""No"" *is* directly relevant to the question. And the follow-up? It gives context to how the stealing happened and is therefore relevant to the question of whether that 120 million was stolen. 
+","The witness directly answers the question about the 120 million, denying that 'they' stole that specific amount. However, they immediately qualify this by admitting that 'they' stole in *other* ways related to that amount. This is a strategic move. It avoids a direct 'yes' to a potentially damaging specific accusation, but still maintains consistency with their earlier admission of 'we' stealing. The qualification opens up new avenues for the defense to explore, but the direct 'No' to the specific question prevents a direct hit for the questioner on *that particular* point. Therefore, the witness manages to avoid a direct trap while still being forthcoming about related wrongdoing.",2,1,0,1,1,Witness,1.0,0,0,0,0.0,1,0.0,2.0,1.5,1.2247448713915894,0.5443310539518172,0.3846153846153848,0.6804138174397721
+Q/A,"Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?",Are you asking me?,enron_prosecution_2,"DEFENSE: You want the jury to believe that Mr. Skilling is consumed by greed as you are, right?
+P_WITNESS: I didn't say that, sir. You did.
+
+DEFENSE: I asked you. It's a question. Answer it.
+P_WITNESS: My answer to that question is I spent a lot of time up here already saying that I stole from Enron. I did steal from Enron. We stole from Enron. That was why it was difficult for me when you posed your question to answer directly.
+
+DEFENSE: Who's the ""we""?
+P_WITNESS: Myself and other members of senior management of Enron.
+
+DEFENSE: Did they steal that 120 million?
+P_WITNESS: No. They stole in different ways related to this 120 million.
+
+DEFENSE: Now, you say, ""They stole in different ways,"" other members of senior management. What you're saying is that other members of senior management committed fraud to make their stock go up, then they would sell their stock and get away with the booty that way. That's what you're suggesting, right?
+","```json
+{
+    ""belief"": ""The witness is clearly trying to evade the question. The defense attorney has just laid out a very specific interpretation of the witness's previous statement and is asking for confirmation. The witness's response, 'Are you asking me?', is a classic stalling or deflection tactic. It doesn't answer the question, nor does it directly challenge the premise. It simply throws the ball back to the questioner, indicating an unwillingness to commit or engage with the specific framing of the question."",
+    ""Commitment_value"": 4,
+    ""quality_rate"": 1,
+    ""consistency_value"": 0,
+    ""relevance_rate"": 3,
+    ""manner_rate"": 2,
+    ""outcome_value"": ""Questioner"",
+    ""outcome_reason"": 2
+}
+```","Alright, I'm on the jury now, and the defense just presented a classic leading question designed to trap the witness. My job is to analyze the witness's response in the context of cross-examination and objectively score it within this JSON format.
+
+First, I need to digest the question from the defense. It's a loaded statement, essentially putting words in the witness's mouth, framing their prior testimony in a very specific, accusatory light. ""You're suggesting they committed fraud, right?"" The trap is set.
+
+Then, I turn my attention to the witness’s response: ""Are you asking me?"" Interesting. This is a masterclass in evasion, a tactic I've seen a thousand times.
+
+Now, the properties. Let's see…
+
+*   **Witness commitment level:** Absolutely *no* commitment. The witness dodges the question entirely, essentially refusing to answer. They’re playing it safe, which is what I’d expect in a cross-examination. That's a 4.
+
+*   **Witness truthfulness in current turn:** This one’s a bit nuanced. The statement itself, ""Are you asking me?"" *is* truthful. They *are* asking if they're being asked. It's a lawyerly dodge, but the words are accurate, so I have to give it a 1, even though it’s being used deceptively.
+
+*   **Consistency with previous testimony:** The witness doesn't contradict anything they've previously stated. It’s a holding pattern. They are not adding more information, but avoiding elaborating on previous responses. Therefore, a 0.
+
+*   **Response relevance:** The witness *acknowledges* the question, so it's not completely irrelevant. But it doesn’t actually address the heart of the matter. It deflects and seeks clarification, delaying the cross-examination process. A 3 feels right.
+
+*   **Response clarity:** The sentence structure is clear. However, the purpose of the question is to hedge and evade. It's a strategy, an evasion tactic, designed to buy time or deflect the line of questioning. So, a 2, because while the words are clear, the intent is to obfuscate.
+
+Got it. The analysis is done. Now to populate the JSON.
+","The witness is clearly trying to evade the question. The defense attorney has just laid out a very specific interpretation of the witness's previous statement and is asking for confirmation. The witness's response, 'Are you asking me?', is a classic stalling or deflection tactic. It doesn't answer the question, nor does it directly challenge the premise. It simply throws the ball back to the questioner, indicating an unwillingness to commit or engage with the specific framing of the question.",4,1,0,3,2,Questioner,2.0,1,0,0,-0.2,0,0.5,2.0,2.0,1.2247448713915894,1.224744871391589,1.8129866073473576e-16,4.440892098500626e-16
